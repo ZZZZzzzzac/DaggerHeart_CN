@@ -6,23 +6,6 @@ import os
 
 # --- 从 markdown_to_json_converter.py 复制的函数 ---
 
-def makeup(markdown_text):
-    """
-    修饰 Markdown 文本。
-    任务 1: 将 ![](_filename.ext) 转换为 ![_filename.ext](_filename.ext)
-
-    参数:
-        markdown_text (str): 输入的 Markdown 文本。
-
-    返回:
-        str: 修饰后的 Markdown 文本。
-    """
-    # 任务 1: 修复图片语法
-    modified_text = re.sub(r'!\[\]\((.*?)\)', r'![\1](\1)', markdown_text)
-
-    # TODO: 在此添加后续的修饰逻辑
-    return modified_text
-
 def md2json(markdown_filepath):
     """
     读取 Markdown 文件，按标题分割其内容，并将其构造成一个字典列表。
@@ -70,7 +53,6 @@ def md2json(markdown_filepath):
 
         # 提取片段的原始内容。
         original_content_for_section = content[start_index:end_index]
-        original_content_for_section = makeup(original_content_for_section) # 应用修饰
 
         sections.append({
             "key": section_key,

@@ -1,15 +1,13 @@
-[
-    [    
-    {
-      "key": "KEY 键值",
-      "original": "source text 原文",
-      "translation": "translation text 译文",
-      "context": "Context 上下文 (for info)"
-    },
-    {
-      "key": "KEY 键值 2",
-      "original": "source text 原文 2",
-      "translation": "translation text 译文 2"
-    }
-    ]
+[        
+  {
+    "key": "KEY 键值",
+    "original": "source text 原文",
+    "translation": "translation text 译文",
+    "context": "Context 上下文 (for info)"
+  },
+  {
+    "key": "KEY 键值 2",
+    "original": "source text 原文 2",
+    "translation": "translation text 译文 2"
+  }    
 ]
