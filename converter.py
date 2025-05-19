@@ -3,21 +3,31 @@ import argparse
 import json
 import re
 import os
+from tqdm import tqdm # 用于显示进度条
+import sys # 用于在 API Key 未设置时退出 (llm.py 中会处理)
+import llm # 导入新的 llm 模块
+from collections import deque # 用于 summary_context
+
+# --- 常量定义 ---
+MAX_SUMMARY_CONTEXT_ITEMS = 3 # summary_prompt 保留最近 X 次翻译的原文数量
+TERMS_GLOSSARY = {"Bard": "吟游诗人"} # terms_prompt 的固定术语表
 
 # --- 从 markdown_to_json_converter.py 复制的函数 ---
 
-def md2json(markdown_filepath):
+def md2json(markdown_filepath, translate=False):
     """
     读取 Markdown 文件，按标题分割其内容，并将其构造成一个字典列表。
+    如果启用了翻译功能，则会尝试翻译每个片段的原始内容，并利用上下文信息。
 
     每个字典代表一个以标题开头的片段，并包含：
     - key: 片段的唯一标识符 (例如, "SECTION_1")。
     - original: 片段的完整原始 Markdown 内容，包括标题。
-    - translation: 一个空字符串，用于翻译的占位符。
-    - context: 一个空字符串，用于上下文的占位符。
+    - translation: 如果启用了翻译并且成功，则为翻译后的内容；否则为空字符串。
+    - context: 一个空字符串，用于上下文的占位符。(此字段在此版本中未被积极使用，但保留结构)
 
     参数:
         markdown_filepath (str): 输入的 Markdown 文件路径。
+        translate (bool): 如果为 True，则启用翻译功能。
 
     返回:
         list: 代表这些片段的字典列表，如果发生错误则返回 None。
@@ -33,33 +43,71 @@ def md2json(markdown_filepath):
         return None
 
     sections = []
-    # 用于查找 markdown 标题的正则表达式 (例如, # 标题, ## 子标题)。
-    # 它匹配以 1 到 6 个 '#' 字符开头，后跟一个空格和文本的行。
     header_pattern = re.compile(r"^(#{1,6}\s+.*)$", re.MULTILINE)
-
-    # 在内容中查找所有标题匹配项。
     matches = list(header_pattern.finditer(content))
 
-    # 遍历找到的标题以定义片段。
-    for i, match in enumerate(matches):
-        section_key = f"SECTION_{i + 1}"
-        start_index = match.start()
+    # 根据是否启用翻译来确定迭代器和描述
+    iterable_desc = "处理并翻译片段" if translate else "处理片段"
+    iterable = tqdm(enumerate(matches), total=len(matches), desc=iterable_desc) if matches else enumerate(matches)
 
-        # 确定当前片段的结束索引。
+    current_title_hierarchy = [""] * 6 # 用于 title_context, 索引 0-5 对应 H1-H6
+    recent_translation_pairs = deque(maxlen=MAX_SUMMARY_CONTEXT_ITEMS) # 用于 summary_context，存储 {"原文": "...", "译文": "..."}
+    terms_context_str = json.dumps(TERMS_GLOSSARY, ensure_ascii=False) # terms_prompt
+
+    for i, match in iterable:
+        section_key = f"SECTION_{i + 1}"
+        current_header_line = match.group(1).strip()
+        header_level = current_header_line.count('#') # 1-based (1 to 6)
+        
+        # 更新当前级别的标题
+        current_title_hierarchy[header_level - 1] = current_header_line
+       
+
+        title_context_str = "\n".join(current_title_hierarchy[:header_level])
+
+        start_index = match.start()
         if i + 1 < len(matches):
             end_index = matches[i + 1].start()
         else:
             end_index = len(content)
 
-        # 提取片段的原始内容。
-        original_content_for_section = content[start_index:end_index]
+        original_content_for_section = content[start_index:end_index].strip()
+        translated_text = ""
+
+        if translate:
+            if not original_content_for_section.strip():
+                print(f"警告: 片段 '{section_key}' 内容为空，跳过翻译。")
+            else:
+                # 构建 summary_context 的 JSON 字符串
+                summary_list_for_context = list(recent_translation_pairs)
+                summary_context_str = json.dumps(summary_list_for_context, ensure_ascii=False) if summary_list_for_context else "[]"
+
+                translated_text = llm.translate_text(
+                    text_to_translate=original_content_for_section,
+                    # to_lang 默认为 "简体中文" 在 llm.py 中处理
+                    title_context=title_context_str,
+                    summary_context=summary_context_str,
+                    terms_context=terms_context_str
+                )
+                
+                if not translated_text:
+                     print(f"信息: 片段 '{section_key}' 未能成功翻译或返回空结果。")
+                
+                # 更新最近翻译对列表
+                # 即使翻译失败，translated_text 也会是空字符串，符合预期
+                recent_translation_pairs.append({"原文": original_content_for_section, "译文": translated_text if translated_text else ""})
 
         sections.append({
             "key": section_key,
-            "original": original_content_for_section.strip(), # 去除末尾可能多余的空白
-            "translation": "",
-            "context": ""
+            "original": original_content_for_section,
+            "translation": translated_text,
+            "context": "" # 保留字段
         })
+
+    if translate and not matches:
+        print("没有找到可供翻译的 Markdown 片段。")
+    elif not matches:
+        print("没有找到 Markdown 片段。")
 
     return sections
 
@@ -115,11 +163,16 @@ def main():
     并将输出保存到新文件中。
     """
     parser = argparse.ArgumentParser(
-        description="根据文件扩展名将 Markdown 文件转换为 JSON 或将 JSON 文件转换为 Markdown。"
+        description="根据文件扩展名将 Markdown 文件转换为 JSON 或将 JSON 文件转换为 Markdown。可选翻译功能。"
     )
     parser.add_argument(
         "input_file",
         help="输入的 Markdown (.md) 或 JSON (.json) 文件路径。"
+    )
+    parser.add_argument(
+        "--translate",
+        action="store_true",
+        help="启用翻译功能 (仅当输入为 .md 文件时有效)。"
     )
     args = parser.parse_args()
 
@@ -130,7 +183,7 @@ def main():
     if extension == ".md":
         # Markdown 到 JSON 的转换
         output_json_filepath = input_filepath + ".json"
-        processed_data = md2json(input_filepath)
+        processed_data = md2json(input_filepath, translate=args.translate)
 
         if processed_data is not None:
             try:
