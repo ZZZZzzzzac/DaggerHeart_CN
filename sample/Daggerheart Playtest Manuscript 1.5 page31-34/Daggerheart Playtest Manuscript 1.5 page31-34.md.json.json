@@ -1,0 +1,154 @@
+[
+ {
+  "id": 668642823,
+  "key": "SECTION_1",
+  "original": "# Reading Domain Cards\n\nDuring step 8 of character creation and as your character levels up, you'll gain increasingly powerful domain cards, which provide abilities and spells you can utilize during your adventures.\n\nSome domain cards provide moves you can make (see \"On your Turn\" in chapter 2), like a unique attack or a spell you cast. Others offer passive benefits (which always apply while you hold that card), new abilities during downtime or social encounters, or even one-time benefits.\n\nEach card includes five elements:\n\nLevel and Domain. The top left of the card indicates the card's level, followed by its domain symbol. You can only choose domain cards of your level or lower.\n\n- Recall Cost. The top right of the card lists a number next to a lightning bolt symbol. This is the card's Recall Cost. This won't affect you at character creation, but once you reach level 5, you'll have more cards than you do space in your loadout (your set of active cards). When you want to move an inactive card from your vault to your loadout, you'll either need to do so during downtime, or mark the number of Stress indicated on the card to swap it immediately. See \"Domain Cards\" in chapter 2 for more details on using your loadout and vault.\n- Type. Right above the card's title, the center of the card states its type. . There are three types of domain cards: abilities, spells, and grimoires. Abilities are typically mundane in nature, while Spells are magical in nature. Grimoires are unique to the Codex domain and are a collection of smaller spells bundled together. Some game mechanics only apply to one of these types of cards.\n\nEffect. The text on the bottom half of the card describes its effect, including any special rules you need to follow when you use that card.\n\n![](_page_0_Picture_8.jpeg)\n\nI SEE IT COMING When you are targeted by an attack coming from beyond melee range, mark a Stress to roll a d4\nand increase your Evasion against this attack by its value.\n\n[Artist Name TK\n\nFor details on using domain cards, see the \"Domain Cards\" section of chapter 2.",
+  "translation": "# 阅读领域卡\n\n在角色创建的第8步以及角色升级时，你将获得越来越强大的领域卡，它们提供你在冒险中可以使用的能力和法术。\n\n有些领域卡提供你可以执行的行动（参见第2章中的“你的回合”），例如独特的攻击或你施放的法术。其他领域卡则提供被动增益（在你持有该卡时始终生效）、在休息时间或社交遭遇中的新能力，甚至是一次性增益。\n\n每张卡包含五个要素：\n\n等级和领域。卡牌左上方标明了卡牌的等级，后面是其领域符号。你只能选择等级等于或低于你当前等级的领域卡。\n\n- 回想费用。卡牌右上角有一个数字，旁边是闪电符号。这是卡牌的“回想费用”。这在角色创建时不会影响你，但一旦你达到5级，你的卡牌数量会超过你在配置（你当前激活的卡牌组）中的槽位。当你想将一张非激活的卡牌从你的宝库移入你的配置时，你需要在休息时间进行，或者标记卡牌上所示的压力点数以立即进行交换。有关使用你的配置和宝库的更多详细信息，请参阅第2章中的“领域卡”。\n- 类型。在卡牌标题正上方，卡牌中心标明了它的类型。领域卡有三种类型：能力、法术和法典。能力通常是普通性质的，而法术是魔法性质的。法典是法典（Codex）领域独有的，是一系列较小法术的集合。某些游戏机制只适用于这些卡牌类型中的一种。\n\n效果。卡牌下半部分的文本描述了它的效果，包括你在使用该卡牌时需要遵循的任何特殊规则。\n\n![](_page_0_Picture_8.jpeg)\n\n我预见到了（I SEE IT COMING） 当你成为来自近战范围之外的攻击的目标时，标记1点压力点，掷一个d4并增加你对抗此攻击的闪避值，数值等于掷骰结果。\n\n[艺术家姓名 待定]\n\n有关使用领域卡的详细信息，请参阅第2章中的“领域卡”部分。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642824,
+  "key": "SECTION_2",
+  "original": "# Class\n\nDuring character creation, you'll choose one of this section, along with one of its subclasses. Your chosen class grants the following features:\n\n- Domains. Each class lists which two domains serve as the basis for its abilities. This determines which domain decks you can choose cards from during character creation and when leveling up.\n- Starting Evasion Score. Each class has its own starting Evasion\"). When the GM makes an attack roll against you, this is the number they need to meet or beat in order to hit.\n- Damage Threshold. Each class has a unique Damage Threshold (see \"Damage Thresholds and Hit Points\" in chapter 2). These determine how strong your class is against incoming attacks.\n\nClass Items. Each class has a unique set of items they begin the game with.\n\nClass Feature. Each class has a unique move (or set of moves) you can utilize during play.\n\nUnique Hope Feature. Each class has a special move they can use by spending three Hope. These are named for the class, a la \"Bard's Hope\".\n\nYour chosen subclass grants the following features:\n\nSpellcast Trait. If you're a spellcaster, this is the character trait your subclass uses any time you're required to make a spellcast roll.\n\nFoundation Feature. This feature is the unique move you gain from your subclass's Foundation card.\n\nSpecialization Feature. As you gain levels, you'll have a chance to choose your subclass's Specialization card, gaining a unique move (or set of moves) from it.\n\nMastery Feature. As you gain levels, you'll have a chance to choose your subclass's Mastery card, gaining a unique move (or set of moves) from it.\n\n![](_page_0_Picture_24.jpeg)\n\n31",
+  "translation": "# 职业\n\n在角色创建过程中，你将选择本节中的一个职业及其一个子职业。你所选择的职业提供以下特性：\n\n- 领域。每个职业都列出了作为其能力基础的两个领域。这决定了你在角色创建和升级时可以从哪些领域牌组中选择卡牌。\n- 初始闪避值。每个职业都有自己的初始闪避值（参见第2章中的“闪避”）。当GM对你进行攻击掷骰时，这是他们需要达到或超过才能命中的数值。\n- 伤害阈值。每个职业都有一个独特的伤害阈值（参见第2章中的“伤害阈值和生命点”）。这些决定了你的职业在面对来袭攻击时的强度。\n\n职业物品。每个职业都有一套独特的游戏起始物品。\n\n职业特性。每个职业都有一项独特的行动（或一组行动），你可以在游戏中利用。\n\n独特的希望特性。每个职业都有一项特殊的行动，可以通过花费三个希望点来使用。这些特性以职业名称命名，例如“吟游诗人的希望”。\n\n你所选择的子职业提供以下特性：\n\n施法属性。如果你是施法者，这是你的子职业在需要进行施法掷骰时使用的角色属性。\n\n基础特性。此特性是你从子职业的基础卡中获得的独特行动。\n\n专精特性。随着等级提升，你将有机会选择子职业的专精卡，并从中获得独特的行动（或一组行动）。\n\n精通特性。随着等级提升，你将有机会选择子职业的精通卡，并从中获得独特的行动（或一组行动）。\n\n![](_page_0_Picture_24.jpeg)\n\n31",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642825,
+  "key": "SECTION_3",
+  "original": "#### Bard\n\nThose who become bards are truly the most charismatic members of this class are masters of captivation and may specialize in any of a variety of performance types, including: singing, playing musical instruments, weaving tales, or telling jokes. Whether performing to an audience or speaking to an individual, bards will excel. There are many schools and guilds where members of this profession come together to bond and train, but there is a fair amount of ego within those of the bardic persuasion. While they may be the most likely to bring people together, a bard of ill temper can just as easily tear a party apart.\n\nDOMAINS\n\nGrace & Codex\n\nSTARTING EVASION SCORE\n\ng\n\nDAMAGE THRESHOLDS\n\nMajor 6, Severe 12\n\nCLASS ITEMS\n\nA Romance Novel or a Letter Never Opened",
+  "translation": "#### 吟游诗人\n\n那些成为吟游诗人的人确实是这个职业中最具魅力的成员，他们是迷人的大师，可能专注于各种表演类型，包括：唱歌、演奏乐器、编织故事或讲笑话。无论是在观众面前表演还是与个人交谈，吟游诗人都将表现出色。有许多学校和行会聚集了该职业的成员，以便建立联系和训练，但在那些吟游诗人说服力强的人中存在相当程度的自我。虽然他们最有可能将人们聚集在一起，但脾气暴躁的吟游诗人也同样容易让团队分裂。\n\n领域\n\n优雅（Grace）与法典（Codex）\n\n初始闪避值\n\ng\n\n伤害阈值\n\n损伤 6，重伤 12\n\n职业物品\n\n一本浪漫小说或一封从未打开的信",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642826,
+  "key": "SECTION_4",
+  "original": "#### BARD'S HOPE\n\nWhen you or an ally Close to you makes a Presence roll and either succeeds with Fear or fails, spend three Hope to negate that roll's consequences by intervening.",
+  "translation": "#### 吟游诗人的希望\n\n当你或你近距离范围内的盟友进行一次风度掷骰，并且骰出恐惧结果的成功或失败时，花费三点希望来介入并抵消该掷骰的后果。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642827,
+  "key": "SECTION_5",
+  "original": "#### CLASS FEATURE",
+  "translation": "#### 职业特性",
+  "stage": 5,
+  "context": ""
+ },
+ {
+  "id": 668642828,
+  "key": "SECTION_6",
+  "original": "#### Rally\n\nOnce per session as your party prepares to enter a dangerous or difficult situation, describe how you rally them and give yourself and each of your allies a d6 Rally die can spend it to roll it, adding the result to an action roll, reaction roll, or damage roll, or clearing Stress equal to the Rally die result.\n\nAt the end of each session, all unspent Rally dice are cleared. The Rally die you distribute increases to 1d8 at level 5.",
+  "translation": "#### 鼓舞\n\n每场游戏一次，当你的队伍准备进入危险或困难的境地时，描述你如何鼓舞他们，并给你自己和你的每个盟友一个d6的鼓舞骰。他们可以花费它来掷骰，将结果加到一次动作掷骰、反应掷骰或伤害掷骰中，或者清除等同于鼓舞骰结果的压力点。\n\n在每场游戏结束时，所有未花费的鼓舞骰都会被清除。你在5级时分发的鼓舞骰会增加到1d8。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642829,
+  "key": "SECTION_7",
+  "original": "### BARD SUBCLASSES\n\nIf you're creating a bard, choose either the Wordsmith or Troubadour subclass.",
+  "translation": "### 吟游诗人子职业\n\n如果你正在创建一名吟游诗人，选择“文字匠”或“游吟诗人”子职业。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642830,
+  "key": "SECTION_8",
+  "original": "#### Wordsmith\n\nPlay the Wordsmith if you want to be persuasive and powerful using clever wordplay. Spellcast Trait: Presence",
+  "translation": "#### 文字匠\n\n如果你想通过巧妙的文字游戏来变得有说服力和强大，就扮演文字匠吧。施法属性：风度",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642831,
+  "key": "SECTION_9",
+  "original": "#### Foundation Features\n\nHeart of a Poet: When speaking to a person you're trying to impress, persuade, or offend, you can spend Hope and add 1d4 to the action roll against them.\n\nRousing Speech: Once per long rest, you can action to give a heartfelt, inspiring speech. All allies who can hear you clear two Stress.\n\n![](_page_1_Picture_23.jpeg)\n\n32",
+  "translation": "#### 基础特性\n\n诗人之心：当你与一个你试图打动、说服或冒犯的人交谈时，你可以花费希望点并为对抗他们的动作掷骰增加1d4。\n\n振奋人心的演讲：每次长休息一次，你可以行动进行一次真诚、鼓舞人心的演讲。所有能听到你演讲的盟友都会清除两点压力。\n\n![](_page_1_Picture_23.jpeg)\n\n32",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642832,
+  "key": "SECTION_10",
+  "original": "#### Specialization Feature\n\nYou know your moving words can boost the morale of the group. Once per session, when you use your skills as a linguist to encourage or exhort an ally, you can do one of the following:\n\n- •\n- · Help an Ally without spending Hope.\n- Give them an additional downtime move during a rest.",
+  "translation": "#### 专精特性\n\n你知道你感人的言语可以提升队伍的士气。每场游戏一次，当你运用你作为语言学家的技能来鼓励或劝诫盟友时，你可以执行以下一项：\n\n- •\n- · 帮助一名盟友，无需花费希望点。\n- 在休息期间给予他们一个额外的休息行动。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642833,
+  "key": "SECTION_11",
+  "original": "#### Mastery Feature\n\nThe Rally die you distribute increases to a d10.\n\nIn addition, whenever you Help an Ally, if you narrate the moment as if you were writing the tale of their heroism in a memoir, your advantage die to help them is a d10.",
+  "translation": "#### 精通特性\n\n你分发的集结骰增加至一个d10。\n\n此外，每当你帮助一名盟友时，如果你将这一刻描述得仿佛是在一本回忆录中书写他们的英雄事迹，你帮助他们的优势骰将是一个d10。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642834,
+  "key": "SECTION_12",
+  "original": "#### Troubadour\n\nPlay the Troubadour if you want to play music to bolster your allies. Spellcast Trait: Presence",
+  "translation": "#### 游吟诗人\n\n如果你想通过演奏音乐来增强你的盟友，就扮演游吟诗人。施法属性：风度",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642835,
+  "key": "SECTION_13",
+  "original": "#### Foundation Feature\n\nWhen you take this Foundation, describe what instrument you are practiced in. You can use an action to perform each song once per long rest:\n\n- When you play a relaxing song, you and any Close allies heal 1 Hit Point.\n- · When you play an epic song, make a Close target temporarily Vulnerable.\n- · When you play a heartbreaking song, you and any Close allies take a Hope.",
+  "translation": "#### 基础特性\n\n当你选择此基础时，描述你擅长哪种乐器。每次长休，你可以使用一个动作演奏以下每首歌曲一次：\n\n- 当你演奏一首轻松的歌曲时，你和任意邻近盟友恢复 1 点生命值。\n- · 当你演奏一首史诗歌曲时，使一个邻近目标暂时变为脆弱。\n- · 当你演奏一首令人心碎的歌曲时，你和任意邻近盟友获得一个希望点。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642836,
+  "key": "SECTION_14",
+  "original": "### Specialization Feature\n\nYour rallying songs also help steel the courage of those who listen. Anybody who receives a Rally die from you via your Rally ability can also choose to either gain a Hope or clear a Stress.",
+  "translation": "### 专精特性\n\n你的集结歌曲也能帮助坚定听者的勇气。任何通过你的“集结”能力获得集结骰的人，也可以选择获得一个希望点或清除一个压力点。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642837,
+  "key": "SECTION_15",
+  "original": "### Mastery Feature\n\nYour craft rivals the greats, your skill and creativity unbounded. You can perform each of your Foundation songs an additional time per long rest.",
+  "translation": "### 精通特性\n\n你的技艺可与大师媲美，你的技巧和创造力无限。每次长休，你可以额外演奏你的基础歌曲一次。",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642838,
+  "key": "SECTION_16",
+  "original": "## BACKGROUND QUESTIONS\n\nAnswer the following background questions or make your own.\n\n- · Who from your community taught you to have such confidence in yourself?\n- You were in love once. Who was it with, and how did they hurt you?\n- · You've always looked up to another bard. Who are they and why do you idolize them?",
+  "translation": "## 背景问题\n\n回答以下背景问题或自行设定。\n\n- · 你社区里的谁教会了你如此自信？\n- 你曾经爱过一个人。他是谁，他们又是如何伤害了你？\n- · 你一直仰慕另一位吟游诗人。他们是谁，你为何如此崇拜他们？",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642839,
+  "key": "SECTION_17",
+  "original": "### CONNECTIONS\n\n- · What made you realize we were going to be such good friends?\n- What do I do that annoys you?\n- Why do you grab my hand at night?\n\n![](_page_2_Picture_28.jpeg)",
+  "translation": "### 联系\n\n- · 是什么让你意识到我们会成为这么好的朋友？\n- 我做什么事让你心烦？\n- 你为什么晚上要抓着我的手？\n\n![](_page_2_Picture_28.jpeg)",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642840,
+  "key": "SECTION_18",
+  "original": "#### LEVEL UP OPTIONS\n\n![](_page_3_Picture_1.jpeg)",
+  "translation": "#### 升级选项\n\n![](_page_3_Picture_1.jpeg)",
+  "stage": 1,
+  "context": ""
+ },
+ {
+  "id": 668642841,
+  "key": "SECTION_19",
+  "original": "#### Druid\n\nBecoming a druid is more than an occupation, it's a calling to those who wish to learn from and protect the magic of the wilderness. Those druids who practice the often quiet work of channeling flora are likely to be underestimated; while those who channel the brutal forces of animals may be a terrifying thing to behold. Druids are known to cultivate in small groups, often connected by a specific ethos or locale. Through years of study and dedication, druids can learn to transform into beasts and shape the earth and all its organisms.\n\nDOMAINS\n\nSage & Arcana\n\nSTARTING EVASION SCORE\n\n8\n\nDAMAGE THRESHOLDS\n\nMajor 7, Severe 14\n\nCLASS ITEMS\n\nA Small Bag of Rocks & Bones OR a Strange Pendant Found in the Dirt\n\nDRUID'S HOPE\n\nSpend three Hope while in Beastform to increase your damage thresholds by +3 until you drop the form.\n\n![](_page_3_Picture_14.jpeg)",
+  "translation": "#### 德鲁伊\n\n成为德鲁伊不仅仅是一种职业，更是对那些渴望学习和保护荒野魔法者的召唤。那些从事通常安静工作的、引导植物力量的德鲁伊常常会被低估；而那些引导动物 brutal 力量的德鲁伊则可能令人恐惧。德鲁伊通常以小型群体进行修行，这些群体往往因特定的理念或地点而联系在一起。通过多年的学习和奉献，德鲁伊可以学会变形为野兽，并塑造大地及其所有生物。\n\n领域\n\n贤者 & 奥术\n\n起始闪避值\n\n8\n\n伤害阈值\n\n损伤 7，重伤 14\n\n职业物品\n\n一小袋石头和骨头 或 一个在泥土中发现的奇怪吊坠\n\n德鲁伊的希望\n\n在野兽形态下花费三点希望，使你的伤害阈值提高 +3，直到你解除该形态。\n\n![](_page_3_Picture_14.jpeg)",
+  "stage": 1,
+  "context": ""
+ }
+]

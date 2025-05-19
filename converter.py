@@ -8,9 +8,33 @@ import sys # 用于在 API Key 未设置时退出 (llm.py 中会处理)
 import llm # 导入新的 llm 模块
 from collections import deque # 用于 summary_context
 
+def load_terms_from_json(json_filepath):
+    """
+    从指定的 JSON 文件加载术语表。
+    JSON 文件应该是一个对象列表，每个对象包含 "term" 和 "translation" 键。
+    """
+    glossary = {}
+    try:
+        with open(json_filepath, 'r', encoding='utf-8') as f:
+            terms_data = json.load(f)
+        if isinstance(terms_data, list):
+            for item in terms_data:
+                if isinstance(item, dict) and "term" in item and "translation" in item:
+                    glossary[item["term"]] = item["translation"]
+                else:
+                    print(f"警告: 在 {json_filepath} 中找到格式不正确或缺少键的术语条目: {item}")
+        else:
+            print(f"错误: {json_filepath} 的顶层结构不是预期的列表格式。")
+    except FileNotFoundError:
+        print(f"错误: 术语文件未找到于 {json_filepath}")
+    except json.JSONDecodeError:
+        print(f"错误: 术语文件 {json_filepath} 不是有效的 JSON 格式。")
+    except Exception as e:
+        print(f"加载术语文件 {json_filepath} 时出错: {e}")
+    return glossary
 # --- 常量定义 ---
 MAX_SUMMARY_CONTEXT_ITEMS = 3 # summary_prompt 保留最近 X 次翻译的原文数量
-TERMS_GLOSSARY = {"Bard": "吟游诗人"} # terms_prompt 的固定术语表
+TERMS_GLOSSARY = load_terms_from_json('sample/terms-14448.json') # terms_prompt 的固定术语表
 
 # --- 从 markdown_to_json_converter.py 复制的函数 ---
 
