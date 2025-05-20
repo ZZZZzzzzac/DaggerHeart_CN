@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["sample/Daggerheart Playtest Manuscript 1.5 page31-34/Daggerheart Playtest Manuscript 1.5 page31-34.md", "--translate"]
+            "args": ["release/Daggerheart_Core_Rulebook-5-20-2025/Daggerheart_Core_Rulebook-5-20-2025.md"]
         }
     ]
 }

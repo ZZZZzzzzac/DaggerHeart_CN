@@ -81,7 +81,12 @@ def md2json(markdown_filepath, translate=False):
     for i, match in iterable:
         section_key = f"SECTION_{i + 1}"
         current_header_line = match.group(1).strip()
-        header_level = current_header_line.count('#') # 1-based (1 to 6)
+        header_match = re.match(r'^(#+)', current_header_line)
+        header_level = len(header_match.group(1)) if header_match else 0
+        # header_level = current_header_line.count('#') # 1-based (1 to 6)
+        # only count first "#" until the first space
+        # header_level = current_header_line.find(' ')
+
         
         # 更新当前级别的标题
         current_title_hierarchy[header_level - 1] = current_header_line
