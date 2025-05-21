@@ -12,7 +12,7 @@
 
 **ADDITIONAL GAME DESIGNERS:** Carlos Cisco, Rowan Hall, John Harper, Matthew Mercer, Alex Uboldi, Mike Underwood
 
-**ADDITIONAL WRITING:** Layla Adelman, Meguey Baker, Banana Chan, Chris Davidson, Rue Dickey, Felix Isaacs, Erin Roberts, Deven Rue, Rogan Shannon, Mark Thompson, Eugenio Vargas, Chris Willett
+**ADDITIONAL WRITING:** Layla Adelman, Meguey Baker, Banana Chan, Chris Davidson, Rue Dickey, Felix Isaacs安全工具, Erin Roberts, Deven Rue, Rogan Shannon, Mark Thompson, Eugenio Vargas, Chris Willett
 
 **DEVELOPMENTAL EDITORS:** Laura Hirsbrunner, Amber Litke, Sadie Lowry **ADDITIONAL EDITORS:** Ashley Michaela "Navigator" Lawson, Scott Gray, Sebastian Yūe
 
