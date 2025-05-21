@@ -4,9 +4,7 @@
 
 ![](_page_0_Picture_2.jpeg)
 
-![](_page_1_Picture_0.jpeg)
-
-▵
+![](_page_1_Picture_0.jpeg
 
 ## DAGGERHEART TEAM
 
