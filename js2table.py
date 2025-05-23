@@ -84,11 +84,43 @@ def to_markdown_table(data_list, table_name):
     df = df.loc[:, df.columns != "属性"]
     df.rename(columns={"检定": "属性"}, inplace=True)
 
-    if df.empty: # Check again after removing "原名"
+    # Apply formatting to specific columns
+    if "阈值" in df.columns:
+        df["阈值"] = df["阈值"].apply(lambda x: ' / '.join(x) if isinstance(x, list) and all(isinstance(i, str) for i in x) else x)
+
+    if "名称" in df.columns:
+        df["名称"] = df["名称"].apply(lambda x: f"**{x}**" if pd.notna(x) and str(x).strip() else "")
+
+    if "特性" in df.columns:
+        def format_feature(feature_text):
+            if pd.isna(feature_text) or not isinstance(feature_text, str):
+                return ""
+            
+            feature_text = feature_text.replace(":","：")
+            parts = []
+            for line in feature_text.splitlines(): # Handles existing \n
+                line = line.strip()
+                if not line: # Skip empty lines that might result from splitlines
+                    continue
+                if "：" in line:
+                    name, desc = line.split("：", 1)
+                    parts.append(f"**{name.strip()}：**{desc.strip()}")
+                else:
+                    parts.append(line)
+            return "\n".join(parts) # Join with \n, pandas to_markdown should handle this
+
+        df["特性"] = df["特性"].apply(format_feature)
+    
+    # Removed "描述" column special formatting for <br> as per user feedback.
+    # If \n is already in "描述" data, to_markdown should handle it.
+
+    
+
+    if df.empty: # Check again after data manipulation
         return f"##### Table {table_name}\n\n_No data to display after filtering columns._\n"
 
     # Generate the table using pandas
-    raw_markdown_table = df.to_markdown(index=False)
+    raw_markdown_table = df.to_markdown(index=False) # Default tablefmt handles \n in cells
     
     # Split the raw markdown table into lines
     lines = raw_markdown_table.split('\n')
@@ -102,7 +134,7 @@ def to_markdown_table(data_list, table_name):
         col_name_str = str(column_name)
         if col_name_str in fixed_widths:
             width = fixed_widths[col_name_str]
-            new_header_parts.append(f'<div style="width:{width}px">{col_name_str}</div>')
+            new_header_parts.append(f'<div style="width:{width}px;text-align:center">{col_name_str}</div>')
         else:
             new_header_parts.append(col_name_str)
             
