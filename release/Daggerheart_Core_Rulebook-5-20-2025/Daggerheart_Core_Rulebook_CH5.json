@@ -747,7 +747,7 @@
   "id": 669702059,
   "key": "SECTION_1628",
   "original": "<span id=\"page-270-0\"></span># BEAST FEAST\n\n*When a small village's monster defense system fails, the local heroes must venture into the endless caverns below to fix it—and cook up trouble for the creatures that stand in their way!* Designed by Banana Chan, Rowan Hall, & Spenser Starke\n\n## Complexity Rating: ••",
-  "translation": "<span></span># 野兽饭\n\n*小村落的怪物防御系统失灵了！勇敢的土著英雄们必须闯入村落下方的无尽洞窟来修复这一防护——一路上，治怪物如烹小鲜！*由 Banana Chan、Rowan Hall 和 Spenser Starke 设计\n\n## 复杂度评级: ••",
+  "translation": "<span></span># 野兽饭\n\n*保护村子免受怪物威胁的防护手段正在失效！当地的勇者们必须闯入村子底下的无尽洞窟来扭转乾坤，顺便，一路上治怪物如烹小鲜！*\n\n由 Banana Chan、Rowan Hall 和 Spenser Starke 设计\n\n## 复杂度评级: ••",
   "stage": 1,
   "context": "<span></span># 野兽盛宴\n\n*当一个小村庄的怪物防御系统失灵时，当地的英雄们必须冒险进入下面的无尽洞穴来修复它——并为挡路的生物制造麻烦！*由 Banana Chan、Rowan Hall 和 Spenser Starke 设计\n\n## 复杂度评级: ••"
  },
@@ -755,7 +755,7 @@
   "id": 669702060,
   "key": "SECTION_1629",
   "original": "## THE PITCH\n\n*Read this section to your players to introduce them to the campaign.*\n\nThe rustic, peaceful village of Elmore sits atop the Plover Caves, a labyrinthine system of caverns full of dangerous and delectable creatures. When the powerful magic keeping the villagers safe begins to fail, the bravest among them must descend into the caves to save the day. In a Beast Feast campaign, you'll play everyday heroes diving into the Plover Caves to reignite the magic lure that lies in its depths—and cook up delicious meals. Welcome to a culinary world of zoophagous delight, where the beasts you fight become the food you eat!",
-  "translation": "## 战役介绍\n\n*将这部分内容读给你的玩家听，向他们简要介绍本次战役。*\n\n古朴宁静的爱莫村坐落在如迷宫般复杂的鸻鸟洞穴之上。洞穴里充满着各种各样危险而美味的生物。然而有一天，长久以来保护着村落的强大魔法开始失效，村民中最勇敢的人必须深入洞穴，解决麻烦，拯救大家！在“野兽饭”战役中，你将扮演一名平民英雄，深入鸻鸟洞穴，重新激活深埋其中的魔诱核——并把任何挡路的怪物都做成美味佳肴！欢迎来到要么吃要么被吃的美食世界，把那些手下败将变成盘中美食吧！",
+  "translation": "## 简介\n\n*将这部分内容读给你的玩家听，向他们简要介绍本次战役。*\n\n古朴宁静的爱莫村坐落在如迷宫般复杂的鸻鸟洞穴之上。洞穴里充满着各种各样危险而美味的生物。然而有一天，长久以来保护着村落的强大魔法开始失效，村民中最勇敢的人必须深入洞穴，解决麻烦，拯救大家！在“野兽饭”战役中，你将扮演一名平民英雄，深入鸻鸟洞穴，重新激活深埋其中的魔诱核——并把任何挡路的怪物都做成美味佳肴！欢迎来到要么吃要么被吃的美食世界，把那些手下败将变成盘中美食吧！",
   "stage": 1,
   "context": "## 战役介绍\n\n*将本部分读给你的玩家听，向他们介绍本次战役。*\n\n埃尔莫尔村庄古朴宁静，坐落在鸻鸟洞穴之上。这是一个迷宫般的洞穴系统，里面充满了危险而美味的生物。当守护村民的强大魔法开始失效时，他们中最勇敢的人必须深入洞穴，拯救大家。在“野兽盛宴”战役中，你将扮演平凡的英雄，潜入鸻鸟洞穴，重新点燃深埋其中的魔法诱饵——并烹饪出美味佳肴。欢迎来到一个食肉者的美食世界，在这里，你与之战斗的野兽，将成为你盘中的食物！"
  },
@@ -2075,8 +2075,8 @@
   "id": 669702243,
   "key": "SECTION_1812",
   "original": "<span id=\"page-308-0\"></span>*A prosperous region of gunslingers and outlaws has fallen into terror as colossal creatures awaken from beneath the earth.*\n\nDesigned by Carlos Cisco, Rowan Hall, Spenser Starke, & Mike Underwood\n\n## Complexity Rating: ••••",
-  "translation": "",
-  "stage": 0,
+  "translation": "<span></span># 旱土巨像\n\n*这片任由快枪手与亡命徒驰骋的流金之地，在破土而出的巨物阴影下陷入无尽的恐惧。*\n\n由 Carlos Cisco, Rowan Hall, Spenser Starke, & Mike Underwood 设计\n\n## 复杂度评级: ••••",
+  "stage": 1,
   "context": "<span></span>*一个繁荣的枪手和法外之徒地区陷入了恐怖，因为巨大的生物从地底苏醒。*\n\n设计者：Carlos Cisco, Rowan Hall, Spenser Starke, & Mike Underwood\n\n## 复杂度评级：••••"
  },
  {

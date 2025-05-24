@@ -3,80 +3,80 @@
   "id": 669701067,
   "key": "SECTION_636",
   "original": "# <span id=\"page-140-0\"></span>CHAPTER THREE Running an adventure\n\n*This chapter is only required reading if you plan to be the game master for a session or campaign of Daggerheart. If you're reading the book to create and play a character, you've reached the end of what you need to know. If you're a game master, read on!*",
-  "translation": "",
-  "stage": 0,
+  "translation": "##第三章 运行冒险\n\n*本章仅当你计划担任《匕首之心》一场游戏或一次战役的游戏主持人时才为必读章节。如果你阅读本书是为了创建和扮演角色，那么你已经阅读完您所需的一切。如果你是游戏管理员，请继续往下阅读！*",
+  "stage": 1,
   "context": "# <span></span>第三章 运行冒险\n\n*本章仅供计划担任《匕首之心》游戏主持人（GM）的玩家阅读。如果你阅读本书是为了创建和扮演角色，你已经掌握了所需的所有知识。如果你是游戏主持人，请继续阅读！*"
  },
  {
   "id": 669701068,
   "key": "SECTION_637",
   "original": "## introduction\n\nAs a game master, you are responsible for guiding the narrative and playing as the world that exists around your PCs. You are the massive sandstorm that hinders their journey, the innkeeper they befriend while seeking shelter, the mysterious stranger in the corner who asks them for help, or anything else that comes up during a session. Being a GM can be one of the most fun, exhilarating, and fulfilling experiences at the table—but it can also be intimidating, especially when you're learning a new system.\n\nParts of this chapter are much more conversational than the rest of the book. The previous chapters were primarily focused on delivering the mechanics of the game; while we're going to cover mechanics in this chapter as well, we're also going to talk about topics that lend themselves much better to a conversation than hard-and-fast rules: aspects of gameplay like story structure, improv, and world-building. Because, at the end of the day, the \"big secret\" about GMing is that you aren't bound by a rigid ruleset like the players—you get to make it all up. Whether you made it up the week before, the day before, or in the moment at the table, you're always crafting an experience for your players through the decisions you make.\n\nThis chapter is dedicated to giving you the tools you need to run a game of Daggerheart: understanding the core mechanics; creating memorable encounters; planning exciting sessions; knowing how to select, create, and use GM moves; crafting a full campaign; running dynamic NPCs; and more.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## 引言\n\n作为一位游戏主持人，你负责引导剧情的发展，并扮演你PC玩家周遭的世界。你是阻碍他们旅途的巨大沙尘暴，是他们在寻求庇护时结识的旅店老板，是角落里向他们乞求帮助的神秘陌生人，或是游戏过程中遇到的任何其他角色。担任游戏管理员可能是桌面上最有趣、最令人兴奋、最充实的经历之一——但也可能令人生畏，尤其是你在学习一款新游戏系统的时候。\n\n本章的部分内容比本书的其他部分更具对话性。前几章主要侧重于介绍游戏机制；虽然我们也会在本章中讨论机制，但我们还将讨论一些比死板的规定更适合对话的话题：游戏玩法的各个方面，例如故事结构、即兴发挥和世界构建。因为，归根结底，担任游戏主持人的“终极秘密”在于，你不像玩家那样受制于僵化的规则——你可以创造一切。无论你是在前一周、前一天，还是在桌面上的那一瞬间制定的，你始终都在通过你做出的决定为你的玩家打造独特的体验。\n\n本章致力于为你提供运行《匕首之心》游戏所需的工具：理解核心机制；创造难忘的遭遇；规划精彩的环节；了解如何选择、创造和使用GM行动；创建完整的战役；运行动态NPC；等等。",
+  "stage": 1,
   "context": "## 引言\n\n作为游戏主持人（GM），你负责引导叙事，并扮演围绕玩家角色（PC）存在的世界。你可以是阻碍他们旅程的巨大沙尘暴，可以是他们寻求庇护时结识的旅店老板，可以是角落里请求他们帮助的神秘陌生人，或者是在游戏过程中出现的任何其他事物。担任GM可能是桌游中最有趣、最令人兴奋和最有成就感的体验之一——但也可能令人望而生畏，尤其是在学习新系统时。\n\n本章的一部分内容比本书其他部分更具对话性。前几章主要侧重于传达游戏机制；虽然我们也会在本章中介绍机制，但我们也会讨论更适合对话而非硬性规则的话题：游戏玩法的一些方面，如故事结构、即兴发挥和世界构建。因为归根结底，关于GM的“大秘密”在于你不像玩家那样受到严格规则的约束——你可以自由发挥。无论你是提前一周、提前一天，还是在游戏现场即兴发挥，你都在通过你的决定为玩家们打造一次体验。\n\n本章致力于为你提供运行《匕首之心》游戏所需的工具：理解核心机制；创建令人难忘的遭遇；规划激动人心的游戏进程；了解如何选择、创建和使用GM行动；构建完整的战役；运行动态的非玩家角色（NPC）；等等。"
  },
  {
   "id": 669701069,
   "key": "SECTION_638",
   "original": "# Core Guidance\n\nIn this section, you'll find some core guidance on how to run Daggerheart:\n\n- GM Principles\n- GM Best Practices\n- Pitfalls To Avoid\n\nThese three sections provide a foundation to help you get the most out of this game. The \"GM Principles\" are your guiding star—when in doubt, return to these principles. The \"GM Best Practices\" provide examples for you to follow, while \"Pitfalls to Avoid\" shows you what to stay away from when GMing Daggerheart.\n\n*[As you read, don't forget \"The Golden Rule\" on page 7.](#page-0-0)*\n\nWhether you are a first-time GM, a veteran behind the screen, or anything in between, we encourage you to embrace the parts of this chapter that resonate with you and modify portions that don't.\n\n![](_page_141_Picture_0.jpeg)\n\n<span id=\"page-142-0\"></span>![](_page_142_Picture_0.jpeg)",
-  "translation": "",
-  "stage": 0,
+  "translation": "# 核心指南\n\n在本节中，你将找到一些关于如何运行《匕首之心》的核心指南：\n\n- 游戏主持人准则\n- 游戏主持人最佳实践\n- 需要避免的陷阱\n\n这三个部分为你提供了基础，帮助您最大限度地利用这款游戏。“游戏主持人准则”是你的指明星——如有疑问，请回顾这些准则。“游戏主持人最佳实践”为你提供了可供遵循的示例，而“需要避免的陷阱”则指导你在使用《匕首之心》时应避免哪些事。\n\n*[阅读时，请不要遗忘第 7 页的“黄金法则”。](#page-0-0)*\n\n无论你是初次担任游戏主持人，还是经验丰富的幕后人员，或者介于两者之间，我们都鼓励你接纳本章中您有所共鸣的部分，并修改你所不认同的部分。",
+  "stage": 1,
   "context": "# 核心指导\n\n在本节中，你将找到关于如何运行《匕首之心》的一些核心指导：\n\n- GM原则\n- GM最佳实践\n- 需避免的陷阱\n\n这三个部分为你提供了基础，帮助你最大限度地体验这款游戏。“GM原则”是你的指路明灯——当你犹豫不决时，请回到这些原则。“GM最佳实践”为你提供了可供遵循的范例，而“需避免的陷阱”则告诉你主持《匕首之心》时应避免什么。\n\n*[阅读时，别忘了第7页的“黄金法则”。](#page-0-0)*\n\n无论你是第一次担任GM，还是身经百战的老手，或是介于两者之间，我们都鼓励你采纳本章中与你产生共鸣的部分，并修改那些不适用的部分。\n\n![](_page_141_Picture_0.jpeg)\n\n<span></span>![](_page_142_Picture_0.jpeg)"
  },
  {
   "id": 669701070,
   "key": "SECTION_639",
   "original": "## GM PRINCIPLES\n\nDaggerheart stands on the shoulders of a decades-long tradition of fantasy adventure TTRPGs that traces back to the beginning of the form as we know it. This game shares many characteristics with its predecessors—an attention to dramatized combat, familiar fantasy ancestries and archetypes, common touchstones from popular culture and folklore, and more. In addition, as you can see in the \"Touchstones\" section in the Introduction, Daggerheart draws inspiration from a variety of TTRPGs and other media beyond the fantasy adventure genre.\n\nDaggerheart prioritizes and provides the tools for telling a certain kind of heroic fantasy story. The system is focused on building collaborative, character-focused stories full of emotion, and it weaves the narrative through the entire experience, including its combat. Battle comes alive when the dramatic beats and rhythm highlight the conflicting motivations of combatants, when the characters' bonds impact their decisions in the fight, and when there is a goal beyond simply killing every combatant. Daggerheart truly shines when the battles against adversaries are a dramatic beat in a larger, emotionally grounded story about the wants and needs of the characters.\n\n**Following these GM principles will help the whole table have the best possible experience playing this game:**\n\n- → Begin and end with the fiction.\n- → Collaborate at all times, especially during conflict.\n- → Fill the world with life, wonder, and danger.\n- → Ask questions and incorporate the answers.\n- → Make every roll important.\n- → Play to find out what happens.\n- → Hold on gently.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## 游戏主持人守则\n\n《匕首之心》秉承了奇幻冒险类 TTRPG 数十年的传统，这种传统可以追溯到我们所知的此类游戏的起源。这款游戏与其前辈们有着许多共同点——注重戏剧化的战斗、耳熟能详的奇幻背景和原型、流行文化和民间传说中的常见元素等等。此外，正如你在引言的“元素”部分所见，《匕首之心》从各种 TTRPG 以及奇幻冒险类型之外的其他媒介中汲取灵感。\n\n《匕首之心》优先考虑并提供讲述特定类型的英雄奇幻故事的工具。该系统专注于构建以角色为中心的、充满情感的合作故事，并将叙事贯穿于包括战斗在内的整个游戏体验。当戏剧性的节奏和韵律凸显战斗人员相互冲突的动机，当角色间的联系影响他们在战斗中的决策，当战斗的目标不仅仅是杀死所有战斗参与者时，战斗便变得栩栩如生。 《匕首之心》闪耀之处便在于战斗不仅是与对手的对抗，更是角色们基于自身的所想所需、在爱恨交织的宏大叙事中上演的戏剧性高潮。\n\n**遵循以下游戏主持人守则，将帮助所有玩家获得最佳的游戏体验：**\n\n- → 以虚构为始，以虚构为终。\n- → 始终保持合作，尤其是在冲突期间。\n- → 让世界充满生机、奇迹与危险。\n- → 提出问题并融入答案。\n- → 让每一次掷骰都至关重要。\n- → 游玩下去，看看会发生什么。\n- → 轻拿轻放。游戏主持人",
+  "stage": 1,
   "context": "## GM原则\n\n《匕首之心》立足于数十年来幻想冒险类桌上角色扮演游戏（TTRPG）的传统，这一传统可追溯至我们所熟知的这种游戏形式的开端。这款游戏与它的前辈们有许多共同之处——对戏剧化战斗的关注、熟悉的幻想种族和原型、流行文化和民间传说中的常见元素等等。此外，正如你在引言的“灵感来源”部分所见，《匕首之心》也从奇幻冒险类型之外的各种TTRPG和其他媒体中汲取灵感。\n\n《匕首之心》优先并提供了讲述某种英雄奇幻故事的工具。该系统专注于构建充满情感的、以角色为中心的协作式故事，并将叙事贯穿整个游戏体验，包括战斗。当戏剧性的节奏和韵律突显战斗者的冲突动机，当角色的羁绊影响他们在战斗中的决定，以及当目标不仅仅是杀死所有战斗者时，战斗就会变得生动。当与敌人的战斗是围绕角色欲望和需求的、更宏大、更具情感基础的故事中的一个戏剧性节点时，《匕首之心》才能真正大放异彩。\n\n**遵循以下GM原则将有助于整个游戏桌获得最佳的游戏体验：**\n\n- → 始于故事，终于故事。\n- → 始终协作，尤其是在冲突中。\n- → 用生命、奇迹和危险填充世界。\n- → 提出问题并融入答案。\n- → 让每一次掷骰都至关重要。\n- → 玩下去，看看会发生什么。\n- → 温柔地掌握。"
  },
  {
   "id": 669701071,
   "key": "SECTION_640",
   "original": "## **BEGIN AND END WITH THE FICTION**\n\n\"The fiction\" refers to the story being created as you play. Use the fiction to drive mechanics—for example, when to call for rolls, which GM moves to use, what Difficulty a roll should be, or whether it should have advantage or disadvantage. Daggerheart's rules exist to facilitate collaborative storytelling, so the flow of play should begin with narrative and lead to mechanics when needed. The GM then connects the results of the mechanics back to the fiction so play can continue smoothly.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **以虚构为始，以虚构为终**\n\n“虚构故事”指的是你在游戏过程中不断创造的故事。运用虚构故事来驱动游戏机制——例如，何时要求掷骰，应该使用哪个GM行动，掷骰的难度应该是多少，或者它应该具有优势还是劣势。《匕首之心》的规则旨在促进合作式叙事，因此游戏流程应该从叙事开始，并在需要时引出游戏机制。然后，GM 将游戏机制的结果与虚构故事联系起来，以使游戏能够顺利进行。",
+  "stage": 1,
   "context": "## **始于故事，终于故事**\n\n“故事”指代的是游戏过程中正在创造的叙事。利用故事来驱动机制——例如，何时进行掷骰，使用哪些GM行动，掷骰的难度应该是多少，或者是否应该有优势或劣势。《匕首之心》的规则是为了促进协作叙事而存在的，因此游戏流程应该始于叙事，并在需要时引出机制。然后，GM将机制的结果与故事重新连接起来，以便游戏能够顺利进行。"
  },
  {
   "id": 669701072,
   "key": "SECTION_641",
   "original": "## **COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT**\n\nWhen you're the GM, the players are your collaborators and their characters are the protagonists of the campaign. You're all working together to tell an exciting, memorable story where heroes face incredible odds and often win in the end. Antagonism between player and GM should exist only in the fiction of the game, through the actions of NPCs and opposition within the narrative.\n\nNeither the PCs nor the players are your \"enemy.\" They're the opponents of the adversaries you play, but you and the players are on the same side: the side invested in telling an amazing story together. When representing antagonists and challenges, your main job is to balance presenting credible threats with maintaining the trust of the players so that the collaborative process can succeed.\n\nPart of collaboration is being a fan of the players and a fan of their characters. Being a fan of the players means consciously including story elements and themes they've expressed interest in. It also means giving them the benefit of the doubt when they forget something small—especially something that their character wouldn't forget. Being a fan of the PCs means that while you'll make their life challenging, up to and potentially including death, you're never rooting for them to lose—you're working with the players to ensure that the characters' story is exciting and the environment around them is behaving with internal consistency.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **始终保持合作，尤其是在冲突期间**\n\n当你担任游戏主持人时，玩家是你的合作伙伴，他们的角色是战役的主角。你们共同努力，讲述一个激动人心、令人难以忘怀的故事，英雄们将面临不可思议的逆境，并最终取得胜利。玩家和游戏主持人之间的对抗应该只存在于游戏的虚构中，通过NPC的行为和叙事中的对立来体现。\n\n玩家角色和玩家都不是你的“敌人”。他们是你所扮演的对手的对手，但你与玩家站在同一阵营：共同致力于讲述精彩故事的阵营。在你代表对手和挑战时，你的主要任务是在呈现可信的威胁与维护玩家的信任之间取得平衡，以确保合作过程取得成功。\n\n合作的一部分是成为玩家和他们角色的粉丝。成为玩家的粉丝意味着要有意识地融入他们感兴趣的故事元素和主题。这同时也意味着，当他们忘记一些小事时，尤其是他们的角色不会忘记的事情，应当疑罪从无。成为玩家角色的粉丝意味着虽然你会让他们的生活充满挑战，甚至可能不幸牺牲，但你永远不会希望他们失败——你会与玩家合作，确保角色的故事精彩纷呈，并且他们周围的环境保持内在的一致性。",
+  "stage": 1,
   "context": "## **始终协作，尤其是在冲突中**\n\n当你担任GM时，玩家是你的合作者，他们的角色是战役的主角。你们都在共同努力讲述一个激动人心、令人难忘的故事，在这个故事中，英雄们面对难以置信的困难，并常常最终获胜。玩家和GM之间的对抗只应存在于游戏的故事中，通过NPC的行动和叙事中的阻碍来体现。\n\nPC和玩家都不是你的“敌人”。他们是你所扮演的敌人的对手，但你和玩家站在同一边：致力于共同讲述一个精彩故事的一边。在代表对抗者和挑战时，你的主要职责是平衡呈现可信的威胁与维护玩家的信任，以便协作过程能够成功。\n\n协作的一部分是成为玩家的粉丝，成为他们角色的粉丝。成为玩家的粉丝意味着有意识地包含他们表达过兴趣的故事元素和主题。这也意味着当他们忘记一些小事情时给予他们善意的推定——特别是他们的角色不会忘记的事情。成为PC的粉丝意味着，虽然你会让他们的生活充满挑战，甚至可能包括死亡，但你绝不会希望他们输——你正与玩家合作，以确保角色的故事令人兴奋，并且他们周围的环境表现出内在的一致性。"
  },
  {
   "id": 669701073,
   "key": "SECTION_642",
   "original": "## **FILL THE WORLD WITH LIFE, WONDER, AND DANGER**\n\nDaggerheart is a game of action, adventure, and high fantasy. One of your biggest jobs as the GM is to present a world worthy of heroic tales. When running a player-driven game, you can take the characters' details, backgrounds, connection questions, and worldbuilding notes your players provided both in and out of your session zer[o \\(see the upcoming](#page-169-0)  [\"Session Zero and Safety Tools\" section on page 169\\)](#page-169-0) and use those as a palette to paint an exciting world. Fill it with vibrant adventures that showcase rich cultures, take the PCs to wondrous places, and introduce them to dangerous creatures. Strive to ground all of this in a place that honors the motivations and personhood of everyone, from preeminent high nobility and demigods to humble farmers and artisans.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **让世界充满生机、奇迹与危险**\n\n《匕首之心》是一款充满动作、冒险和奇幻元素的游戏。作为游戏主持人，你最重要的任务之一就是呈现一个足以承载英雄故事的世界。在运行玩家驱动型游戏时，你可以收集玩家在第零场内外提供的角色细节、背景、关联问题以及世界构建笔记[o \\（请参阅即将发​​布的](#page-169-0) [“第零场和安全工具”部分，第169页\\)](#page-169-0)](#page-169-0)，并以此为调色板，描绘出一个激动人心的世界。用充满活力的冒险故事来展现丰富的文化，带领玩家角色探索奇妙的地域，并让他们接触危险的生物。力求将这一切植根于一个尊重所有人动机与人格的境地——无论是显赫的高等贵族与半神，还是谦卑的农夫与匠人。",
+  "stage": 1,
   "context": "## **用生命、奇迹和危险填充世界**\n\n《匕首之心》是一款关于行动、冒险和高奇幻的游戏。作为GM，你最重要的职责之一就是呈现一个配得上英雄传说世界。在运行一个玩家驱动的游戏时，你可以利用玩家在零号游戏（详见第169页即将到来的“零号游戏与安全工具”部分）内外提供的角色细节、背景、联系问题和世界构建笔记，将它们作为调色板，描绘一个激动人心的世界。用充满活力的冒险填充它，展示丰富的文化，带领PC前往奇妙的地方，并让他们遭遇危险的生物。努力将这一切根植于一个尊重每个人动机和人格的地方，无论是显赫的高等贵族和半神，还是谦卑的农民和工匠。"
  },
  {
   "id": 669701074,
   "key": "SECTION_643",
   "original": "## **ASK QUESTIONS AND INCORPORATE THE ANSWERS**\n\nIn Daggerheart, the GM doesn't have to do all the heavy lifting in terms of worldbuilding; we encourage you to share narrative authority with the players. Many players will be drawn more fully into the story when you empower them to add their own touches and details to your shared world.\n\nWhen the party enters a character's hometown, you might invite that player to describe the local market. Rather than narrating a character's deadly blow on a critical success, you can ask the player to take the spotlight and detail their triumph. In dramatic or even commonplace moments, you might ask questions about a character's motivations, emotions, and history, then connect the answers to the current moment.\n\nSome groups may want to go even further, closing the gap in narrative authority between players and GM by letting players take authorship over entire regions or nations. Your players' involvement shows their interest in the story—do your best to respect their investment and fold their contributions into the tale. As the GM, it's your job to maintain the integrity of the world and make adjustments when needed, but ensuring that the players' ideas are included results in a narrative that supports the whole group's creativity.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **提出问题并融入答案**\n\n在《匕首之心》中，游戏主持人 (GM) 无需承担构建世界的所有重担；我们鼓励您与玩家分享叙事主导权。当您授权玩家为共享的世界添加自己的元素和细节时，很多玩家会更全身心地投入到故事中。\n\n当队伍进入角色的家乡时，您可以邀请该玩家描述当地的市场。与其讲述角色在关键成功中的致命一击，不如聚焦于玩家，详细描述他们的胜利。在戏剧性甚至平凡的时刻，您可以询问角色的动机、情感和历史，然后将答案与此时此刻相互连接。\n\n有些团体可能希望更进一步，通过让玩家拥有对整个地区或国家的主导权来缩小玩家和游戏主持人之间叙事主导权的差距。玩家的参与表明了他们对故事的兴趣——请尽力尊重他们的投入，并将他们的贡献融入到故事中。作为 GM，您的工作是维护世界的完整性并在必要时做出调整，但要确保玩家的想法被纳入其中，从而形成一个支持整个团队创造力的叙事。",
+  "stage": 1,
   "context": "## **提问并采纳答案**\n\n在《匕首之心》中，GM不必承担所有世界构建的重担；我们鼓励你与玩家分享叙事权。当你授权玩家为你们共同的世界添加他们自己的笔触和细节时，许多玩家会更全身心地投入到故事中。\n\n当队伍进入一个角色的家乡时，你可以邀请那位玩家描述当地的市场。与其叙述角色在关键成功时致命一击，不如让玩家成为焦点，详细描述他们的胜利。在戏剧性甚至平凡的时刻，你可以询问关于一个角色动机、情感和历史的问题，然后将答案与当前的时刻联系起来。\n\n有些团队可能希望更进一步，通过让玩家对整个地区或国家拥有自主权，来缩小玩家和GM之间的叙事权差距。玩家的参与表明他们对故事的兴趣——尽最大努力尊重他们的投入，并将他们的贡献融入故事中。作为GM，你的职责是维护世界的完整性，并在需要时进行调整，但确保包含玩家的想法会产生一个支持整个团队创造力的叙事。"
  },
  {
   "id": 669701075,
   "key": "SECTION_644",
   "original": "## **MAKE EVERY ROLL IMPORTANT**\n\nAction rolls in Daggerheart describe and resolve a moment within a story; these moments might be as short as a splitsecond dodge, as long as a full exchange of blows in combat, or an entire montage of chasing leads over the course of an evening.\n\nBecause the GM can choose to make a move in response to a player's failed roll or a result with Fear, and since every roll generates Hope or Fear, only ask the players to roll during meaningful moments to ensure that every roll contributes to the story. Daggerheart is designed for cinematic play when you provide information freely and allow characters to succeed at tasks in line with their skills, the moments where characters do roll carry more risk and weight. Failures should create heartbreaking complications or unexpected challenges, while successes should feel like soaring triumphs!",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **让每一次掷骰都至关重要**\n\n《匕首之心》中的动作掷骰描述并解决了故事中的一个瞬间；这些瞬间可能短至刹那间的闪避，长至战斗中的完整交锋，又或是彻夜追逐线索的整个蒙太奇场景。\n\n由于《匕首之心》游戏主持人可以选择对玩家掷骰失败或恐惧的结果做出反应，并且每次掷骰都会产生希望或恐惧，因此，为了确保每次掷骰都对故事有所贡献，请只在有意义的时刻要求玩家掷骰。《匕首之心》的设计理念是打造电影化体验，玩家可以自由地提供信息，并允许角色根据其技能完成任务，因此角色掷骰的时刻会承担更大的风险和压力。失败应该带来令人心碎的复杂情况或意想不到的挑战，而成功则应该带来如释重负的胜利感！",
+  "stage": 1,
   "context": "## **让每一次掷骰都至关重要**\n\n在《匕首之心》中，动作掷骰描述并解决了故事中的一个时刻；这些时刻可能短至一瞬间的闪避，长至战斗中一次完整的交锋，或者一整个晚上追查线索的蒙太奇。\n\n由于GM可以选择在玩家掷骰失败或出现恐惧结果时做出行动，并且每一次掷骰都会产生希望或恐惧，因此只在有意义的时刻要求玩家掷骰，以确保每一次掷骰都对故事有所贡献。《匕首之心》的设计旨在提供电影般的体验，当你自由地提供信息并允许角色根据他们的技能完成任务时，角色掷骰的时刻会带有更大的风险和分量。失败应该带来令人心碎的复杂情况或意想不到的挑战，而成功则应该感觉像是振奋人心的胜利！"
  },
  {
   "id": 669701076,
   "key": "SECTION_645",
   "original": "## **PLAY TO FIND OUT WHAT HAPPENS**\n\nDaggerheart thrives when the focus is on the emotional journey of the PCs and the GM leaves room for their impact. You're not playing a pre-planned story—the overarching plot of your campaign will emerge when you collaborate with the players to weave together the characters' stories, the world, and major events.\n\nActively create room to be surprised by what the characters will do, the choices they'll make, and the people they'll become. Try to prepare situations without expectations about the solutions the players will find or create. While preparing adversaries and appropriate maps can help make for exciting scenes, always know you can adjust or completely throw out plans to follow inspiration when it strikes at the table.",
-  "translation": "",
-  "stage": 0,
+  "translation": "## **游玩下去，看看会发生什么**\n\n当《匕首之心》的焦点集中在玩家角色的情感历程上，并且游戏主持人为他们的影响留出空间时，它就能蓬勃发展。你游玩的并非预先规划好的故事——当你与玩家合作，将角色的故事、世界观和主要事件编织在一起时，战役的总体情节就会浮出水面。\n\n积极创造空间，让玩家对角色的所作所为、他们的抉择以及他们将成为的人感到惊喜。尝试在不预设玩家将会找到或创造的解决方法的情况下准备情景。虽然准备对手和合适的地图可以帮助营造激动人心的场景，但要始终记住，当灵感迸发时，你可以调整计划，甚至完全抛弃计划。",
+  "stage": 1,
   "context": "## **玩下去，才知道会发生什么**\n\n当游戏聚焦于PC的情感旅程，并且GM为他们的影响留下空间时，《匕首之心》就会焕发生机。你不是在玩一个预先计划好的故事——你的战役的总体情节将会在你与玩家合作，将角色的故事、世界和重大事件编织在一起时显现出来。\n\n积极地为角色的行为、他们的选择以及他们将成为什么样的人创造惊喜的空间。尝试准备情境，但不要对玩家会找到或创造的解决方案抱有预期。虽然准备敌人和合适的地图有助于创造激动人心的场景，但要时刻记住，当灵感在桌边闪现时，你可以调整或完全放弃计划来追随它。"
  },
  {
