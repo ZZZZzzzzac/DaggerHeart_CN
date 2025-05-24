@@ -4,7 +4,7 @@
   "key": "SECTION_1930",
   "original": "# <span id=\"page-328-0\"></span>APPENDIX\n\n*This section contains additional information and reference sheets.*",
   "translation": "# <span id=\"page-328-0\"></span>A附录\n\n*本节包含额外信息和参考表。*",
-  "stage": 1,
+  "stage": 5,
   "context": "# <span></span>附录\n\n*本节包含额外信息和参考表。*"
  },
  {
@@ -12,7 +12,7 @@
   "key": "SECTION_1931",
   "original": "## Domain Card reference",
   "translation": "## 领域卡查阅",
-  "stage": 1,
+  "stage": 5,
   "context": "## 领域卡参考"
  },
  {
@@ -20,31 +20,31 @@
   "key": "SECTION_1932",
   "original": "## ARCANA DOMAIN",
   "translation": "## 奥术领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## 奥术领域"
  },
  {
   "id": 669702364,
   "key": "SECTION_1933",
   "original": "## **RUNE WARD Level 1 Arcana Spell Recall Cost: 0**\n\nYou have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it's important to you. The ward's holder can spend a Hope to reduce incoming damage by **1d8**.\n\nIf the Ward Die result is 8, the ward's power ends after it reduces damage this turn. It can be recharged for free on your next rest.",
-  "translation": "## **护身符文 1级奥术法术 回想费用: 0**\n\n你拥有一件意义深远的个人小饰品，可以注入防护魔法，由你或一位盟友持有作为护身符。描述一下它是什么以及它对你为何重要。持有护身符的人可以花费1希望点来减少即将到来的伤害，数值为**1d8**。\n\n如果骰出的结果是8，则该护身符在本回合减少伤害后其力量消失。你可以在下次休息时免费为其充能。",
-  "stage": 1,
+  "translation": "## **符文护符 1级奥术法术 回想费用: 0**\n\n你拥有一件意义深远的个人小饰品，可以注入防护魔法，由你或一位盟友持有作为护身符。描述一下它是什么以及它对你为何重要。持有护身符的人可以花费1希望点来减少即将到来的伤害，数值为**1d8**。\n\n如果骰出的结果是8，则该护身符在本回合减少伤害后其力量消失。你可以在下次休息时免费为其充能。",
+  "stage": 5,
   "context": "## **符文守护 1级奥术法术 回想费用: 0**\n\n你拥有一件意义深远的个人小饰品，可以注入防护魔法，由你或一位盟友持有作为守护。描述一下它是什么以及它对你为何重要。持有守护的人可以花费一个希望点来减少即将到来的伤害，数值为**1d8**。\n\n如果守护骰的结果是8，则该守护在本回合减少伤害后其力量消失。你可以在下次休息时免费为其充能。"
  },
  {
   "id": 669702365,
   "key": "SECTION_1934",
   "original": "## **UNLEASH CHAOS Level 1 Arcana Spell Recall Cost: 1**\n\nAt the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.\n\nMake a **Spellcast Roll** against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of **d10s** equal to the tokens you spent and deal that much magic damage to the target. **Mark a Stress** to replenish this card with tokens (up to your Spellcast trait). At the end of each session, clear all unspent tokens.",
-  "translation": "## **释放混沌 1级奥术法术 回想费用: 1**\n\n在一场游戏开始时，在此牌上放置数量等同于你施法属性值的指示物。\n\n对远距离范围内的目标进行一次**施法掷骰**，并花费任意数量的指示物，引导你内在的原始能量向其释放。成功时，掷出等同于你花费指示物数量的**d10**，对目标造成等量的魔法伤害。**标记1压力点**以补满此牌上的指示物（最多至你的施法属性值）。在每场游戏结束时，清除所有未使用的指示物。",
-  "stage": 1,
+  "translation": "## **释放混沌 1级奥术法术 回想费用: 1**\n\n在一场游戏开始时，在此牌上放置数量等同于你施法属性值的指示物。\n\n对远距离范围内的目标进行一次**施法掷骰**，并花费任意数量的指示物，引导你内在的原始能量向其释放。成功时，掷出等同于你花费指示物数量的**d10**，对目标造成等量的魔法伤害。**标记 1 压力点**以补满此牌上的指示物（最多至你的施法属性值）。在每场游戏结束时，清除所有未使用的指示物。",
+  "stage": 5,
   "context": "## **释放混沌 1级奥术法术 回想费用: 1**\n\n在一场游戏开始时，在此牌上放置等同于你施法属性的标记数量。\n\n对远距离范围内的目标进行一次**施法掷骰**，并花费任意数量的标记，引导你内在的原始能量向其释放。成功时，掷出等同于你花费标记数量的**d10**，对目标造成等量的魔法伤害。**标记一个压力点**以补充此牌上的标记（最多至你的施法属性）。在每场游戏结束时，清除所有未使用的标记。"
  },
  {
   "id": 669702366,
   "key": "SECTION_1935",
   "original": "## **WALL WALK Level 1 Arcana Spell Recall Cost: 1**\n\n**Spend a Hope** to allow a creature you can touch to climb on walls and ceilings as easily as walking on the ground. This lasts until the end of the scene or you cast Wall Walk again.",
-  "translation": "## **墙面行走 1级奥术法术 回想费用: 1**\n\n**花费1希望点**，让你能接触到的生物可以像在地面上行走一样轻松地攀爬墙壁和天花板。此效果持续到场景结束，或直到你再次施放墙面行走。",
-  "stage": 1,
+  "translation": "## **墙面行走 1级奥术法术 回想费用: 1**\n\n**花费 1 希望点**，让你能接触到的生物可以像在地面上行走一样轻松地攀爬墙壁和天花板。此效果持续到场景结束，或直到你再次施放墙面行走。",
+  "stage": 5,
   "context": "## **壁行术 1级奥术法术 回想费用: 1**\n\n**花费一个希望点**，让你能接触到的生物可以像在地面上行走一样轻松地攀爬墙壁和天花板。此效果持续到场景结束，或直到你再次施放壁行术。"
  },
  {
@@ -52,63 +52,63 @@
   "key": "SECTION_1936",
   "original": "## **CINDER GRASP Level 2 Arcana Spell Recall Cost: 1**\n\nMake a **Spellcast Roll** against a target within Melee range. On a success, the target instantly bursts into flames, takes **1d20+3** magic damage, and is temporarily lit *On Fire*.\n\nWhen a creature acts while *On Fire*, they must take an extra **2d6** magic damage if they are still *On Fire* at the end of their action.",
   "translation": "## **余烬之握 2级奥术法术 回想费用: 1**\n\n对近战范围内的目标进行一次**施法掷骰**。成功时，目标会立即燃起火焰，受到**1d20+3**点魔法伤害，并暂时处于*点燃*状态。\n\n当一个生物在*点燃*状态下行动时，如果在其行动结束时仍处于*点燃*状态，则必须额外受到**2d6**点魔法伤害。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **余烬之握 2级奥术法术 回想费用: 1**\n\n对近战范围内的目标进行一次**施法掷骰**。成功时，目标会立即燃起火焰，受到**1d20+3**点魔法伤害，并暂时处于*着火*状态。\n\n当一个生物在*着火*状态下行动时，如果在其行动结束时仍处于*着火*状态，则必须额外受到**2d6**点魔法伤害。"
  },
  {
   "id": 669702368,
   "key": "SECTION_1937",
   "original": "## **FLOATING EYE Level 2 Arcana Spell Recall Cost: 0**\n\n**Spend a Hope** to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you're looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends.",
-  "translation": "## **浮游之眼 2级奥术法术 回想费用: 0**\n\n**花费1希望点**，创造一个小型浮游光球，你可以在极远距离范围内将其移动到任何地方。当此法术激活时，你可以通过光球观察，如同你正从其位置向外看一样。你可以在使用自己的感官和通过光球视物之间自由切换。如果光球受到伤害或离开范围，法术结束。",
-  "stage": 1,
+  "translation": "## **浮游之眼 2级奥术法术 回想费用: 0**\n\n**花费 1 希望点**，创造一个小型浮游光球，你可以在极远距离范围内将其移动到任何地方。当此法术激活时，你可以通过光球观察，如同你正从其位置向外看一样。你可以在使用自己的感官和通过光球视物之间自由切换。如果光球受到伤害或离开范围，法术结束。",
+  "stage": 5,
   "context": "## **浮游之眼 2级奥术法术 回想费用: 0**\n\n**花费一个希望点**，创造一个小型浮游光球，你可以在极远距离范围内将其移动到任何地方。当此法术激活时，你可以通过光球看见，如同你正从其位置向外看一样。你可以在使用自己的感官和通过光球视物之间自由切换。如果光球受到伤害或移出范围，法术结束。"
  },
  {
   "id": 669702369,
   "key": "SECTION_1938",
   "original": "## **COUNTERSPELL Level 3 Arcana Spell Recall Cost: 2**\n\nYou can interrupt a magical effect taking place by making a reaction roll using your Spellcast trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your vault.",
-  "translation": "## **反制法术 3级奥术法术 回想费用: 2**\n\n你可以通过使用你的施法属性进行一次反应掷骰来打断正在发生的魔法效果。成功时，该效果停止，并且避免任何后果，此卡被放入你的宝库。",
-  "stage": 1,
+  "translation": "## **法术反制 3级奥术法术 回想费用: 2**\n\n你可以通过使用你的施法属性进行一次反应掷骰来打断正在发生的魔法效果。成功时，该效果停止，并且避免任何后果，此卡被放入你的宝库。",
+  "stage": 5,
   "context": "## **反制法术 3级奥术法术 回想费用: 2**\n\n你可以通过使用你的施法属性进行一次反应掷骰来打断正在发生的魔法效果。成功时，该效果停止，并且避免任何后果，此卡被放入你的宝库。"
  },
  {
   "id": 669702370,
   "key": "SECTION_1939",
   "original": "## **FLIGHT Level 3 Arcana Spell Recall Cost: 1**\n\nMake a **Spellcast Roll (15)**. On a success, place a number of tokens equal to your Agility on this card (minimum 1). When you make an action roll while flying, spend a token from this card. After the action that spends the last token is resolved, you descend to the ground directly below you.",
-  "translation": "## **飞行咒术 3级奥术法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。成功时，在此卡上放置等同于你敏捷属性数量的指示物（最少1个）。当你在飞行时进行一次动作掷骰时，从这张卡上花费一个指示物。在花费最后一个指示物的行动结算后，你将直接降落到你正下方的地面上。",
-  "stage": 1,
+  "translation": "## **飞行术 3级奥术法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。成功时，在此卡上放置等同于你敏捷属性数量的指示物（最少1个）。当你在飞行时进行一次动作掷骰时，从这张卡上花费一个指示物。在花费最后一个指示物的行动结算后，你将直接降落到你正下方的地面上。",
+  "stage": 2,
   "context": "## **飞行 3级奥术法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。成功时，在此卡上放置等同于你敏捷属性数量的标记（最少1个）。当你在飞行时进行一次动作掷骰时，从这张卡上花费一个标记。在花费最后一个标记的行动结算后，你将直接降落到你正下方的地面上。"
  },
  {
   "id": 669702371,
   "key": "SECTION_1940",
   "original": "## **BLINK OUT Level 4 Arcana Spell Recall Cost: 1**\n\n![](_page_328_Picture_22.jpeg)\n\nMake a **Spellcast Roll (12)**. On a success, **spend a Hope** to teleport to another point you can see within Far range. If any willing creatures are within Very Close range, **spend an additional Hope** for each creature to bring them with you.",
-  "translation": "## **闪烁现身 4级奥术法术 回想费用: 1**\n\n![](_page_328_Picture_22.jpeg)\n\n进行一次**施法掷骰 (12)**。成功时，**花费1希望点**传送到你在远距离范围内能看到的另一个点。如果任何自愿的生物在邻近范围内，为每个生物**额外花费1希望点**以将它们带上。",
-  "stage": 1,
+  "translation": "## **闪烁现身 4级奥术法术 回想费用: 1**\n\n![](_page_328_Picture_22.jpeg)\n\n进行一次**施法掷骰 (12)**。成功时，**花费1希望点**传送到你在远距离范围内能看到的另一个点。如果任何自愿的生物在邻近范围内，为每个生物额外**花费 1 希望点**以将它们带上。",
+  "stage": 5,
   "context": "## **闪现 4级奥术法术 回想费用: 1**\n\n![](_page_328_Picture_22.jpeg)\n\n进行一次**施法掷骰 (12)**。成功时，**花费一个希望点**传送到你在远距离范围内能看到的另一个点。如果任何自愿的生物在邻近范围内，为每个生物**额外花费一个希望点**以将它们带上。"
  },
  {
   "id": 669702372,
   "key": "SECTION_1941",
   "original": "## **PRESERVATION BLAST Level 4 Arcana Spell Recall Cost: 2**\n\nMake a **Spellcast Roll** against all targets within Melee range. Targets you succeed against are forced back to Far range and take **d8+3** magic damage using your Spellcast trait.",
-  "translation": "## **防护爆发 4级奥术法术 回想费用: 2**\n\n对近战范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将被迫后退至远距离范围外，并使用你的施法属性使其受到 **d8+3** 点魔法伤害。",
-  "stage": 1,
+  "translation": "## **护身爆发 4级奥术法术 回想费用: 2**\n\n对近战范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将被迫后退至远距离范围外，并使用你的施法属性使其受到 **d8+3** 点魔法伤害。",
+  "stage": 5,
   "context": "## **守护冲击 4级奥术法术 回想费用: 2**\n\n对近战范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将被迫后退至远距离范围，并使用你的施法属性受到 **d8+3** 点魔法伤害。"
  },
  {
   "id": 669702373,
   "key": "SECTION_1942",
   "original": "## **CHAIN LIGHTNING Level 5 Arcana Spell Recall Cost: 1**\n\n**Mark 2 Stress** to make a **Spellcast Roll**, unleashing lightning on all targets within Close range. Targets you succeed against must make a reaction roll with a Difficulty equal to the result of your Spellcast Roll. Targets who fail take **2d8+4** magic damage. Additional adversaries not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take **2d8+4** magic damage. This chain continues until there are no more adversaries within range.",
-  "translation": "## **连锁闪电 5级奥术法术 回想费用: 1**\n\n**标记2点压力**以进行一次**施法掷骰**，对近距离范围内的所有目标释放闪电。你成功对抗的目标必须进行一次反应掷骰，难度等于你的施法掷骰结果。掷骰失败的目标受到 **2d8+4** 点魔法伤害。未被连锁闪电指定且在受到伤害的前一个目标近距离范围内的额外敌对生物，也必须进行反应掷骰。掷骰失败的目标受到 **2d8+4** 点魔法伤害。此连锁效应持续至范围内没有更多敌对生物为止。",
-  "stage": 1,
+  "translation": "## **连锁闪电 5级奥术法术 回想费用: 1**\n\n**标记2点压力**以进行一次**施法掷骰**，对近距离范围内的所有目标释放闪电。你成功对抗的目标必须进行一次反应掷骰，难度等于你的施法掷骰结果。掷骰失败的目标受到 **2d8+4** 点魔法伤害。未被连锁闪电指定，且在受到伤害的前一个目标近距离范围内的额外敌人，也必须进行反应掷骰。掷骰失败的目标受到 **2d8+4** 点魔法伤害。此连锁效应持续至范围内没有更多敌对生物为止。",
+  "stage": 5,
   "context": "## **连锁闪电 5级奥术法术 回想费用: 1**\n\n**标记2点压力**以进行一次**施法掷骰**，对近距离范围内的所有目标释放闪电。你成功对抗的目标必须进行一次反应掷骰，难度等于你的施法掷骰结果。掷骰失败的目标受到 **2d8+4** 点魔法伤害。未被连锁闪电指定且在受到伤害的前一个目标近距离范围内的额外敌对生物，也必须进行反应掷骰。掷骰失败的目标受到 **2d8+4** 点魔法伤害。此连锁效应持续至范围内没有更多敌对生物为止。"
  },
  {
   "id": 669702374,
   "key": "SECTION_1943",
   "original": "## **PREMONITION Level 5 Arcana Spell Recall Cost: 2**\n\nYou can channel arcane energy to have visions of the future. Once per long rest, immediately after the GM conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead.",
-  "translation": "## **预兆感应 5级奥术法术 回想费用: 2**\n\n你可以引导奥术能量来预见未来。每长休一次，在游戏主持人告知你进行的一次掷骰结果后，你可以立即撤销该行动及其结果，如同它们从未发生过一样，并进行另一次行动。",
-  "stage": 1,
+  "translation": "## **预见未来 5级奥术法术 回想费用: 2**\n\n你可以引导奥术能量来预见未来。每长休一次，在游戏主持人告知你进行的一次掷骰结果后，你可以立即撤销该行动及其结果，如同它们从未发生过一样，并进行另一次行动。",
+  "stage": 5,
   "context": "## **预兆 5级奥术法术 回想费用: 2**\n\n你可以引导奥术能量来预见未来。每次长休后，在GM告知你进行的一次掷骰结果后，你可以立即撤销该行动及其结果，如同它们从未发生过一样，并进行另一次行动。"
  },
  {
@@ -116,7 +116,7 @@
   "key": "SECTION_1944",
   "original": "## <span id=\"page-329-0\"></span>**RIFT WALKER Level 6 Arcana Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (15)**. On a success, you place an arcane marking on the ground where you currently stand. The next time you successfully cast Rift Walker, a rift in space opens up, providing safe passage back to the exact spot where the marking was placed. This rift stays open until you choose to close it or you cast another spell.\n\nYou can drop the spell at any time to cast Rift Walker again and place the marking somewhere new.",
   "translation": "## <span id=\"page-329-0\"></span>**裂隙行者 6级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (15)**。成功时，你在当前站立的地面上放置一个奥术标记。下次你成功施放裂隙行者时，空间中会打开一道裂隙，提供安全通道回到放置标记的精确位置。这道裂隙会保持开启，直到你选择关闭它或施放另一个法术。\n\n你可以在任何时候取消该法术，以便再次施放裂隙行者并将标记放置在新的位置。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **裂隙行者 6级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (15)**。成功时，你在当前站立的地面上放置一个奥术标记。下次你成功施放裂隙行者时，空间中会打开一道裂隙，提供安全通道回到放置标记的精确位置。这道裂隙会保持开启，直到你选择关闭它或施放另一个法术。\n\n你可以在任何时候放弃该法术，以便再次施放裂隙行者并将标记放置在新的位置。"
  },
  {
@@ -124,7 +124,7 @@
   "key": "SECTION_1945",
   "original": "## **TELEKINESIS Level 6 Arcana Spell Recall Cost: 0**\n\nMake a **Spellcast Roll** against a target within Far range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you're trying to attack. On a success, deal **d12+4** physical damage to the second target using your Proficiency. This spell then ends.",
   "translation": "## **心灵遥控 6级奥术法术 回想费用: 0**\n\n对远距离范围内的一个目标进行一次**施法掷骰**。成功时，你可以用意念将他们移动到其原位置远距离范围内的任何地方。你可以通过对你想攻击的第二个目标进行额外的施法掷骰，将被举起的目标作为攻击投掷出去。成功时，使用你的熟练对第二个目标造成 **d12+4** 点物理伤害。此法术随后结束。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **念动力 6级奥术法术 回想费用: 0**\n\n对远距离范围内的一个目标进行一次**施法掷骰**。成功时，你可以用意念将他们移动到其原位置远距离范围内的任何地方。你可以通过对你想攻击的第二个目标进行额外的施法掷骰，将被举起的目标作为攻击投掷出去。成功时，使用你的熟练度对第二个目标造成 **d12+4** 点物理伤害。此法术随后结束。"
  },
  {
@@ -132,7 +132,7 @@
   "key": "SECTION_1946",
   "original": "## **ARCANA-TOUCHED Level 7 Arcana Ability Recall Cost: 2**\n\nWhen 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:\n\n- +1 bonus to your Spellcast Rolls\n- Once per rest, you can switch the results of your Hope and Fear Dice.",
   "translation": "## **奥术恩泽 7级奥术能力 回想费用: 2**\n\n当你的配置中有4张或更多领域卡来自奥术领域时，获得以下益处：\n\n- 施法掷骰获得+1加值\n- 每次休息一次，你可以交换你的希望骰和恐惧骰的结果。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **奥术触碰 7级奥术能力 回想费用: 2**\n\n当你的配置中有4张或更多领域卡来自奥术领域时，获得以下益处：\n\n- 施法掷骰获得+1加值\n- 每次休息一次，你可以交换你的希望骰和恐惧骰的结果。"
  },
  {
@@ -140,7 +140,7 @@
   "key": "SECTION_1947",
   "original": "## **CLOAKING BLAST Level 7 Arcana Spell Recall Cost: 2**\n\nWhen you make a successful **Spellcast Roll** to cast a different spell, you can **spend a Hope** to become *Cloaked*. While *Cloaked*, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary's line of sight or make an attack, you are no longer *Cloaked*.",
   "translation": "## **隐匿冲击 7级奥术法术 回想费用: 2**\n\n当你成功进行**施法掷骰**施放其他法术时，你可以**花费1希望点**来获得*隐匿*状态。处于*隐匿*状态时，如果当敌人移动到通常能看到你的位置时你保持静止，你将保持不被看见。当你移动进入或在敌人的视线范围内移动，或进行攻击时，你将不再处于*隐匿*状态。",
-  "stage": 1,
+  "stage": 2,
   "context": "## **隐匿爆破 7级奥术法术 回想费用: 2**\n\n当你成功进行**施法掷骰**施放其他法术时，你可以**花费一点希望**来获得*隐匿*状态。处于*隐匿*状态时，如果当敌人移动到通常能看到你的位置时你保持静止，你将保持不被看见。当你移动进入或在敌人的视线范围内移动，或进行攻击时，你将不再处于*隐匿*状态。"
  },
  {
@@ -148,15 +148,15 @@
   "key": "SECTION_1948",
   "original": "## **ARCANE REFLECTION Level 8 Arcana Spell Recall Cost: 1**\n\nWhen you would take magic damage, you can **spend any number of Hope** to roll that many **d6s**. If any roll a 6, the attack is reflected back to the caster, dealing the damage to them instead.",
   "translation": "## **奥术反射 8级奥术法术 回想费用: 1**\n\n当你将要受到魔法伤害时，你可以**花费任意数量的希望**来掷出同等数量的 **d6**。如果任何一个骰子掷出6，该攻击将被反射回施法者，转而对他们造成伤害。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **奥术反射 8级奥术法术 回想费用: 1**\n\n当你将要受到魔法伤害时，你可以**花费任意数量的希望**来掷出同等数量的 **d6s**。如果任何一个骰子掷出6，该攻击将被反射回施法者，转而对他们造成伤害。"
  },
  {
   "id": 669702380,
   "key": "SECTION_1949",
   "original": "## **CONFUSING AURA Level 8 Arcana Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (14)**. Once per long rest on a success, you create a layer of illusion over your body that makes it hard to tell exactly where you are. **Mark any number of Stress** to make that many additional layers. When an adversary makes an attack against you, roll a number of **d6s** equal to the number of layers currently active. If any roll a 5 or higher, one layer of the aura is destroyed and the attack fails. If all the results are 4 or lower, you take the damage and this spell ends.",
-  "translation": "## **扰乱灵光 8级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (14)**。每长休一次，成功后，你在身体周围创造一层幻象，使人难以确定你的确切位置。**标记任意数量的压力**以创造等量的额外层数。当敌人对你进行攻击时，掷出等同于当前活跃层数数量的 **d6**。如果任何骰子掷出5或更高，摧毁一层灵光，且该攻击失败。如果所有结果都为4或更低，你承受伤害，并且该法术结束。",
-  "stage": 1,
+  "translation": "## **惑像灵光 8级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (14)**。每长休一次，成功后，你在身体周围创造一层幻象，使人难以确定你的确切位置。**标记任意数量的压力**以创造等量的额外层数。当敌人对你进行攻击时，掷出等同于当前活跃层数数量的 **d6**。如果任何骰子掷出5或更高，摧毁一层灵光，且该攻击失败。如果所有结果都为4或更低，你承受伤害，并且该法术结束。",
+  "stage": 5,
   "context": "## **扰乱灵光 8级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (14)**。在一次长休息期间，成功后，你在身体周围创造一层幻象，使人难以确定你的确切位置。**标记任意数量的压力**以创造等量的额外层数。当敌人对你进行攻击时，掷出等同于当前活跃层数数量的 **d6s**。如果任何骰子掷出5或更高，灵光的一层被摧毁，且该攻击失败。如果所有结果都为4或更低，你承受伤害，并且该法术结束。"
  },
  {
@@ -164,15 +164,15 @@
   "key": "SECTION_1950",
   "original": "## **EARTHQUAKE Level 9 Arcana Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (16)**. Once per rest on a success, all targets within Very Far range who aren't flying must make a Reaction Roll (18). Targets who fail take **3d10+8** physical damage and are temporarily *Vulnerable*. Targets who succeed take half damage.\n\nAdditionally, when you succeed on the Spellcast Roll, all terrain within Very Far range becomes difficult to move through and structures within this range might sustain damage or crumble.",
   "translation": "## **地动山摇 9级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。每次休息一次，成功后，极远距离范围内所有不处于飞行中的目标必须进行一次反应掷骰 (18)。失败的目标承受 **3d10+8** 点物理伤害并暂时处于*脆弱*状态。成功的目标承受一半伤害。\n\n此外，当你成功进行施法掷骰时，极远距离范围内的所有地形变得难以通行，并且该范围内的建筑可能会受到伤害或坍塌。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **地震 9级奥术法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。在每次休息期间，成功后，极远距离范围内所有不飞行的目标必须进行一次反应掷骰 (18)。失败的目标承受 **3d10+8** 点物理伤害并暂时处于*脆弱*状态。成功的目标承受一半伤害。\n\n此外，当你成功进行施法掷骰时，极远距离范围内的所有地形变得难以通行，并且该范围内的建筑可能会受到伤害或坍塌。"
  },
  {
   "id": 669702382,
   "key": "SECTION_1951",
   "original": "## **SENSORY PROJECTION Level 9 Arcana Spell Recall Cost: 0**\n\nOnce per rest, make a **Spellcast Roll (15)**. On a success, drop into a vision that lets you clearly see and hear any place you have been before as though you are standing there in this moment. You can move freely in this vision and are not constrained by the physics or impediments of a physical body. This spell cannot be detected by mundane or magical means. You drop out of this vision upon taking damage or casting another spell.",
-  "translation": "## **感官投射 9级奥术法术 回想费用: 0**\n\n每次休息期间，进行一次**施法掷骰 (15)**。成功后，进入一个幻象，让你清晰地看见和听见你曾去过的任何地方，仿佛你此刻正身临其境。你可以在此幻象中自由移动，不受物理身体的物理或阻碍限制。此法术无法通过普通或魔法手段被侦测到。你在受到伤害或施放另一个法术时会脱离此幻象。",
-  "stage": 1,
+  "translation": "## **感官投射 9级奥术法术 回想费用: 0**\n\n每次休息一次，进行一次**施法掷骰 (15)**。成功后，进入一个幻象，让你清晰地看见和听见你曾去过的任何地方，仿佛你此刻正身临其境。你可以在此幻象中自由移动，不受物理身体的物理或阻碍限制。此法术无法通过普通或魔法手段被侦测到。你在受到伤害或施放另一个法术时会脱离此幻象。",
+  "stage": 5,
   "context": "## **感官投射 9级奥术法术 回想费用: 0**\n\n每次休息期间，进行一次**施法掷骰 (15)**。成功后，进入一个幻象，让你清晰地看见和听见你曾去过的任何地方，仿佛你此刻正身临其境。你可以在此幻象中自由移动，不受物理身体的物理或阻碍限制。此法术无法通过普通或魔法手段被侦测到。你在受到伤害或施放另一个法术时会脱离此幻象。"
  },
  {
@@ -180,15 +180,15 @@
   "key": "SECTION_1952",
   "original": "## **ADJUST REALITY Level 10 Arcana Spell Recall Cost: 1**\n\nAfter you or a willing ally make any roll, you can **spend 5 Hope** to change the numerical result of that roll to a result of your choice instead. The result must be plausible within the range of the dice.",
   "translation": "## **调整现实 10级奥术法术 回想费用: 1**\n\n在你或一个自愿的盟友进行任何掷骰后，你可以**花费 5点希望**来将该掷骰的数值结果改变为你选择的一个结果。该结果必须在骰子范围内的合理值。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **调整现实 10级奥术法术 回想费用: 1**\n\n在你或一个自愿的盟友进行任何掷骰后，你可以**花费 5点希望**来将该掷骰的数值结果改变为你选择的一个结果。该结果必须在骰子范围内的合理值。"
  },
  {
   "id": 669702384,
   "key": "SECTION_1953",
   "original": "## **FALLING SKY Level 10 Arcana Spell Recall Cost: 1**\n\nMake a **Spellcast Roll** against all adversaries within Far range. **Mark any number of Stress** to make shards of arcana rain down from above. Targets you succeed against take **1d20+2** magic damage for each Stress marked.",
-  "translation": "## **堕天大法 10级奥术法术 回想费用: 1**\n\n对远距离范围内的所有敌方进行一次**施法掷骰**。**标记任意数量的压力**，使奥术碎片从天而降。对你成功对抗的所有目标，你每标记一点压力，使其承受 **1d20+2** 点魔法伤害。",
-  "stage": 1,
+  "translation": "## **星辰陨落 10级奥术法术 回想费用: 1**\n\n对远距离范围内的所有敌方进行一次**施法掷骰**。**标记任意数量的压力**，使奥术碎片从天而降。对你成功对抗的所有目标，你每标记一点压力，使其承受 **1d20+2** 点魔法伤害。",
+  "stage": 5,
   "context": "## **坠落天空 10级奥术法术 回想费用: 1**\n\n对远距离范围内的所有敌方进行一次**施法掷骰**。**标记任意数量的压力**，使奥术碎片从天而降。你成功对抗的目标，每标记一点压力，承受 **1d20+2** 点魔法伤害。"
  },
  {
@@ -196,31 +196,31 @@
   "key": "SECTION_1954",
   "original": "## BLADE DOMAIN",
   "translation": "## 利刃领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## 利刃领域"
  },
  {
   "id": 669702386,
   "key": "SECTION_1955",
   "original": "## **GET BACK UP Level 1 Blade Ability Recall Cost: 1**\n\nWhen you take Severe damage, you can **mark a Stress** to reduce the severity by one threshold.",
-  "translation": "## **重整旗鼓 1级利刃能力 回想费用: 1**\n\n当你承受严重伤害时，你可以**标记1压力点**来将伤害程度降低一个等级。",
-  "stage": 1,
+  "translation": "## **站稳脚跟 1级利刃能力 回想费用: 1**\n\n当你承受严重伤害时，你可以**标记1压力点**来将伤害等级降低一级。",
+  "stage": 2,
   "context": "## **重新站起 1级利刃能力 回想费用: 1**\n\n当你承受重伤时，你可以**标记一点压力**来将伤害严重程度降低一个等级。"
  },
  {
   "id": 669702387,
   "key": "SECTION_1956",
   "original": "## **NOT GOOD ENOUGH Level 1 Blade Ability Recall Cost: 1**\n\nWhen you roll your damage dice, you can reroll any 1s or 2s.",
-  "translation": "## **未至完美 1级利刃能力 回想费用: 1**\n\n当你掷伤害骰时，你可以重掷所有1点或2点。",
-  "stage": 1,
+  "translation": "## **还不够好 1级利刃能力 回想费用: 1**\n\n当你掷伤害骰时，你可以重掷所有1点或2点。",
+  "stage": 5,
   "context": "## **不够好 1级利刃能力 回想费用: 1**\n\n当你掷骰伤害骰时，你可以重掷所有1点或2点。"
  },
  {
   "id": 669702388,
   "key": "SECTION_1957",
   "original": "### **WHIRLWIND Level 1 Blade Ability Recall Cost: 0**\n\n![](_page_329_Picture_30.jpeg)\n\nWhen you make a successful attack against a target within Very Close range, you can **spend a Hope** to use the attack against all other targets within Very Close range. All additional adversaries you succeed against with this ability take half damage.",
-  "translation": "### **旋风猛袭 1级利刃能力 回想费用: 0**\n\n![](_page_329_Picture_30.jpeg)\n\n当你对邻近范围内的目标进行一次成功的攻击时，你可以**花费1希望点**来对邻近范围内的所有其他目标使用这次攻击。你用此能力成功攻击的所有额外敌人承受一半伤害。",
-  "stage": 1,
+  "translation": "### **旋风猛袭 1级利刃能力 回想费用: 0**\n\n![](_page_329_Picture_30.jpeg)\n\n当你对邻近范围内的目标进行一次成功的攻击时，你可以**花费1希望点**来对邻近范围内的所有其他目标使用这次攻击。",
+  "stage": 5,
   "context": "### **旋风斩 1级利刃能力 回想费用: 0**\n\n![](_page_329_Picture_30.jpeg)\n\n当你对邻近范围内的目标进行一次成功的攻击时，你可以**花费一点希望**来对邻近范围内的所有其他目标使用这次攻击。你用此能力成功攻击的所有额外敌方单位承受一半伤害。"
  },
  {
@@ -228,15 +228,15 @@
   "key": "SECTION_1958",
   "original": "## **A SOLDIER'S BOND Level 2 Blade Ability Recall Cost: 1**\n\nOnce per long rest, when you compliment someone or ask them about something they're good at, you can both gain 3 Hope.",
   "translation": "## **老兵羁绊 2级利刃能力 回想费用: 1**\n\n每长休一次，当你赞美某人或询问他们擅长的事物时，你们双方都可以获得3点希望。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **士兵的羁绊 2级利刃能力 回想费用: 1**\n\n每长休一次，当你赞美某人或询问他们擅长的事物时，你们双方都可以获得3点希望。"
  },
  {
   "id": 669702390,
   "key": "SECTION_1959",
   "original": "## **RECKLESS**\n\n**Level 2 Blade Ability Recall Cost: 1**\n\n**Mark a Stress** to gain advantage on an attack.",
-  "translation": "## **鲁莽之力**\n\n**2级利刃能力 回想费用: 1**\n\n**标记1压力点**以在一次攻击中获得优势。",
-  "stage": 1,
+  "translation": "## **鲁莽攻击**\n\n**2级利刃能力 回想费用: 1**\n\n**标记1压力点**以在一次攻击中获得优势。",
+  "stage": 5,
   "context": "## **鲁莽**\n\n**2级利刃能力 回想费用: 1**\n\n**标记一点压力**以在一次攻击中获得优势。"
  },
  {
@@ -244,7 +244,7 @@
   "key": "SECTION_1960",
   "original": "### **SCRAMBLE Level 3 Blade Ability Recall Cost: 1**\n\nOnce per rest, when a creature within Melee range would deal damage to you, you can avoid the attack and safely move out of Melee range of the enemy.",
   "translation": "### **快步急闪 3级利刃能力 回想费用: 1**\n\n每次休息一次，当近战范围内的生物即将对你造成伤害时，你可以避开攻击并安全地移动到敌人近战范围之外。",
-  "stage": 1,
+  "stage": 5,
   "context": "### **急闪 3级利刃能力 回想费用: 1**\n\n每休息一次，当近战范围内的生物即将对你造成伤害时，你可以避开攻击并安全地移动到敌人近战范围之外。"
  },
  {
@@ -252,15 +252,15 @@
   "key": "SECTION_1961",
   "original": "## **VERSATILE FIGHTER Level 3 Blade Ability Recall Cost: 1**\n\nYou can use a different character trait for an equipped weapon, rather than the trait the weapon calls for.\n\nWhen you deal damage, you can **mark a Stress** to use the maximum result of one of your damage dice instead of rolling it.",
   "translation": "## **多面武者 3级利刃能力 回想费用: 1**\n\n你可以为已装备的武器使用不同的属性，而不是武器所要求的属性。\n\n当你造成伤害时，你可以**标记1压力点**，将其中一个伤害骰取最大结果，而不是其掷骰结果。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **多面战士 3级利刃能力 回想费用: 1**\n\n你可以为已装备的武器使用不同的角色属性，而不是武器所要求的属性。\n\n当你造成伤害时，你可以**标记一点压力**，以使用你的一个伤害骰的最大结果，而不是掷骰。"
  },
  {
   "id": 669702393,
   "key": "SECTION_1962",
   "original": "## **DEADLY FOCUS Level 4 Blade Ability Recall Cost: 2**\n\nOnce per rest, you can apply all your focus toward a target of your choice. Until you attack another creature, you defeat the target, or the battle ends, gain a +1 bonus to your Proficiency.",
-  "translation": "## **致命专注 4级利刃能力 回想费用: 2**\n\n每次休息一次，你可以将所有注意力集中于你选择的一个目标。直到你攻击另一个生物、击败该目标或战斗结束时，你获得+1点熟练加值。",
-  "stage": 1,
+  "translation": "## **致命专注 4级利刃能力 回想费用: 2**\n\n每次休息一次，你可以集中所有注意力于你选择的一个目标。你获得+1熟练加值，直至你攻击另一个生物、击败该目标或战斗结束时。",
+  "stage": 5,
   "context": "## **致命专注 4级利刃能力 回想费用: 2**\n\n每休息一次，你可以将所有专注应用于你选择的一个目标。直到你攻击另一个生物、击败该目标或战斗结束，你获得+1点熟练加值。"
  },
  {
@@ -268,15 +268,15 @@
   "key": "SECTION_1963",
   "original": "## **FORTIFIED ARMOR Level 4 Blade Ability Recall Cost: 0**\n\nWhile you are wearing armor, gain a +2 bonus to your damage thresholds.",
   "translation": "## **强化护甲 4级利刃能力 回想费用: 0**\n\n当你穿着护甲时，你的所有伤害阈值获得+2加值。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **强化护甲 4级利刃能力 回想费用: 0**\n\n当你穿着护甲时，你的伤害阈值获得+2加值。"
  },
  {
   "id": 669702395,
   "key": "SECTION_1964",
   "original": "## **CHAMPION'S EDGE Level 5 Blade Ability Recall Cost: 1**\n\nWhen you critically succeed on an attack, you can **spend up to 3 Hope** and choose one of the following options for each Hope spent:\n\n- You clear a Hit Point.\n- You clear an Armor Slot.\n- The target must mark an additional Hit Point.\n\nYou can't choose the same option more than once.",
-  "translation": "## **斗士锐锋 5级利刃能力 回想费用: 1**\n\n当你攻击获得关键成功时，你可以**花费至多3希望点**，并为每点花费的希望选择以下一项效果：\n\n- 你恢复一点生命点。\n- 你恢复一个护甲槽。\n- 目标必须标记1点额外的生命。\n\n你不能选择同一项效果超过一次。",
-  "stage": 1,
+  "translation": "## **勇士锐锋 5级利刃能力 回想费用: 1**\n\n当你攻击获得关键成功时，你可以**花费至多3希望点**，并为每点花费的希望选择以下一项效果：\n\n- 你**恢复 1 生命点**。\n- 你**清除 1 护甲槽**。\n- 目标必须标记1点额外的生命。\n\n你不能选择同一项效果超过一次。",
+  "stage": 5,
   "context": "## **冠军之锋 5级利刃能力 回想费用: 1**\n\n当你攻击获得关键成功时，你可以**花费至多3点希望**，并为每点花费的希望选择以下一项效果：\n\n- 你恢复一点生命点。\n- 你恢复一个护甲槽。\n- 目标必须标记额外的生命点。\n\n你不能选择同一项效果超过一次。"
  },
  {
@@ -284,15 +284,15 @@
   "key": "SECTION_1965",
   "original": "## **VITALITY Level 5 Blade Ability Recall Cost: 0**\n\nWhen you choose this card, permanently gain two of the following benefits:\n\n- One Stress slot\n- One Hit Point slot\n\n• +2 bonus to your damage thresholds Then place this card in your vault permanently.",
   "translation": "## **蓬勃生命 5级利刃能力 回想费用: 0**\n\n当你选择此牌时，选择永久获得以下选项中的两项：\n- 一个压力槽\n- 一个生命槽\n- 你的所有伤害阈值获得+2加值\n然后将此牌永久放入你的宝库。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **活力 5级利刃能力 回想费用: 0**\n\n当你选择此牌时，永久获得以下两项好处：\n\n- 一个压力槽\n- 一个生命点槽\n\n• 你的伤害阈值获得+2加值 然后将此牌永久放入你的宝库。"
  },
  {
   "id": 669702397,
   "key": "SECTION_1966",
   "original": "## **BATTLE-HARDENED Level 6 Blade Ability Recall Cost: 2**\n\nOnce per long rest when you would make a Death Move, you can **spend a Hope** to clear a Hit Point instead.",
-  "translation": "## **久经沙场 6级利刃能力 回想费用: 2**\n\n每长休一次，当你将进行死亡行动时，你可以**花费1希望点**来恢复一点生命点，而非进行死亡行动。",
-  "stage": 1,
+  "translation": "## **久经沙场 6级利刃能力 回想费用: 2**\n\n每长休一次，当你将进行死亡行动时，你可以**花费1希望点**来恢复1生命点，而非进行死亡行动。",
+  "stage": 5,
   "context": "## **久经沙场 6级利刃能力 回想费用: 2**\n\n每次长休一次，当你将进行死亡行动时，你可以**花费一点希望**来恢复一点生命点，而非进行死亡行动。"
  },
  {
@@ -300,7 +300,7 @@
   "key": "SECTION_1967",
   "original": "## **RAGE UP**\n\n**Level 6 Blade Ability Recall Cost: 1**\n\nBefore you make an attack, you can **mark a Stress** to gain a bonus to your damage roll equal to twice your Strength.\n\nYou can Rage Up twice per attack.",
   "translation": "## **怒意重击**\n\n**6级利刃能力 回想费用: 1**\n\n在你进行攻击之前，你可以**标记1压力点**，使你的伤害掷骰获得等同于你力量值两倍的加值。\n\n每次攻击你可以狂怒两次。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **狂怒**\n\n**6级利刃能力 回想费用: 1**\n\n在你进行攻击之前，你可以**标记一点压力**，使你的伤害掷骰获得等同于你力量值两倍的加值。\n\n每次攻击你可以狂怒两次。"
  },
  {
@@ -308,7 +308,7 @@
   "key": "SECTION_1968",
   "original": "## **BLADE-TOUCHED Level 7 Blade Ability Recall Cost: 1**\n\nWhen 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:\n\n- +2 bonus to your attack rolls\n- +4 bonus to your Severe damage threshold",
   "translation": "## **利刃恩泽 7级利刃能力 回想费用: 1**\n\n当你的配置中有4张或更多领域卡来自利刃领域时，获得以下好处：\n\n- 你的攻击掷骰获得+2加值\n- 你的严重伤害阈值获得+4加值",
-  "stage": 1,
+  "stage": 5,
   "context": "## **利刃触碰 7级利刃能力 回想费用: 1**\n\n当你的配置中有4张或更多领域卡来自利刃领域时，获得以下好处：\n\n- 你的攻击掷骰获得+2加值\n- 你的重伤伤害阈值获得+4加值"
  },
  {
@@ -316,7 +316,7 @@
   "key": "SECTION_1969",
   "original": "## **GLANCING BLOW Level 7 Blade Ability Recall Cost: 1**\n\nWhen you fail an attack, you can **mark a Stress** to deal weapon damage using half your Proficiency.",
   "translation": "## **掠边打击 7级利刃能力 回想费用: 1**\n\n当你攻击失败时，你可以**标记1压力点**，使用你熟练值的一半来造成武器伤害。",
-  "stage": 1,
+  "stage": 2,
   "context": "## **擦伤 7级利刃能力 回想费用: 1**\n\n当你攻击失败时，你可以**标记一点压力**，使用你熟练值的一半来造成武器伤害。"
  },
  {
@@ -324,15 +324,15 @@
   "key": "SECTION_1970",
   "original": "## **BATTLE CRY Level 8 Blade Ability Recall Cost: 2**\n\nOnce per long rest, while you're charging into danger, you can muster a rousing call that inspires your allies. All allies who can hear you each clear a Stress and gain a Hope. Additionally, your allies gain advantage on attack rolls until you or an ally rolls a failure with Fear.",
   "translation": "## **战斗咆哮 8级利刃能力 回想费用: 2**\n\n每长休一次，当你在向危险发起冲锋时，你可以发出振奋人心的呼唤，激励你的盟友。所有能听到你的盟友各清除1压力点，并获得1希望点。此外，你的盟友在攻击掷骰上获得优势，直到你或一名盟友骰出恐惧结果的失败。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **战吼 8级利刃能力 回想费用: 2**\n\n每次长休一次，当你在冲向危险时，你可以发出振奋人心的呼唤，激励你的盟友。所有能听到你的盟友各清除一点压力，并获得一点希望。此外，你的盟友在攻击掷骰上获得优势，直到你或一名盟友骰出恐惧结果的失败。"
  },
  {
   "id": 669702402,
   "key": "SECTION_1971",
   "original": "## **FRENZY Level 8 Blade Ability Recall Cost: 3**\n\nOnce per long rest, you can go into a *Frenzy* until there are no more adversaries within sight.\n\nWhile *Frenzied*, you can't use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold.",
-  "translation": "## **狂热出击 8级利刃能力 回想费用: 3**\n\n每次长休一次，你可以进入*狂热*状态，直到视野范围内没有更多敌人为止。\n\n处于*狂热*状态时，你不能使用护甲槽，你的伤害掷骰获得+10加值，你的严重伤害阈值获得+8加值。",
-  "stage": 1,
+  "translation": "## **狂怒出击 8级利刃能力 回想费用: 3**\n\n每次长休一次，你可以进入*狂怒*状态，直到视野范围内没有更多敌人为止。\n\n处于*狂怒*状态时，你不能使用护甲槽，你的伤害掷骰获得+10加值，你的严重伤害阈值获得+8加值。",
+  "stage": 5,
   "context": "## **狂热 8级利刃能力 回想费用: 3**\n\n每次长休一次，你可以进入*狂热*状态，直到视野范围内没有更多敌人为止。\n\n处于*狂热*状态时，你不能使用护甲槽，你的伤害掷骰获得+10加值，你的重伤伤害阈值获得+8加值。"
  },
  {
@@ -340,31 +340,31 @@
   "key": "SECTION_1972",
   "original": "## **GORE AND GLORY Level 9 Blade Ability Recall Cost: 2**\n\nWhen you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.\n\nAdditionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress.",
   "translation": "## **血与荣耀 9级利刃能力 回想费用: 2**\n\n当你使用武器攻击获得关键成功时，额外获得1希望点或清除1压力点。\n\n此外，当你造成足够的伤害击败敌人时，获得1希望点或清除1压力点。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **血肉与荣耀 9级利刃能力 回想费用: 2**\n\n当你使用武器攻击获得关键成功时，额外获得一点希望或清除一点压力。\n\n此外，当你造成足够的伤害击败敌人时，获得一点希望或清除一点压力。"
  },
  {
   "id": 669702404,
   "key": "SECTION_1973",
   "original": "## **REAPER'S STRIKE Level 9 Blade Ability Recall Cost: 3**\n\nOnce per long rest, **spend a Hope** to make an attack roll. The GM tells you which targets within range it would succeed against. Choose one of these targets and force them to mark 5 Hit Points.",
-  "translation": "## **收割打击 9级利刃能力 回想费用: 3**\n\n每长休一次，**花费1希望点**进行一次攻击掷骰。游戏主持人会告诉你范围内哪些目标会受到攻击。选择其中一个目标，并迫使他们标记5点生命值。",
-  "stage": 1,
+  "translation": "## **死亡收割 9级利刃能力 回想费用: 3**\n\n每长休一次，**花费1希望点**进行一次攻击掷骰。游戏主持人会告诉你范围内哪些目标会受到攻击。选择其中一个目标，并迫使他们标记5生命点。",
+  "stage": 5,
   "context": "## **收割者之击 9级利刃能力 回想费用: 3**\n\n每次长休一次，**花费一点希望**进行一次攻击掷骰。GM会告诉你范围内哪些目标会受到攻击。选择其中一个目标，并迫使他们标记5点生命值。"
  },
  {
   "id": 669702405,
   "key": "SECTION_1974",
   "original": "## **BATTLE MONSTER Level 10 Blade Ability Recall Cost: 0**\n\nWhen you make a successful attack against an adversary, you can **mark 4 Stress** to force the target to mark a number of Hit Points equal to the number of Hit Points you currently have marked instead of rolling for damage.",
-  "translation": "## **战斗怪兽 10级利刃能力 回想费用: 0**\n\n当你对敌人进行成功攻击时，你可以**标记4压力点**，迫使目标标记等同于你当前已标记生命点数的生命点，而不是掷骰决定伤害。",
-  "stage": 1,
+  "translation": "## **战场猛兽 10级利刃能力 回想费用: 0**\n\n当你对敌人进行成功攻击时，你可以**标记4压力点**，迫使目标标记等同于你当前已标记生命点数的生命点，而不是掷骰决定伤害。",
+  "stage": 5,
   "context": "## **战斗怪兽 10级利刃能力 回想费用: 0**\n\n当你对敌人进行成功攻击时，你可以**标记4点压力**，迫使目标标记等同于你当前已标记生命点数的生命点，而不是掷骰决定伤害。"
  },
  {
   "id": 669702406,
   "key": "SECTION_1975",
   "original": "## **ONSLAUGHT Level 10 Blade Ability Recall Cost: 3**\n\nWhen you successfully make an attack with your weapon, you never deal damage beneath a target's Major damage threshold (the target always marks a minimum of 2 Hit Points).\n\nAdditionally, when a creature within your weapon's range deals damage to an ally with an attack that doesn't include you, you can **mark a Stress** to force them to make a Reaction Roll (15). On a failure, the target must mark a Hit Point.",
-  "translation": "## **猛击强袭 10级利刃能力 回想费用: 3**\n\n当你成功使用武器进行攻击时，你造成的伤害绝不会低于目标的重度伤害阈值（目标总是至少标记2点生命点）。\n\n此外，当一个位于你武器射程内的生物对你的盟友造成伤害，且该攻击不包含你时，你可以**标记1压力点**，迫使他们进行一次反应掷骰（15）。如果失败，目标必须标记1点生命点。",
-  "stage": 1,
+  "translation": "## **猛攻强袭 10级利刃能力 回想费用: 3**\n\n当你成功使用武器进行攻击时，你造成的伤害绝不会低于目标的重度伤害阈值（目标总是至少标记2点生命点）。\n\n此外，当一个位于你武器射程内的生物对你的盟友造成伤害，且该攻击不包含你时，你可以**标记1压力点**，迫使他们进行一次反应掷骰（15）。如果失败，目标必须标记1点生命点。",
+  "stage": 2,
   "context": "## **猛攻 10级利刃能力 回想费用: 3**\n\n当你成功使用武器进行攻击时，你造成的伤害绝不会低于目标的损伤阈值（目标总是至少标记2点生命点）。\n\n此外，当一个位于你武器射程内的生物对你的盟友造成伤害，且该攻击不包含你时，你可以**标记一点压力**，迫使他们进行一次反应掷骰（15）。如果失败，目标必须标记1点生命点。"
  },
  {
@@ -372,15 +372,15 @@
   "key": "SECTION_1976",
   "original": "## <span id=\"page-331-0\"></span>BONE DOMAIN",
   "translation": "## <span id=\"page-331-0\"></span>骸骨领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## <span></span>骸骨领域"
  },
  {
   "id": 669702408,
   "key": "SECTION_1977",
   "original": "### **DEFT MANEUVERS Level 1 Bone Ability Recall Cost: 0**\n\nOnce per rest, **mark a Stress** to sprint anywhere within Far range without making an Agility Roll to get there.\n\nIf you end this movement within Melee range of an adversary and immediately make an attack against them, gain a +1 bonus to the attack roll.",
-  "translation": "### **灵巧机动 1级骸骨能力 回想费用: 0**\n\n每次休息一次，**标记1压力点**，可以在远距离范围内冲刺到任意地点，无需进行敏捷掷骰。\n\n如果你在此移动结束时处于某个敌人的近战范围内，并立即对他们发起攻击，你的攻击掷骰获得+1加值。",
-  "stage": 1,
+  "translation": "### **灵巧机动 1级骸骨能力 回想费用: 0**\n\n每次休息一次，**标记 1 压力点**，可以在远距离范围内冲刺到任意地点，无需进行敏捷掷骰。\n\n如果你在此移动结束时处于某个敌人的近战范围内，并立即对他们发起攻击，你的攻击掷骰获得+1加值。",
+  "stage": 5,
   "context": "### **灵巧机动 1级骸骨能力 回想费用: 0**\n\n每次休息一次，**标记一点压力**，可以在远距离范围内冲刺到任意地点，无需进行敏捷掷骰。\n\n如果你在此移动结束时处于某个敌人的近战范围内，并立即对他们发起攻击，你的攻击掷骰获得+1加值。"
  },
  {
@@ -388,47 +388,47 @@
   "key": "SECTION_1978",
   "original": "## **I SEE IT COMING Level 1 Bone Ability Recall Cost: 1**\n\nWhen you're targeted by an attack made from beyond Melee range, you can **mark a Stress** to roll a **d4** and gain a bonus to your Evasion equal to the result against the attack.",
   "translation": "## **先见之明 1级骸骨能力 回想费用: 1**\n\n当你成为来自近战范围之外的攻击目标时，你可以**标记1压力点**，掷一个**d4**，并获得等同于结果的闪避值加值来对抗该攻击。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **我预见到了 1级骸骨能力 回想费用: 1**\n\n当你成为来自近战范围之外的攻击目标时，你可以**标记一点压力**，掷一个**d4**，并获得等同于结果的闪避值加值来对抗该攻击。"
  },
  {
   "id": 669702410,
   "key": "SECTION_1979",
   "original": "### **UNTOUCHABLE Level 1 Bone Ability Recall Cost: 1**\n\nGain a bonus to your Evasion equal to half your Agility.",
-  "translation": "### **不可触碰 1级骸骨能力 回想费用: 1**\n\n你的闪避值获得等同于你敏捷值一半的加值。",
-  "stage": 1,
+  "translation": "### **不可侵犯 1级骸骨能力 回想费用: 1**\n\n你的闪避值获得等同于你敏捷值一半的加值。",
+  "stage": 5,
   "context": "### **不可触碰 1级骸骨能力 回想费用: 1**\n\n你的闪避值获得等同于你敏捷值一半的加值。"
  },
  {
   "id": 669702411,
   "key": "SECTION_1980",
   "original": "## **FEROCITY Level 2 Bone Ability Recall Cost: 2**\n\nWhen you cause an adversary to mark 1 or more Hit Points, you can **spend 2 Hope** to increase your Evasion by the number of Hit Points they marked. This bonus lasts until after the next attack made against you.",
-  "translation": "## **残虐暴行 2级骸骨能力 回想费用: 2**\n\n当你使一个敌人标记1点或更多生命点时，你可以**花费2希望点**，你的闪避值提高等同于他们标记的生命点数。此加值持续到对你进行的下一次攻击之后。",
-  "stage": 1,
+  "translation": "## **嗜血暴行 2级骸骨能力 回想费用: 2**\n\n当你使一个敌人标记1点或更多生命点时，你可以**花费 2 希望点**，你的闪避值提高等同于他们标记的生命点数。此加值持续到对你进行的下一次攻击之后。",
+  "stage": 2,
   "context": "## **凶猛 2级骸骨能力 回想费用: 2**\n\n当你使一个敌人标记1点或更多生命点时，你可以**花费2点希望**，你的闪避值提高等同于他们标记的生命点数。此加值持续到对你进行的下一次攻击之后。"
  },
  {
   "id": 669702412,
   "key": "SECTION_1981",
   "original": "### **STRATEGIC APPROACH Level 2 Bone Ability Recall Cost: 1**\n\nAfter a long rest, place a number of tokens equal to your Knowledge on this card (minimum 1). The first time you move within Close range of an adversary and make an attack against them, you can spend one token to choose one of the following options:\n\n- You make the attack with advantage.\n- You clear a Stress on an ally within Melee range of the adversary.\n\n• You add a **d8** to your damage roll. When you take a long rest, clear all unspent tokens.",
-  "translation": "### **战术方针 2级骸骨能力 回想费用: 1**\n\n在一次长休后，在此卡上放置等同于你知识属性值的指示物（最少1个）。当你第一次移动到与一个敌人处于近距离范围以内并对其进行攻击时，你可以花费一个指示物来选择以下选项之一：\n\n- 你进行此次攻击时具有优势。\n- 你清除一个处于该敌人近战范围内的盟友的一点压力。\n- 你在你的伤害掷骰中增加一个**d8**。\n\n当你进行长休时，清除所有未使用的指示物。",
-  "stage": 1,
+  "translation": "### **战术方针 2级骸骨能力 回想费用: 1**\n\n在一次长休后，在此卡上放置等同于你知识属性值的指示物（最少1个）。当你第一次移动到与一个敌人处于近距离范围以内并对其进行攻击时，你可以花费一个指示物来选择以下选项之一：\n\n- 你进行此次攻击时具有优势。\n- 你清除一个处于该敌人近战范围内的盟友的1压力点。\n- 你在你的伤害掷骰中增加一个**d8**。\n\n当你进行长休时，清除所有未使用的指示物。",
+  "stage": 5,
   "context": "### **战略方法 2级骸骨能力 回想费用: 1**\n\n在一次长休后，在此卡上放置等同于你知识值的标记（最少1个）。当你第一次移动到与一个敌人处于近距离范围以内并对其进行攻击时，你可以花费一个标记来选择以下选项之一：\n\n- 你进行此次攻击时具有优势。\n- 你清除一个处于该敌人近战范围内的盟友的一点压力。\n\n• 你在你的伤害掷骰中增加一个**d8**。当你进行一次长休时，清除所有未使用的标记。"
  },
  {
   "id": 669702413,
   "key": "SECTION_1982",
   "original": "### **BRACE Level 3 Bone Ability**\\n## **Recall Cost: 1** When you mark an Armor Slot to reduce incoming damage, you can **mark a Stress** to mark an additional Armor Slot.",
-  "translation": "### **鼓起勇气 3级骸骨能力 回想费用: 1**\n\n当你标记一个护甲槽来减少受到的伤害时，你可以**标记1压力点**来标记一个额外的护甲槽。",
-  "stage": 1,
+  "translation": "### **警戒防备 3级骸骨能力 回想费用: 1**\n\n当你标记一个护甲槽来减少受到的伤害时，你可以**标记1压力点**来标记一个额外的护甲槽。",
+  "stage": 5,
   "context": "### **振作 3级骸骨能力**\n## **回想费用: 1**\n\n当你标记一个护甲槽来减少受到的伤害时，你可以**标记一点压力**来标记一个额外的护甲槽。"
  },
  {
   "id": 669702415,
   "key": "SECTION_1984",
   "original": "## **TACTICIAN Level 3 Bone Ability Recall Cost: 1**\n\nWhen you Help an Ally, they can spend a Hope to add one of your Experiences to their roll alongside your advantage die.\n\nWhen making a Tag Team Roll, you can roll a **d20** as your Hope Die.",
-  "translation": "## **战术行家 3级骸骨能力 回想费用: 1**\n\n当你协助一个盟友时，他们可以花费1希望点，将你的一项经历加入他们的掷骰中，并与你的优势骰一同掷出。\n\n进行接力掷骰时，你可以掷一个**d20**作为你的希望骰。",
-  "stage": 1,
+  "translation": "## **战术行家 3级骸骨能力 回想费用: 1**\n\n当你协助一个盟友时，他们可以花费1希望点，将你的一项经历作为加值加入他们的掷骰结果中，并与你的优势骰一同掷出。\n\n进行接力掷骰时，你可以掷一个**d20**作为你的希望骰。",
+  "stage": 5,
   "context": "## **战术家 3级骸骨能力 回想费用: 1**\n\n当你协助一个盟友时，他们可以花费一点希望，将你的一点经历加入他们的掷骰中，并与你的优势骰一同掷出。\n\n进行接力掷骰时，你可以掷一个**d20**作为你的希望骰。"
  },
  {
@@ -436,15 +436,15 @@
   "key": "SECTION_1985",
   "original": "## **BOOST Level 4 Bone Ability Recall Cost: 1**\n\n**Mark a Stress** to boost off a willing ally within Close range, fling yourself into the air, and perform an aerial attack against a target within Far range. You have advantage on the attack, add a **d10** to the damage roll, and end your move within Melee range of the target.",
   "translation": "## **高高跃起 4级骸骨能力 回想费用: 1**\n\n**标记1压力点**，从近距离范围内的自愿盟友处借力，冲向空中，对远距离范围内的目标进行一次空中攻击。这次攻击你获得优势，在伤害掷骰中额外加上一个**d10**，并在目标近战范围内结束你的行动。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **助推 4级骸骨能力 回想费用: 1**\n\n**标记一点压力**，从近距离范围内的自愿盟友处借力，将自己抛向空中，对远距离范围内的目标进行一次空中攻击。这次攻击你获得优势，在伤害掷骰中额外加上一个**d10**，并在目标近战范围内结束你的移动。"
  },
  {
   "id": 669702417,
   "key": "SECTION_1986",
   "original": "## **REDIRECT Level 4 Bone Ability Recall Cost: 1**\\nWhen an attack made against you from beyond Melee range fails, roll a number of **d6s** equal to your Proficiency. If any roll a 6, you can **mark a Stress** to redirect the attack to damage an adversary within Very Close range instead.\\n",
-  "translation": "## **重定新向 4级骸骨能力 回想费用: 1**\n\n当一次来自近战范围之外、针对你的攻击失败时，掷出等同于你熟练度的**d6**。如果任意一个骰子掷出6，你可以**标记1压力点**，将这次攻击重新定向，改为对邻近范围内的敌人造成伤害。",
-  "stage": 1,
+  "translation": "## **借力打力 4级骸骨能力 回想费用: 1**\n\n当一次来自近战范围之外、针对你的攻击失败时，掷出等同于你熟练度的**d6**。如果任意一个骰子掷出6，你可以**标记1压力点**，将这次攻击改为对邻近范围内的敌人造成伤害。",
+  "stage": 5,
   "context": "## **重定向 4级骸骨能力 回想费用: 1**\n\n当一次来自近战范围之外、针对你的攻击失败时，掷出等同于你熟练度的**d6**。如果任意一个骰子掷出6，你可以**标记一点压力**，将这次攻击重定向，改为对邻近范围内的敌方造成伤害。"
  },
  {
@@ -452,7 +452,7 @@
   "key": "SECTION_1988",
   "original": "## **KNOW THY ENEMY Level 5 Bone Ability Recall Cost: 1**\n\nWhen observing a creature, you can make an **Instinct Roll** against them. On a success, **spend a Hope** and ask the GM for one set of information about the target from the following options:\n\n- Their unmarked Hit Points and Stress.\n- Their Difficulty and damage thresholds.\n- Their tactics and standard attack damage dice.\n- Their features and Experiences. Additionally on a success, you can **mark a Stress** to remove a Fear from the GM's Fear Pool.",
   "translation": "## **知己知彼 5级骸骨能力 回想费用: 1**\n\n观察一个生物时，你可以对其进行一次**本能掷骰**。成功时，**花费1希望点**并向GM询问目标以下选项中的一组信息：\n\n- 其未标记的生命点和压力。\n- 其难度和伤害阈值。\n- 其战术和标准攻击伤害骰。\n- 其特性和经历。\n\n此外，成功时，你可以**标记1压力点**以移除游戏主持人恐惧池中的1恐惧点。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **知己知彼 5级骸骨能力 回想费用: 1**\n\n观察一个生物时，你可以对其进行一次**本能掷骰**。成功时，**花费一点希望**并向GM询问目标以下选项中的一组信息：\n\n- 其未标记的生命点和压力。\n- 其难度和伤害阈值。\n- 其战术和标准攻击伤害骰。\n- 其特性和经历。此外，成功时，你可以**标记一点压力**以移除GM恐惧池中的一点恐惧。"
  },
  {
@@ -460,55 +460,47 @@
   "key": "SECTION_1989",
   "original": "## **SIGNATURE MOVE Level 5 Bone Ability Recall Cost: 1**\\n\\nName and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you're taking, you can roll a **d20** as your Hope Die. On a success, clear a Stress.\\n\\n![](_page_331_Picture_34.jpeg)\\n\\n![](_page_331_Picture_35.jpeg)",
   "translation": "## **招牌动作 5级骸骨能力 回想费用: 1**\n\n命名并描述你的招牌战斗动作。每次休息后，当你执行此招牌动作作为你所采取行动的一部分时，你可以将一个**d20**作为你的希望骰进行掷骰。成功时，清除1压力点。\n\n![](_page_331_Picture_34.jpeg)\n\n![](_page_331_Picture_35.jpeg)",
-  "stage": 1,
+  "stage": 5,
   "context": "## **招牌动作 5级骸骨能力 回想费用: 1**\n\n命名并描述你的招牌战斗动作。每次休息后，当你执行此招牌动作作为你所采取行动的一部分时，你可以将一个**d20**作为你的希望骰进行掷骰。成功时，清除一点压力。\n\n![](_page_331_Picture_34.jpeg)\n\n![](_page_331_Picture_35.jpeg)"
  },
  {
   "id": 669702421,
   "key": "SECTION_1990",
-  "original": "## **RECOVERY Level 6 Bone Ability Recall Cost: 1**\n\nDuring a short rest, you can choose a long rest downtime move instead. You can **spend a Hope** to let an ally do the same.",
-  "translation": "## **恢复如新 6级骸骨能力 回想费用: 1**\n\n在一次短休期间，你可以选择进行一次长休的休息行动。你可以**花费1希望点**让一个盟友也如此做。",
-  "stage": 1,
+  "original": "## **RECOVERY Level 6 Bone Ability Recall Cost: 1**\\n\\nDuring a short rest, you can choose a long rest downtime move instead. You can **spend a Hope** to let an ally do the same.",
+  "translation": "## **恢复如新 6级骸骨能力 回想费用: 1**\n\n在一次短休期间，你可以选择进行一次长休的休整行动。你可以**花费1希望点**让一个盟友也同样进行选择。",
+  "stage": 5,
   "context": "## **恢复 6级骸骨能力 回想费用: 1**\n\n在一次短休息期间，你可以选择进行一次长休息的休息行动。你可以**花费一点希望**让一个盟友也这样做。"
  },
  {
   "id": 669702422,
   "key": "SECTION_1991",
   "original": "## **BONE-TOUCHED Level 7 Bone Ability Recall Cost: 2**\n\nWhen 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:\n\n- +1 bonus to Agility\n- Once per rest, you can **spend 3 Hope** to cause an attack that succeeded against you to fail instead.",
-  "translation": "## **骸骨恩泽 7级骸骨能力 回想费用: 2**\n\n当你的配置中有4张或更多领域卡来自骸骨领域时，获得以下增益：\n\n- 敏捷+1\n- 每次休息一次，你可以**花费3希望点**，使一次成功针对你的攻击转为失败。",
-  "stage": 1,
+  "translation": "## **骸骨恩泽 7级骸骨能力 回想费用: 2**\n\n当你的配置中有4张或更多领域卡来自骸骨领域时，获得以下增益：\n\n- 敏捷+1\n- 每次休息一次，你可以**花费3希望点**，使一次针对你的成功攻击转为失败。",
+  "stage": 5,
   "context": "## **骸骨触碰 7级骸骨能力 回想费用: 2**\n\n当你的配置中有4张或更多领域卡来自骸骨领域时，获得以下增益：\n\n- 敏捷+1\n- 每次休息后，你可以**花费3点希望**，使一次成功针对你的攻击转为失败。"
  },
  {
   "id": 669702423,
   "key": "SECTION_1992",
   "original": "### **CRUEL PRECISION Level 7 Bone Ability Recall Cost: 1**\n\nWhen you make a successful attack with a weapon, gain a bonus to your damage roll equal to either your Finesse or Agility.",
-  "translation": "### **残酷精准 7级骸骨能力 回想费用: 1**\n\n当你使用武器进行一次成功的攻击时，你的伤害掷骰获得一个等同于你的灵巧或敏捷的加值。",
-  "stage": 1,
+  "translation": "### **残酷精准 7级骸骨能力 回想费用: 1**\n\n当你使用武器成功攻击时，你的伤害掷骰获得等同于你的灵巧或敏捷的加值。",
+  "stage": 5,
   "context": "### **残忍精准 7级骸骨能力 回想费用: 1**\n\n当你使用武器进行一次成功的攻击时，你的伤害掷骰获得一个等同于你的灵巧或敏捷的加值。"
  },
  {
   "id": 669702424,
   "key": "SECTION_1993",
   "original": "## **BREAKING BLOW Level 8 Bone Ability Recall Cost: 3**\n\nWhen you make a successful attack, you can **mark a Stress** to make the next successful attack against that same target deal an extra **2d12** damage.",
-  "translation": "## **突破打击 8级骸骨能力 回想费用: 3**\n\n当你进行一次成功的攻击时，你可以**标记1压力点**，使下一次成功针对同一目标的攻击额外造成**2d12**点伤害。",
-  "stage": 1,
+  "translation": "## **碎骨打击 8级骸骨能力 回想费用: 3**\n\n当你进行一次成功的攻击时，你可以**标记1压力点**，使下一次成功针对同一目标的攻击额外造成**2d12**点伤害。",
+  "stage": 5,
   "context": "## **破甲击 8级骸骨能力 回想费用: 3**\n\n当你进行一次成功的攻击时，你可以**标记一点压力**，使下一次成功针对同一目标的攻击额外造成**2d12**点伤害。"
- },
- {
- "id": 670258892,
- "key": "SECTION_1994",
- "original": "## **RAPID RIPOSTE Level 6 Bone Ability Recall Cost: 0**When an attack made against you from within Melee range fails, you can mark a Stress and seize  the opportunity to \\ndeal the weapon damage of one of your active weapons to the attacker.",
- "translation": "## **迅速报复 6级骸骨能力 回想费用: 0**\\n\\n当一次来自近战范围内、针对你的攻击失败时，你可以**标记1压力点**并抓住机会，对攻击者造成你一件已装备武器的武器伤害。 ",
- "stage": 1,
- "context": "当一次来自近战范围内、针对你的攻击失败时，你可以**标记一点压力**并抓住机会，对攻击者造成你一件已装备武器的武器伤害。"
  },
  {
   "id": 669702426,
   "key": "SECTION_1995",
   "original": "#### **WRANGLE Level 8 Bone Ability Recall Cost: 1**\\n\\nMake an Agility Roll against all targets within Close range. **Spend a Hope** to move targets you succeed against, and any willing allies within Close range, to another point within Close range.",
-  "translation": "#### **相持缠战 8级骸骨能力 回想费用: 1**\n\n对近距离范围内的所有目标进行一次敏捷掷骰。**花费1希望点**，将你成功对抗的目标，以及近距离范围内的任意自愿盟友，移动到近距离范围内的另一个位置。",
-  "stage": 1,
+  "translation": "#### **缠斗乱战 8级骸骨能力 回想费用: 1**\n\n对近距离范围内的所有目标进行一次敏捷掷骰。**花费1希望点**，将你成功对抗的目标，以及近距离范围内的任意自愿盟友，移动到近距离范围内的另一个位置。",
+  "stage": 5,
   "context": "#### **缠斗 8级骸骨能力 回想费用: 1**\n\n对近距离范围内的所有目标进行一次敏捷掷骰。**花费一点希望**，将你成功对抗的目标，以及近距离范围内的任意自愿盟友，移动到近距离范围内的另一个点。"
  },
  {
@@ -516,7 +508,7 @@
   "key": "SECTION_1996",
   "original": "## **ON THE BRINK Level 9 Bone Ability Recall Cost: 1**\n\nWhen you have 2 or fewer Hit Points unmarked, you don't take Minor damage.",
   "translation": "## **生死边缘 9级骸骨能力 回想费用: 1**\n\n当你未标记的生命点为2点或更少时，你不会受到轻度伤害。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **危境 9级骸骨能力 回想费用: 1**\n\n当你未标记的生命点为2点或更少时，你不会受到轻伤。"
  },
  {
@@ -524,23 +516,23 @@
   "key": "SECTION_1997",
   "original": "### <span id=\"page-332-0\"></span>**SPLINTERING STRIKE Level 9 Bone Ability Recall Cost: 3**\n\n**Spend a Hope** and make an attack against all adversaries within your weapon's range. Once per long rest, on a success against any targets, add up the damage dealt, then redistribute that damage however you wish between the targets you succeeded against. When you deal damage to a target, roll an additional damage die and add its result to the damage you deal to that target.",
   "translation": "### <span id=\"page-332-0\"></span>**分裂打击 9级骸骨能力 回想费用: 3**\n\n**花费1希望点**，对你武器射程内的所有敌人进行一次攻击。每长休一次，对任意目标成功时，将造成的伤害加总，然后你可以随意将这些伤害分配给你成功对抗的目标。当你对一个目标造成伤害时，额外掷一个伤害骰，将其结果加入你对该目标造成的伤害中。",
-  "stage": 1,
+  "stage": 5,
   "context": "### <span></span>**碎骨打击 9级骸骨能力 回想费用: 3**\n\n**花费一点希望**，对你武器射程内的所有敌人进行一次攻击。每长休一次，对任意目标成功时，将造成的伤害加总，然后你可以随意将这些伤害分配给你成功对抗的目标。当你对一个目标造成伤害时，额外掷一个伤害骰，将其结果加入你对该目标造成的伤害中。"
  },
  {
   "id": 669702429,
   "key": "SECTION_1998",
   "original": "## **DEATHRUN Level 10 Bone Ability Recall Cost: 1**\n\n**Spend 3 Hope** to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon's range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.\n\nYou can't target the same adversary more than once per attack.",
-  "translation": "## **死亡奔袭 10级骸骨能力 回想费用: 1**\n\n**花费3希望点**，在战场上沿直线奔跑，直至到达远距离范围内的某个点，并对该路径上你武器射程内的所有敌人进行一次攻击。选择你对成功对抗的目标造成伤害的顺序。对第一个目标，掷你的武器伤害骰，你的熟练值获得+1加值。然后从你的伤害掷骰中移除一个骰子，并将剩余的伤害分配给下一个目标。对每个后续目标继续移除一个骰子，直到你没有更多的伤害骰或敌人为止。\n\n每次攻击不能以同一个敌人为目标超过一次。",
-  "stage": 1,
+  "translation": "## **死亡奔袭 10级骸骨能力 回想费用: 1**\n\n**花费3希望点**，在战场上沿直线奔跑，直至到达远距离范围内的某个点，并对该路径上你武器射程内的所有敌人进行一次攻击。选择你成功对抗的目标造成伤害的顺序。对第一个目标掷出你的武器伤害骰时，你的熟练值获得+1加值。然后从你的伤害掷骰中移除一个骰子，并将剩余的伤害分配给下一个目标。每个后续目标均移除一个骰子，直到你没有更多的伤害骰或敌人为止。\n\n每次攻击不能以同一个敌人为目标超过一次。",
+  "stage": 5,
   "context": "## **死亡奔袭 10级骸骨能力 回想费用: 1**\n\n**花费3点希望**，在战场上沿直线奔跑，到达远距离范围内的某个点，并对该路径上你武器射程内的所有敌人进行一次攻击。选择你对成功对抗的目标造成伤害的顺序。对第一个目标，掷你的武器伤害骰，你的熟练值获得+1加值。然后从你的伤害掷骰中移除一个骰子，并将剩余的伤害分配给下一个目标。对每个后续目标继续移除一个骰子，直到你没有更多的伤害骰或敌人为止。\n\n每次攻击不能以同一个敌人为目标超过一次。"
  },
  {
   "id": 669702430,
   "key": "SECTION_1999",
   "original": "## **SWIFT STEP Level 10 Bone Ability Recall Cost: 2**\n\nWhen an attack made against you fails, clear a Stress. If you can't clear a Stress, gain a Hope.",
-  "translation": "## **迅捷步伐 10级骸骨能力 回想费用: 2**\n\n当一次针对你的攻击失败时，清除一点压力。如果你无压力以供清除，则获得一点希望。",
-  "stage": 1,
+  "translation": "## **迅捷步伐 10级骸骨能力 回想费用: 2**\n\n当一次针对你的攻击失败时，清除1压力点。你无压力可供清除时，则获得1希望点。",
+  "stage": 2,
   "context": "## **迅捷步伐 10级骸骨能力 回想费用: 2**\n\n当一次针对你的攻击失败时，清除一点压力。如果你无法清除压力，获得一点希望。"
  },
  {
@@ -548,7 +540,7 @@
   "key": "SECTION_2000",
   "original": "## CODEX DOMAIN",
   "translation": "## 典籍领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## 法典领域"
  },
  {
@@ -682,8 +674,8 @@
  {
   "id": 669702453,
   "key": "SECTION_2022",
-  "original": "## <span id=\"page-334-0\"></span>**SAFE HAVEN Level 8 Codex Spell Recall Cost: 3**\n\nWhen you have a few minutes of calm to focus, you can **spend 2 Hope** to summon your Safe Haven, a large interdimensional home where you and your allies can take shelter. When you do, a magical door appears somewhere within Close range. Only creatures of your choice can enter. Once inside, you can make the entrance invisible. You and anyone else inside can always exit. Once you leave, the doorway must be summoned again.\n\nWhen you take a rest within your own Safe Haven, you can choose an additional downtime move.",
-  "translation": "## <span></span>**避风港湾 8级 典籍法术 回想费用: 3**\n\n当你拥有几分钟的平静来集中精神时，你可以**花费2希望点**召唤你的避风港，这是一个大型维度的居所，你和你的盟友可以在其中避难。当你这样做时，一扇魔法门会出现在近距离范围内的某个地方。只有你选择的生物才能进入。进入后，你可以使入口隐形。你和里面的任何其他人总是可以离开。一旦你离开，必须再次召唤入口。\n\n当你在你自己的避风港内休息时，你可以选择一个额外的休息行动。",
+  "original": "## <span id=\"page-334-0\"></span>**SAFE HAVEN Level 8 Codex Spell Recall Cost: 3**\\n\\nWhen you have a few minutes of calm to focus, you can **spend 2 Hope** to summon your Safe Haven, a large interdimensional home where you and your allies can take shelter. When you do, a magical door appears somewhere within Close range. Only creatures of your choice can enter. Once inside, you can make the entrance invisible. You and anyone else inside can always exit. Once you leave, the doorway must be summoned again.\\n\\nWhen you take a rest within your own Safe Haven, you can choose an additional downtime move.",
+  "translation": "## <span></span>**避风港湾 8级 典籍法术 回想费用: 3**\\n\\n当你拥有几分钟的平静来集中精神时，你可以**花费2希望点**召唤你的避风港，这是一个大型维度的居所，你和你的盟友可以在其中避难。当你这样做时，一扇魔法门会出现在近距离范围内的某个地方。只有你选择的生物才能进入。进入后，你可以使入口隐形。你和里面的任何其他人总是可以离开。一旦你离开，必须再次召唤入口。\\n\\n当你在你自己的避风港内休息时，你可以选择一个额外的休整行动。",
   "stage": 1,
   "context": "## <span></span>**安全港湾 8级 法典法术 回想费用: 3**\n\n当你拥有几分钟的平静来集中精神时，你可以**花费2点希望**召唤你的安全港湾，这是一个大型的维度间居所，你和你的盟友可以在其中避难。当你这样做时，一扇魔法门会出现在近距离范围内的某个地方。只有你选择的生物才能进入。进入后，你可以使入口隐形。你和里面的任何其他人总是可以离开。一旦你离开，必须再次召唤入口。\n\n当你在你自己的安全港湾内休息时，你可以选择一个额外的休息行动。"
  },
@@ -786,8 +778,8 @@
  {
   "id": 669702466,
   "key": "SECTION_2035",
-  "original": "## **SOOTHING SPEECH Level 4 Grace Ability Recall Cost: 1**\n\nDuring a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points.",
-  "translation": "## **温言慰心 4级 优雅能力 回想费用: 1**\n\n在一次短休期间，当你对另一个角色使用“处理伤口”休息行动并花费时间进行安慰时，为该角色额外恢复1生命点。当你这样做时，你也会恢复2生命点。",
+  "original": "## **SOOTHING SPEECH Level 4 Grace Ability Recall Cost: 1**\\n\\nDuring a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points.",
+  "translation": "## **温言慰心 4级 优雅能力 回想费用: 1**\\n\\n在一次短休期间，当你对另一个角色使用“处理伤口”休整行动并花费时间进行安慰时，为该角色额外恢复1生命点。当你这样做时，你也会恢复2生命点。",
   "stage": 1,
   "context": "## **抚慰话语 4级 恩典能力 回想费用: 1**\n\n在一次短憩期间，当你使用“照料伤口”休息行动并花费时间安慰另一个角色时，为该角色额外清除1点生命点。当你这样做时，你也会清除2点生命点。"
  },
@@ -1084,15 +1076,15 @@
   "key": "SECTION_2074",
   "original": "### **GIFTED TRACKER Level 1 Sage Ability Recall Cost: 0**\n\nWhen you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.\n\n- What direction did they go?\n- How long ago did they pass through?\n- What were they doing in this location?\n- How many of them were here?\n\nWhen you encounter creatures you've tracked in this way, gain a +1 bonus to your Evasion against them.",
   "translation": "### **天赋追踪 1级 贤者能力 回想费用: 0**\n\n当你根据特定生物或生物群体的踪迹进行追踪时，你可以**花费任意数量的希望点**，并向游戏主持人提出等量的以下问题。\n\n- 他们朝哪个方向去了？\n- 他们是多久之前经过这里的？\n- 他们在这个地方做了什么？\n- 他们数量几何？\n\n当你遭遇到以这种方式追踪到的生物时，对抗他们时你的闪避值获得+1加值。",
-  "stage": 1,
+  "stage": 2,
   "context": "### **天赋追踪者 1级 贤者能力 回想费用: 0**\n\n当你根据特定生物或生物群体的踪迹进行追踪时，你可以**花费任意数量的希望点**，并向GM提出等同数量的以下问题。\n\n- 他们朝哪个方向去了？\n- 他们是多久之前经过这里的？\n- 他们在这个地方做了什么？\n- 他们这里有多少个？\n\n当你遭遇以这种方式追踪到的生物时，你的闪避值对抗他们时获得+1加值。"
  },
  {
   "id": 669702506,
   "key": "SECTION_2075",
   "original": "## **NATURE'S TONGUE Level 1 Sage Ability Recall Cost: 0**\n\nYou can speak the language of the natural world. When you want to speak to the plants and animals around you, make an **Instinct Roll (12)**. On a success, they'll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost.\n\nAdditionally, before you make a Spellcast Roll while within a natural environment, you can **spend a Hope** to gain a +2 bonus to the roll.",
-  "translation": "## **自然语言 1级 贤者能力 回想费用: 0**\n\n你会说自然界的语言。当你想要与周围的植物和动物交谈时，进行一次**本能掷骰 (12)**。成功时，它们会告诉你它们所知道的信息。掷出恐惧结果时，它们了解的内容可能有限或需要付出一定代价。\n\n此外，在自然环境中进行施法掷骰之前，你可以**花费1希望点**，使该掷骰结果获得+2加值。",
-  "stage": 1,
+  "translation": "## **自然之语 1级 贤者能力 回想费用: 0**\n\n你会说自然界的语言。当你想要与周围的植物和动物交谈时，进行一次**本能掷骰 (12)**。成功时，它们会告诉你它们所知道的信息。掷出恐惧结果时，它们了解的内容可能有限或需要付出一定代价。\n\n此外，在自然环境中进行施法掷骰之前，你可以**花费1希望点**，使该掷骰结果获得+2加值。",
+  "stage": 5,
   "context": "## **自然之舌 1级 贤者能力 回想费用: 0**\n\n你可以说自然世界的语言。当你想要与周围的植物和动物交谈时，进行一次**本能掷骰 (12)**。成功时，它们会告诉你它们所知道的信息。掷出恐惧结果时，它们的知识可能有限或需要付出代价。\n\n此外，在自然环境中进行施法掷骰之前，你可以**花费一点希望**，使该掷骰获得+2加值。"
  },
  {
@@ -1100,7 +1092,7 @@
   "key": "SECTION_2076",
   "original": "## **VICIOUS ENTANGLE Level 1 Sage Spell Recall Cost: 1**\n\nMake a **Spellcast Roll** against a target within Far range. On a success, roots and vines reach out from the ground, dealing **1d8+1** physical damage and temporarily *Restraining* the target.\n\nAdditionally on a success, you can **spend a Hope** to temporarily *Restrain* another adversary within Very Close range of your target.",
   "translation": "## **怨毒缠绕 1级 贤者法术 回想费用: 1**\n\n对远距离范围内的目标进行一次**施法掷骰**。成功时，根须和藤蔓从地面伸出，造成**1d8+1**点物理伤害，并暂时*束缚*目标。\n\n此外，成功时，你可以**花费1希望点**来暂时*束缚*你目标邻近范围内的另一个敌人。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **恶毒缠绕 1级 贤者法术 回想费用: 1**\n\n对远距离范围内的目标进行一次**施法掷骰**。成功时，根须和藤蔓从地面伸出，造成**1d8+1**点物理伤害，并暂时*束缚*目标。\n\n此外，成功时，你可以**花费一点希望**来暂时*束缚*你目标邻近范围内的另一个敌方单位。"
  },
  {
@@ -1108,7 +1100,7 @@
   "key": "SECTION_2077",
   "original": "## **CONJURE SWARM Level 2 Sage Spell Recall Cost: 1**",
   "translation": "## **召唤虫群 2级 贤者法术 回想费用: 1**",
-  "stage": 1,
+  "stage": 5,
   "context": "## **召唤虫群 2级 贤者法术 回想费用: 1**"
  },
  {
@@ -1116,7 +1108,7 @@
   "key": "SECTION_2078",
   "original": "#### *Tekaira Armored Beetles:* **Mark a Stress** to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can **spend a Hope** to keep the beetles conjured after taking damage.\n\n*Fire Flies:* Make a **Spellcast Roll** against all adversaries within Close range. **Spend a Hope** to deal **2d8+3** magic damage to targets you succeeded against.",
   "translation": "#### *泰凯拉装甲甲虫：* **标记1压力点**，召唤装甲甲虫环绕你。当你下次受到伤害时，伤害等级降低一个阈值。你可以**花费1希望点**在受到伤害后仍使甲虫保持被召唤状态。\n\n*萤火虫：* 对近距离范围内的所有敌方单位进行一次**施法掷骰**。**花费1希望点**，对你成功对抗的目标造成**2d8+3**点魔法伤害。",
-  "stage": 1,
+  "stage": 5,
   "context": "#### *泰凯拉装甲甲虫：* **标记一点压力**，召唤装甲甲虫环绕你。当你下次受到伤害时，伤害等级降低一个阈值。你可以**花费一点希望**在受到伤害后仍保持甲虫召唤状态。\n\n*萤火虫：* 对近距离范围内的所有敌方单位进行一次**施法掷骰**。**花费一点希望**，对你成功对抗的目标造成**2d8+3**点魔法伤害。"
  },
  {
@@ -1124,39 +1116,39 @@
   "key": "SECTION_2079",
   "original": "## **NATURAL FAMILIAR Level 2 Sage Spell Recall Cost: 1**\n\n**Spend a Hope** to summon a small nature spirit or forest critter to your side until your next rest, you cast Natural Familiar again, or the familiar is targeted by an attack. If you **spend an additional Hope**, you can summon a familiar that flies. You can communicate with them, make a **Spellcast Roll** to command them to perform simple tasks, and **mark a Stress** to see through their eyes.\n\nWhen you deal damage to an adversary within Melee range of your familiar, you add a **d6** to your damage roll.",
   "translation": "## **自然魔宠 2级 贤者法术 回想费用: 1**\n\n**花费1希望点**，召唤一个小型的自然精魂或森林动物来到你身边，直到你下一次休息、再次施放自然魔宠，或魔宠被攻击锁定时失效。如果你**额外花费1希望点**，你可以召唤一只会飞行的魔宠。你可以与它们交流，进行一次**施法掷骰**来指挥它们执行简单的任务，并**标记1压力点**来透过它们的眼睛观察。\n\n当你对魔宠近战范围内的敌人造成伤害时，你的伤害掷骰额外增加一个**d6**。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **自然魔宠 2级 贤者法术 回想费用: 1**\n\n**花费一点希望**，召唤一个小型的自然精魂或森林小动物来到你身边，直到你下一次休息、再次施放自然魔宠，或魔宠被攻击锁定。如果你**额外花费一点希望**，你可以召唤一只会飞行的魔宠。你可以与它们交流，进行一次**施法掷骰**来指挥它们执行简单的任务，并**标记一点压力**来透过它们的眼睛观察。\n\n当你对魔宠近战范围内的敌方单位造成伤害时，你的伤害掷骰额外增加一个**d6**。"
  },
  {
   "id": 669702511,
   "key": "SECTION_2080",
   "original": "## **CORROSIVE PROJECTILE Level 3 Sage Spell Recall Cost: 1**\n\nMake a **Spellcast Roll** against a target within Far range. On a success, deal **d6+4** magic damage using your Proficiency. Additionally, **mark 2 or more Stress** to make them permanently *Corroded*. While a target is *Corroded*, they gain a −1 penalty to their Difficulty for every 2 Stress you spent. This condition can stack.",
-  "translation": "## **腐蚀射弹 3级 贤者法术 回想费用: 1**\n\n对远距离范围内的目标进行一次**施法掷骰**。成功时，使用你的熟练值造成**d6+4**点魔法伤害。此外，**标记2或更多压力点**使其永久处于*腐蚀*状态。目标处于*腐蚀*状态时，每花费2压力点，以其为目标的掷骰难度就会受到-1的减值。此状态可以叠加。",
-  "stage": 1,
+  "translation": "## **腐蚀射弹 3级 贤者法术 回想费用: 1**\n\n对远距离范围内的目标进行一次**施法掷骰**。成功时，使用你的熟练值造成**d6+4**点魔法伤害。此外，**标记2或更多压力点**使其永久处于*腐蚀*状态。目标处于*腐蚀*状态时，每花费2压力点，以其为目标的掷骰难度就会受到-1减值。此状态可以叠加。",
+  "stage": 5,
   "context": "## **腐蚀投射物 3级 贤者法术 回想费用: 1**\n\n对远距离范围内的目标进行一次**施法掷骰**。成功时，使用你的熟练值造成**d6+4**点魔法伤害。此外，**标记2点或更多压力**使其永久处于*腐蚀*状态。目标处于*腐蚀*状态时，每花费2点压力，其难度就会受到-1的减值。此状态可以叠加。"
  },
  {
   "id": 669702512,
   "key": "SECTION_2081",
   "original": "## **TOWERING STALK Level 3 Sage Spell Recall Cost: 1**\n\nOnce per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range.\n\n**Mark a Stress** to use this spell as an attack. Make a **Spellcast Roll** against an adversary or group of adversaries within Close range. The erupting stalk lifts targets you succeed against into the air and drops them, dealing **d8** physical damage using your Proficiency.",
-  "translation": "## **高茎成塔 3级 贤者法术 回想费用: 1**\n\n每次休息一次，你可以在近距离范围内召唤一根粗壮、扭曲的茎干，可供轻松攀爬。它可以长到远距离范围的高度。\n\n**标记1压力点**来将此法术作为攻击法术使用。对近距离范围内的敌人或敌群进行一次**施法掷骰**。临空爆涨的茎干会将你成功对抗的目标抬到空中并将其摔落，使用你的熟练值造成**d8**点物理伤害。",
-  "stage": 1,
+  "translation": "## **高茎成塔 3级 贤者法术 回想费用: 1**\n\n每次休息一次，你可以在近距离范围内召唤一根粗壮、扭曲的茎干，可供轻松攀爬。它可以长到远距离范围的高度。\n\n**标记1压力点**来将此法术作为攻击法术使用。对近距离范围内的敌人或敌群进行一次**施法掷骰**。凌空爆涨的茎干会将你成功对抗的目标抬到空中并将其摔落，使用你的熟练值造成**d8**点物理伤害。",
+  "stage": 5,
   "context": "## **高耸茎干 3级 贤者法术 回想费用: 1**\n\n每次休息一次，你可以在近距离范围内召唤一根粗壮、扭曲的茎干，可以轻松攀爬。它的高度可以长到远距离范围。\n\n**标记一点压力**来将此法术作为攻击使用。对近距离范围内的敌方单位或敌方单位群体进行一次**施法掷骰**。喷发出的茎干会将你成功对抗的目标抬到空中并将其摔落，使用你的熟练值造成**d8**点物理伤害。"
  },
  {
   "id": 669702513,
   "key": "SECTION_2082",
   "original": "## **DEATH GRIP Level 4 Sage Spell Recall Cost: 1**\n\n![](_page_338_Picture_26.jpeg)\n\nMake a **Spellcast Roll** against a target within Close range and choose one of the following options:\n\n- You pull the target into Melee range or pull yourself into Melee range of them.\n- You constrict the target and force them to mark 2 Stress.\n- All adversaries between you and the target must succeed on a Reaction Roll (13) or be hit by vines, taking **3d6+2** physical damage.\n\nOn a success, vines reach out from your hands, causing the chosen effect and temporarily *Restraining* the target.",
-  "translation": "## **死亡卷握 4级 贤者法术 回想费用: 1**\n\n![](_page_338_Picture_26.jpeg)\n\n对近距离范围内的目标进行一次**施法掷骰**，并选择以下选项之一：\n\n- 你将目标拉入近战范围，或将自己拉入目标的近战范围。\n- 你缠绕目标，迫使他们标记2压力点敌人。\n- 你与目标之间的所有敌人必须成功进行一次反应掷骰（13），否则会被藤蔓击中，受到**3d6+2**点物理伤害。\n\n成功时，藤蔓会从你的手中伸出，造成所选效果并暂时*束缚*目标。",
-  "stage": 1,
+  "translation": "## **死亡卷握 4级 贤者法术 回想费用: 1**\n\n![](_page_338_Picture_26.jpeg)\n\n对近距离范围内的目标进行一次**施法掷骰**，并选择以下选项之一：\n\n- 你将目标拉入近战范围，或将自己拉入目标的近战范围。\n- 你缠绕目标，迫使他们标记2压力点。\n- 你与目标之间的所有敌人必须成功进行一次反应掷骰（13），否则会被藤蔓击中，受到**3d6+2**点物理伤害。\n\n成功时，藤蔓会从你的手中伸出，造成所选效果并暂时*束缚*目标。",
+  "stage": 5,
   "context": "## **死亡缠绕 4级 贤者法术 回想费用: 1**\n\n![](_page_338_Picture_26.jpeg)\n\n对近距离范围内的目标进行一次**施法掷骰**，并选择以下选项之一：\n\n- 你将目标拉入近战范围，或将自己拉入目标的近战范围。\n- 你缠绕目标，迫使他们标记2点压力。\n- 你与目标之间的所有敌方单位必须成功进行一次反应掷骰（13），否则会被藤蔓击中，受到**3d6+2**点物理伤害。\n\n成功时，藤蔓会从你的手中伸出，造成所选效果并暂时*束缚*目标。"
  },
  {
   "id": 669702514,
   "key": "SECTION_2083",
   "original": "## **HEALING FIELD Level 4 Sage Spell Recall Cost: 2**\n\nOnce per long rest, you can conjure a field of healing plants around you. Everywhere within Close range of you bursts to life with vibrant nature, allowing you and all allies in the area to clear a Hit Point.\n\n**Spend 2 Hope** to allow you and all allies to clear 2 Hit Points instead.",
-  "translation": "## **治疗之域 4级 贤者法术 回想费用: 2**\n\n每长休一次，你可以在自己周围召唤一片遍布治疗植物的领域。你近距离范围内到处都充满了生机勃勃的自然气息，使你和该区域内的所有盟友都能清除1生命点。\n\n**花费2希望点**，使你和所有盟友改为清除2生命点。",
-  "stage": 1,
+  "translation": "## **治疗之域 4级 贤者法术 回想费用: 2**\n\n每长休一次，你可以在自己周围召唤一片遍布治疗植物的领域。你近距离范围内到处都充满了生机勃勃的自然气息，使你和该区域内的所有盟友都能**恢复1生命点**。\n\n**花费2希望点**，使你和所有盟友改为**恢复2生命点**。",
+  "stage": 5,
   "context": "## **治疗领域 4级 贤者法术 回想费用: 2**\n\n每次长休息一次，你可以在你周围召唤一片治疗植物领域。你周围的近距离范围内到处都充满了生机勃勃的自然气息，使你和该区域内的所有盟友都能清除一点生命点。\n\n**花费2点希望**，使你和所有盟友改为清除2点生命点。"
  },
  {
@@ -1164,15 +1156,15 @@
   "key": "SECTION_2084",
   "original": "## **THORN SKIN Level 5 Sage Spell Recall Cost: 1**\n\nOnce per rest, **spend a Hope** to sprout thorns all over your body. When you do, place a number of tokens equal to your Spellcast trait on this card. When you take damage, you can spend any number of tokens to roll that number of **d6s**. Add the results together and reduce the incoming damage by that amount. If you're within Melee range of the attacker, deal that amount of damage back to them.\n\nWhen you take a rest, clear all unspent tokens.",
   "translation": "## **荆棘皮肤 5级 贤者法术 回想费用: 1**\n\n每次休息一次，**花费1希望点**，使你的全身长出荆棘。当你这样做时，在此卡上放置等同于你的施法属性数量的标记。当你受到伤害时，你可以花费任意数量的标记，掷出相应数量的**d6**。将结果相加，并减少等量所受伤害。如果你在攻击者的近战范围内，则将等量的伤害反弹给他们。\n\n当你休息时，清除所有未使用的标记。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **荆棘之肤 5级 贤者法术 回想费用: 1**\n\n每次休息一次，**花费一点希望**，使你的全身长出荆棘。当你这样做时，在此卡上放置等同于你的施法属性的标记数量。当你受到伤害时，你可以花费任意数量的标记，掷出相应数量的**d6**。将结果相加，并减少等量的 incoming damage。如果你在攻击者的近战范围内，则将等量的伤害反弹给他们。\n\n当你进行休息时，清除所有未使用的标记。"
  },
  {
   "id": 669702516,
   "key": "SECTION_2085",
   "original": "## <span id=\"page-339-0\"></span>**WILD FORTRESS Level 5 Sage Spell Recall Cost: 1**\n\nMake a **Spellcast Roll (13)**. On a success, **spend 2 Hope** to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can't be targeted by attacks and can't make attacks. Attacks made against the dome automatically succeed. The dome has the following damage thresholds and lasts until it marks 3 Hit Points. Place tokens on this card to represent marking Hit Points.\n\nThresholds: 15/30",
-  "translation": "## **野生圆堡 5级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (13)**。成功时，**花费2希望点**，生长出一个天然的圆顶形路障，你和一名盟友可以在其中躲藏。身处圆顶内的生物不能成为攻击目标，也不能进行攻击。针对圆顶的攻击自动成功。圆顶具有以下伤害阈值，持续到标记3生命点为止。在此卡上放置标记来表示标记生命点。\n\n阈值：15/30",
-  "stage": 1,
+  "translation": "## **荒野壁垒 5级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (13)**。成功时，**花费2希望点**，生长出一个天然的圆顶形屏障，你和一名盟友可以在其中躲藏。身处圆顶内的生物不能成为攻击目标，也不能进行攻击。针对圆顶的攻击自动成功。圆顶具有以下伤害阈值，持续到标记3生命点为止。在此卡上放置标记来表示标记生命点。\n\n阈值：15/30",
+  "stage": 5,
   "context": "## **荒野堡垒 5级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (13)**。成功时，**花费2点希望**，生长出一道天然的圆顶形路障，你和一名盟友可以在其中躲藏。身处圆顶内时，生物不能成为攻击目标，也不能进行攻击。针对圆顶的攻击自动成功。圆顶具有以下伤害阈值，持续到标记3点生命点为止。在此卡上放置标记来表示标记生命点。\n\n阈值：15/30"
  },
  {
@@ -1180,15 +1172,15 @@
   "key": "SECTION_2086",
   "original": "## **CONJURED STEEDS Level 6 Sage Spell Recall Cost: 0**\n\n**Spend any number of Hope** to conjure that many magical steeds (such as horses, camels, or elephants) that you and your allies can ride until your next long rest or the steeds take any damage. The steeds double your land speed while traveling and, when in danger, allow you to move within Far range without having to roll. Creatures riding a steed gain a −2 penalty to attack rolls and a +2 bonus to damage rolls.",
   "translation": "## **召唤坐骑 6级 贤者法术 回想费用: 0**\n\n**花费任意数量的希望点**，召唤等量的魔法坐骑（例如马、骆驼或大象），你和你的盟友可以骑乘它们，直到你的下一次长休或坐骑受到任何伤害。坐骑可以使你旅行时的陆上行进速度翻倍，面临危险时，允许你在远距离范围内移动而无需掷骰。骑乘战马的生物攻击掷骰会收到-2的减值，伤害掷骰获得+2的加值。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **召唤战马 6级 贤者法术 回想费用: 0**\n\n**花费任意数量的希望**，召唤等量的魔法战马（例如马、骆驼或大象），你和你的盟友可以骑乘它们，直到你的下一次长休息或战马受到任何伤害。战马在旅行时使你的陆地速度翻倍，并且在危险中，允许你在远距离范围内移动而无需掷骰。骑乘战马的生物攻击掷骰受到−2的惩罚，伤害掷骰获得+2的加值。"
  },
  {
   "id": 669702518,
   "key": "SECTION_2087",
-  "original": "## **FORAGER Level 6 Sage Ability Recall Cost: 1**\n\nAs an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time.\n\n- 1. A unique food (Clear 2 Stress)\n- 2. A beautiful relic (Gain 2 Hope) 3. An arcane rune (+2 to a Spellcast Roll)\n- 4. A healing vial (Clear 2 Hit Points)\n- 5. A luck charm (Reroll any die)\n- 6. Choose one of the options above.",
-  "translation": "## **丰收采集 6级 贤者能力 回想费用: 1**\n\n作为你的一个额外休息行动可选项，掷一个d6，看看你采集到了什么。与游戏主持人一起描述它，并将其作为消耗品添加到你的物品栏中。你的队伍一次最多可以携带五件采集到的消耗品。\n\n- 1. 一份独特的食物 (清除2压力点)\n- 2. 一件美丽的圣物 (获得2希望点) \n- 3. 一枚奥术符文 (在一次施法掷骰中获得+2加值)\n- 4. 一瓶治疗药剂 (清除2生命点)\n- 5. 一个幸运护身符 (重掷任意一个骰子)\n- 6. 从以上选项中自选一个。",
-  "stage": 1,
+  "original": "## **FORAGER Level 6 Sage Ability Recall Cost: 1**\\n\\nAs an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time.\\n\\n- 1. A unique food (Clear 2 Stress)\\n- 2. A beautiful relic (Gain 2 Hope) 3. An arcane rune (+2 to a Spellcast Roll)\\n- 4. A healing vial (Clear 2 Hit Points)\\n- 5. A luck charm (Reroll any die)\\n- 6. Choose one of the options above.",
+  "translation": "## **丰收采集 6级 贤者能力 回想费用: 1**\n\n作为你的一个额外休整行动可选项，掷一个d6，看看你采集到什么。与游戏主持人一起描述它，并将其作为消耗品添加到你的物品栏中。你的队伍一次最多可以携带五件采集到的消耗品。\n\n- 1. 一份独特的食物 (清除2压力点)\n- 2. 一件美丽的圣物 (获得2希望点) \n- 3. 一枚奥术符文 (在一次施法掷骰中获得+2加值)\n- 4. 一瓶治疗药剂 (清除2生命点)\n- 5. 一个幸运护身符 (重掷任意一个骰子)\n- 6. 从以上选项中自选一个。",
+  "stage": 5,
   "context": "## **觅食者 6级 贤者能力 回想费用: 1**\n\n作为你可以选择的一个额外的休息行动，掷一个d6，看看你觅食到了什么。与GM一起描述它，并将其作为消耗品添加到你的物品栏中。你的队伍一次最多可以携带五件觅食到的消耗品。\n\n- 1. 一份独特的食物 (清除2点压力)\n- 2. 一件美丽的遗物 (获得2点希望) 3. 一个奥术符文 (+2到一次施法掷骰)\n- 4. 一瓶治疗药剂 (清除2点生命点)\n- 5. 一个幸运符 (重掷任意一个骰子)\n- 6. 从以上选项中选择一个。"
  },
  {
@@ -1196,39 +1188,39 @@
   "key": "SECTION_2088",
   "original": "## **SAGE-TOUCHED Level 7 Sage Ability Recall Cost: 2**\n\nWhen 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:\n\n- While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls.\n- Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll.",
   "translation": "## **贤者恩泽 7级 贤者能力 回想费用: 2**\n\n当你的配置中有4张或更多的领域卡来自贤者领域时，获得以下好处：\n\n- 当你在自然环境中时，你的施法掷骰获得+2加值。\n- 每休息一次，你在进行使用敏捷或本能属性的掷骰时，可以使你的敏捷或本能属性翻倍。你必须在掷骰前进行选择。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **贤者之触 7级 贤者能力 回想费用: 2**\n\n当你的配置中有4张或更多的领域卡来自贤者领域时，获得以下好处：\n\n- 当你在自然环境中时，你的施法掷骰获得+2的加值。\n- 每休息一次，你在进行使用敏捷或本能属性的掷骰时，可以使你的敏捷或本能翻倍。你必须在掷骰前选择这样做。"
  },
  {
   "id": 669702520,
   "key": "SECTION_2089",
   "original": "## **WILD SURGE Level 7 Sage Spell Recall Cost: 2**\n\nOnce per long rest, **mark a Stress** to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a **d6** on this card with the 1 value facing up.\n\nWhile the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die's value by one. When the die's value would exceed 6 or you take a rest, this form drops and you must **mark an additional Stress**.",
-  "translation": "## **狂野浪涌 7级 贤者法术 回想费用: 2**\n\n每长休一次，**标记1压力点**，引导你周围的自然世界并增强自身。描述你的外表如何变化，然后将一个**d6**骰子放在这张卡上，1朝上。\n\n当狂野浪涌骰激活时，你将其作为加值加到你进行的每一次动作掷骰中。每当你将其值加到一次掷骰后，将狂野浪涌骰的值增加1。当骰值将超过6或你休息时，该形态消失，然后你必须**额外标记1压力点**。",
-  "stage": 1,
+  "translation": "## **狂野浪涌 7级 贤者法术 回想费用: 2**\n\n每长休一次，**标记1压力点**，引导你周围的自然世界并增强自身。描述你的外表如何变化，然后将一个**d6**骰子放在这张卡上，1朝上。\n\n当狂野浪涌骰激活时，你将其作为加值加到你进行的每一次动作掷骰中。每当你将其值加到一次掷骰后，将狂野浪涌骰的骰值增加1。当骰值将超过6或你休息时，该形态消失，然后你必须**额外标记1压力点**。",
+  "stage": 5,
   "context": "## **狂野涌动 7级 贤者法术 回想费用: 2**\n\n每次长休息一次，**标记1点压力**，引导你周围的自然世界并增强自身。描述你的外表如何变化，然后将一个**d6**放在这张卡上，1朝上。\n\n当狂野涌动骰子激活时，你将它的值加到你进行的每一次动作掷骰中。在你将其值加到一次掷骰后，将狂野涌动骰子的值增加1。当骰子的值将超过6或你休息时，这种形态消失，你必须**额外标记1点压力**。"
  },
  {
   "id": 669702521,
   "key": "SECTION_2090",
   "original": "## **FOREST SPRITES Level 8 Sage Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (13)**. On a success, **spend any number of Hope** to create an equal number of small forest sprites who appear at points you choose within Far range, providing the following benefits:\n\n- Your allies gain a +3 bonus to attack rolls against adversaries within Melee range of a sprite.\n- An ally who marks an Armor Slot while within Melee range of a sprite can mark an additional Armor Slot.\n\nA sprite vanishes after granting a benefit or taking any damage.",
-  "translation": "## **森林精魂 8级 贤者法术 回想费用: 2**\n\n进行一次**施法掷骰 (13)**。成功时，**花费任意数量的希望点**，创造等量的小型森林精魂，它们出现在你选择的远距离范围内任意地点处，提供以下好处：\n\n- 你的盟友在攻击小精魂近战范围内的敌人时，攻击掷骰获得+3加值。\n- 处于小精魂近战范围内的盟友在标记护甲槽时，可以额外标记一个护甲槽。\n",
-  "stage": 1,
+  "translation": "## **森林精魂 8级 贤者法术 回想费用: 2**\n\n进行一次**施法掷骰 (13)**。成功时，**花费任意数量的希望点**，创造等量的小型森林精魂，它们出现在你选择的远距离范围内任意地点处，提供以下好处：\n\n- 你的盟友在攻击精魂近战范围内的敌人时，攻击掷骰获得+3加值。\n- 处于精魂近战范围内的盟友在标记护甲槽时，可以额外标记一个护甲槽。\n\n精魂在提供一次好处或受到任何伤害后消失。",
+  "stage": 5,
   "context": "## **森林小妖精 8级 贤者法术 回想费用: 2**\n\n进行一次**施法掷骰 (13)**。成功时，**花费任意数量的希望**，创造等量的小型森林小妖精，它们出现在你选择的极远范围内地点，提供以下好处：\n\n- 你的盟友在攻击小妖精近战范围内的敌人时，攻击掷骰获得+3的加值。\n- 处于小妖精近战范围内的盟友在标记一个护甲槽时，可以额外标记一个护甲槽。\n\n小妖精在提供一次好处或受到任何伤害后消失。"
  },
  {
   "id": 669702522,
   "key": "SECTION_2091",
   "original": "## **REJUVENATION BARRIER Level 8 Sage Spell Recall Cost: 1**\n\nMake a **Spellcast Roll (15)**. Once per rest on a success, create a temporary barrier of protective energy around you at Very Close range. You and all allies within the barrier when this spell is cast clear **1d4** Hit Points. While the barrier is up, you and all allies within have resistance to physical damage from outside the barrier.\n\nWhen you move, the barrier follows you.",
-  "translation": "## **再生屏障 8级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。每次休息一次，成功时，在你邻近范围内创造一个临时的保护能量屏障。施放此法术时，你和屏障内的所有盟友清除**1d4**点生命点。屏障存续期间，你和屏障内的所有盟友均可抵抗来自屏障外部的物理伤害。\n\n当你移动时，屏障会跟随你。",
-  "stage": 1,
+  "translation": "## **回春屏障 8级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。每次休息一次，成功时，在你邻近范围内创造一个临时的保护能量屏障。施放此法术时，你和屏障内的所有盟友恢复**1d4**生命点。屏障存续期间，你和屏障内的所有盟友拥有物理伤害抗性。\n\n当你移动时，屏障会跟随你。",
+  "stage": 5,
   "context": "## **复兴屏障 8级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (15)**。每次休息一次，成功时，在你邻近范围内创造一个临时的保护能量屏障。施放此法术时，你和屏障内的所有盟友清除**1d4**点生命点。屏障存在期间，你和屏障内的所有盟友对来自屏障外部的物理伤害具有抵抗力。\n\n当你移动时，屏障会跟随你。"
  },
  {
   "id": 669702523,
   "key": "SECTION_2092",
   "original": "## **FANE OF THE WILDS Level 9 Sage Ability Recall Cost: 2**\n\nAfter a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.\n\nWhen you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.\n\nWhen you critically succeed on a Spellcast Roll for a Sage domain spell, gain a token.\n\nWhen you take a long rest, clear all unspent tokens.",
-  "translation": "## **野地圣殿 9级 贤者能力 回想费用: 2**\n\n长休后，将等同于你配置和宝库中贤者领域卡数量的标记放在此卡上。\n\n当你进行施法掷骰时，你可以在掷骰后花费任意数量标记，每花费一个标记获得+1加值。\n\n当你对贤者领域法术的施法掷骰获得关键成功时，获得一个标记。\n\n当你进行长休时，清除所有未花费的标记。",
-  "stage": 1,
+  "translation": "## **野地神殿 9级 贤者能力 回想费用: 2**\n\n长休后，将等同于你配置和宝库中贤者领域卡数量的标记放在此卡上。\n\n当你进行施法掷骰时，你可以在掷骰后花费任意数量标记，每花费一个标记获得+1加值。\n\n当你对贤者领域法术的施法掷骰获得关键成功时，获得一个标记。\n\n当你进行长休时，清除所有未花费的标记。",
+  "stage": 5,
   "context": "## **荒野神殿 9级 贤者能力 回想费用: 2**\n\n长休息后，将等同于你配置和宝库中贤者领域卡数量的标记放在此卡上。\n\n当你进行施法掷骰时，你可以在掷骰后花费任意数量的标记，每花费一个标记获得+1的加值。\n\n当你对贤者领域法术的施法掷骰获得关键成功时，获得一个标记。\n\n当你进行长休息时，清除所有未花费的标记。"
  },
  {
@@ -1236,7 +1228,7 @@
   "key": "SECTION_2093",
   "original": "## **PLANT DOMINION Level 9 Sage Spell Recall Cost: 1**\n\nMake a **Spellcast Roll (18)**. Once per long rest on a success, you reshape the natural world, changing the surrounding plant life anywhere within Far range of you. For example, you can grow trees instantly, clear a path through dense vines, or create a wall of roots.",
   "translation": "## **植物统御 9级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (18)**。每次长休一次，成功时，你可以重塑自然世界，改变你极远范围内任何地方的植物。例如，你可以让树木瞬间生长，清除一路的茂密藤蔓，或者创造一堵根须墙。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **植物领域 9级 贤者法术 回想费用: 1**\n\n进行一次**施法掷骰 (18)**。每次长休息一次，成功时，你可以重塑自然世界，改变你极远范围内任何地方的植物生命。例如，你可以瞬间生长树木，清除茂密藤蔓中的路径，或者创造一堵根须墙。"
  },
  {
@@ -1244,7 +1236,7 @@
   "key": "SECTION_2094",
   "original": "## **FORCE OF NATURE Level 10 Sage Spell Recall Cost: 2**\n\n**Mark a Stress** to transform into a hulking nature spirit, gaining the following benefits:\n\n- When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll.\n- When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot.\n\n• You can't be *Restrained*. Before you make an action roll, you must **spend a Hope**. If you can't, you revert to your normal form.",
   "translation": "## **自然之力 10级 贤者法术 回想费用: 2**\n\n**标记1压力点**，变身为巨大的自然精魂，获得以下好处：\n\n- 当你攻击或施法掷骰成功时，伤害掷骰获得+10加值。\n- 当你对近距离范围内的生物造成足够伤害从而击败该生物时，你将其吸收并清除1个护甲槽。\n\n• 你无法被*束缚*。在你进行动作掷骰之前，你必须**花费1希望点**。如果你无法花费1希望点，则将恢复正常形态。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **自然之力 10级 贤者法术 回想费用: 2**\n\n**标记1点压力**，变身为巨大的自然精魂，获得以下益处：\n\n- 当你攻击或施法掷骰成功时，伤害掷骰获得+10的加值。\n- 当你对近距离范围内的生物造成足够伤害以击败它们时，你吸收它们并清除1个护甲槽。\n\n• 你不会被*束缚*。在你进行动作掷骰之前，你必须**花费1点希望**。如果你不能，你将恢复正常形态。"
  },
  {
@@ -1259,8 +1251,8 @@
   "id": 669702527,
   "key": "SECTION_2096",
   "original": "#### **Level 10 Sage Spell Recall Cost: 2**\n\nChoose one of the following tempests and make a **Spellcast Roll** against all targets within Far range. Targets you succeed against experience its effects until the GM spends a Fear on their turn to end this spell.\n\n- *Blizzard*: Deal **2d20+8** magic damage and targets are temporararily *Vulnerable.*\n- *Hurricane*: Deal **3d10+10** magic damage and choose a direction the wind is blowing. Targets can't move against the wind.\n- *Sandstorm*: Deal **5d6+9** magic damage. Attacks made from beyond Melee range have disadvantage.",
-  "translation": "#### **大风暴术 10级 贤者法术 回想费用: 2**\n\n选择以下一种风暴，对极远范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将承受其效果，直到游戏主持人在其回合花费1恐惧点来结束此法术。\n\n- *暴风雪*：造成 **2d20+8** 点魔法伤害，目标暂时处于*脆弱*状态。\n- *狂飓风*：造成 **3d10+10** 点魔法伤害，并选择风向。目标无法逆风移动。\n- *沙尘暴*：造成 **5d6+9** 点魔法伤害。从近战范围外进行的攻击处于劣势。",
-  "stage": 1,
+  "translation": "#### **狂风怒号 10级 贤者法术 回想费用: 2**\n\n选择以下一种风暴，对极远范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将承受其效果，直到游戏主持人在其回合花费1恐惧点来结束此法术。\n\n- *暴风雪*：造成 **2d20+8** 点魔法伤害，目标暂时处于*脆弱*状态。\n- *狂飓风*：造成 **3d10+10** 点魔法伤害，并选择风向。目标无法逆风移动。\n- *沙尘暴*：造成 **5d6+9** 点魔法伤害。从近战范围外进行的攻击处于劣势。",
+  "stage": 5,
   "context": "#### **10级 贤者法术 回想费用: 2**\n\n选择以下其中一种风暴，对极远范围内的所有目标进行一次**施法掷骰**。你成功对抗的目标将承受其效果，直到GM在其回合花费1点恐惧点来结束此法术。\n\n- *暴风雪*：造成 **2d20+8** 点魔法伤害，目标暂时处于*脆弱*状态。\n- *飓风*：造成 **3d10+10** 点魔法伤害，并选择风吹的方向。目标无法逆风移动。\n- *沙尘暴*：造成 **5d6+9** 点魔法伤害。从近战范围外进行的攻击处于劣势。"
  },
  {
@@ -1268,15 +1260,15 @@
   "key": "SECTION_2097",
   "original": "## <span id=\"page-340-0\"></span>SPLENDOR DOMAIN",
   "translation": "## <span></span>辉耀领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## <span></span>辉煌领域"
  },
  {
   "id": 669702529,
   "key": "SECTION_2098",
   "original": "### **BOLT BEACON Level 1 Splendor Spell Recall Cost: 1**\n\nMake a **Spellcast Roll** against a target within Far range. On a success, **spend a Hope** to send a bolt of shimmering light toward them, dealing **d8+2** magic damage using your Proficiency. The target becomes temporarily *Vulnerable* and glows brightly until this condition is cleared.",
-  "translation": "## **闪光信标 1级 辉耀法术 回想费用: 1**\n\n对远距离范围内的一个目标进行一次**施法掷骰**。成功时，**花费1希望点**向目标射出一道闪烁的光束，使用你的熟练造成 **d8+2** 点魔法伤害。目标暂时处于*脆弱*状态并发出明亮的光芒，直到此状态解除。",
-  "stage": 1,
+  "translation": "## **曳光信标 1级 辉耀法术 回想费用: 1**\n\n对远距离范围内的一个目标进行一次**施法掷骰**。成功时，**花费1希望点**向目标射出一道闪烁的光束，使用你的熟练造成 **d8+2** 点魔法伤害。目标暂时处于*脆弱*状态并发出明亮的光芒，直到此状态解除。",
+  "stage": 5,
   "context": "### **闪电信标 1级 辉煌法术 回想费用: 1**\n\n对极远范围内的目标进行一次**施法掷骰**。成功时，**花费1点希望**向目标射出一道闪烁的光束，使用你的熟练度造成 **d8+2** 点魔法伤害。目标暂时处于*脆弱*状态并发出明亮的光芒，直到此状态解除。"
  },
  {
@@ -1284,23 +1276,23 @@
   "key": "SECTION_2099",
   "original": "## **MENDING TOUCH Level 1 Splendor Spell Recall Cost: 1**\n\nYou lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you're helping, you can **spend 2 Hope** to clear a Hit Point or a Stress on them.\n\nOnce per long rest, when you spend this healing time learning something new about them or revealing something about yourself, you can clear 2 Hit Points or 2 Stress on them instead.",
   "translation": "## **修复之触 1级 辉耀法术 回想费用: 1**\n\n你将双手放在一个生物身上，引导治疗魔法来愈合他们的伤口。当你能够花费几分钟专注于你正在帮助的目标时，你可以**花费2希望点**来恢复1生命点或清除1压力点。\n\n每长休一次，当你在治疗时学到了新东西，或者向你的队友揭示了关于你的事情，你可以**花费2希望点**来恢复2生命点或清除2压力点。",
-  "stage": 1,
+  "stage": 2,
   "context": "## **修复之触 1级 辉煌法术 回想费用: 1**\n\n你将双手放在一个生物身上，引导治疗魔法来愈合他们的伤口。当你能够花费几分钟专注于你正在帮助的目标时，你可以**花费2点希望**来移除他们身上的1点生命点或1点压力点。\n\n每长休息一次，当你花费这段治疗时间来了解他们的新事物或揭示关于你自己的事情时，你可以改为移除他们身上的2点生命点或2点压力点。"
  },
  {
   "id": 669702531,
   "key": "SECTION_2100",
   "original": "## **REASSURANCE Level 1 Splendor Ability Recall Cost: 0**\n\nOnce per rest, after an ally attempts an action roll but before the consequences take place, you can offer assistance or words of support. When you do, your ally can reroll their dice.",
-  "translation": "## **宽慰言语 1级 辉耀能力 回想费用: 0**\n\n每次休息一次，每当一名盟友将要进行一次动作掷骰，在结果生效前，你可以提供帮助或者鼓励，让其再进行一次掷骰。其必须接受掷骰的新结果。",
-  "stage": 1,
+  "translation": "## **解忧消难 1级 辉耀能力 回想费用: 0**\n\n每次休息一次，当一名盟友进行一次动作掷骰后，在结果生效前，你可以提供帮助或者鼓励，让其再进行一次掷骰。其必须接受掷骰的新结果。",
+  "stage": 5,
   "context": "## **抚慰 1级 辉煌能力 回想费用: 0**\n\n每休息一次，在盟友尝试进行一次动作掷骰之后、但在结果发生之前，你可以提供帮助或支持的话语。当你这样做时，你的盟友可以重新掷骰。"
  },
  {
   "id": 669702532,
   "key": "SECTION_2101",
   "original": "## **FINAL WORDS Level 2 Splendor Spell Recall Cost: 1**\n\nYou can infuse a corpse with a moment of life to speak with it. Make a **Spellcast Roll (13)**. On a success with Hope, the corpse answers up to three questions. On a success with Fear, the corpse answers one question. The corpse answers truthfully, but it can't impart information it didn't know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust.",
-  "translation": "## **临终遗言 2级 辉耀法术 回想费用: 1**\n\n你可以为一具尸体注入片刻生命，以便与之交谈，进行一次**施法掷骰 (13)**。希望成功时，尸体最多回答三个问题。恐惧成功时，尸体回答一个问题。尸体会如实回答，但它无法提供生前不知道的信息。施法失败时，或者当尸体回答完你的问题后，它将化为尘土。",
-  "stage": 1,
+  "translation": "## **临终遗言 2级 辉耀法术 回想费用: 1**\n\n你可以为一具尸体注入片刻生机，以便与之交谈，进行一次**施法掷骰 (13)**。希望成功时，尸体最多回答三个问题。恐惧成功时，尸体回答一个问题。尸体会如实回答，但它无法提供生前不知道的信息。施法失败时，或者当尸体回答完你的问题后，它将化为尘土。",
+  "stage": 5,
   "context": "## **临终遗言 2级 辉煌法术 回想费用: 1**\n\n你可以为一具尸体注入片刻生命，以便与之交谈。进行一次**施法掷骰 (13)**。成功并带有希望时，尸体最多回答三个问题。成功并带有恐惧时，尸体回答一个问题。尸体会如实回答，但它无法提供生前不知道的信息。失败时，或者当尸体回答完你的问题后，身体会化为尘土。"
  },
  {
@@ -1308,63 +1300,63 @@
   "key": "SECTION_2102",
   "original": "## **HEALING HANDS Level 2 Splendor Spell Recall Cost: 1**\n\nMake a **Spellcast Roll (13)** and target a creature other than yourself within Melee range. On a success, **mark a Stress** to clear 2 Hit Points or 2 Stress on the target. On a failure, **mark a Stress** to clear a Hit Point or a Stress on the target. You can't heal the same target again until your next long rest.",
   "translation": "## **治愈之手 2级 辉耀法术 回想费用: 1**\n\n进行一次**施法掷骰 (13)**，并选择一个除你以外的近战范围内的生物作为目标。成功时，**标记1压力点**以恢复目标 2 生命点或清除 2 压力点。失败时，**标记1压力点**以恢复目标1 生命点或清除 1 压力点。在下一次长休之前，你不能再次治疗同一个目标。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **治疗之手 2级 辉煌法术 回想费用: 1**\n\n进行一次**施法掷骰 (13)**，并选择一个不在近战范围内的生物作为目标。成功时，**标记1点压力**以移除目标身上的2点生命点或2点压力点。失败时，**标记1点压力**以移除目标身上的1点生命点或1点压力点。在你的下一次长休息之前，你不能再次治疗同一个目标。"
  },
  {
   "id": 669702534,
   "key": "SECTION_2103",
   "original": "## **SECOND WIND Level 3 Splendor Ability Recall Cost: 2**\n\nOnce per rest, when you succeed on an attack against an adversary, you can clear 3 Stress or a Hit Point. On a success with Hope, you also clear 3 Stress or a Hit Point on an ally within Close range of you.",
-  "translation": "## **复苏之风 3级 辉耀能力 回想费用: 2**\n\n每次休息一次，当你成功攻击一个敌方时，你可以移除 3 压力点或恢复 1 生命点。希望成功时，你还可以使近距离范围内一个盟友清除 3 压力点或恢复 1 生命点。",
-  "stage": 1,
+  "translation": "## **复苏之风 3级 辉耀能力 回想费用: 2**\n\n每次休息一次，当你成功攻击一个敌方时，你可以清除 3 压力点或恢复 1 生命点。希望成功时，你还可以使近距离范围内一个盟友清除 3 压力点或恢复 1 生命点。",
+  "stage": 5,
   "context": "## **二次振奋 3级 辉煌能力 回想费用: 2**\n\n每休息一次，当你成功攻击一个敌方时，你可以移除3点压力或1点生命点。成功并带有希望时，你还可以移除你近距离范围内一个盟友的3点压力或1点生命点。"
  },
  {
   "id": 669702535,
   "key": "SECTION_2104",
   "original": "### **VOICE OF REASON Level 3 Splendor Ability Recall Cost: 1**\n\nYou speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.\n\nAdditionally, you're emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls.",
-  "translation": "## **理性之声 3级 辉耀能力 回想费用: 1**\n\n你以无与伦比的力量和权威进行交涉。你在尝试缓和暴力局势或说服某人听从你的指令的动作掷骰中获得优势。\n\n你的信念亦赋予你面对威胁的勇气。当你的所有压力槽都被标记时，在伤害掷骰中你的熟练度+1。",
-  "stage": 1,
+  "translation": "## **理性之声 3级 辉耀能力 回想费用: 1**\n\n你带着无与伦比的威压进行交涉。你在尝试缓和暴力局势或说服某人听从你的指令的动作掷骰中获得优势。\n\n你的信念亦赋予你面对威胁的勇气。当你的所有压力槽都被标记时，在伤害掷骰中你的熟练度+1。",
+  "stage": 5,
   "context": "### **理性之声 3级 辉煌能力 回想费用: 1**\n\n你以无与伦比的力量和权威发声。你在尝试缓和暴力局势或说服某人听从你的指令的动作掷骰中获得优势。\n\n此外，你在压力时刻会变得更加大胆。当你的所有压力槽都被标记时，你的熟练度在伤害掷骰中获得+1加值。"
  },
  {
   "id": 669702536,
   "key": "SECTION_2105",
   "original": "## **DIVINATION Level 4 Splendor Spell Recall Cost: 1**\n\nOnce per long rest, **spend 3 Hope** to reach out to the forces beyond and ask one \"yes or no\" question about an event, person, place, or situation in the near future. For a moment, the present falls away and you see the answer before you.",
-  "translation": "## **占卜之术 4级 辉耀法术 回想费用: 1**\n\n每长休一次，**花费 3 希望点**来联系某个遥远存在，询问一个关于近期未来事件、人物、地点或情况的“是或否”问题。当下现实将短暂消隐，答案会如幻象般呈现在你眼前。",
-  "stage": 1,
+  "translation": "## **预言卜筮 4级 辉耀法术 回想费用: 1**\n\n每长休一次，**花费 3 希望点**来联系某个遥远存在，询问一个关于近期未来事件、人物、地点或情况的“是或否”问题。当下现实将短暂消隐，答案会如幻象般呈现在你眼前。",
+  "stage": 5,
   "context": "## **占卜 4级 辉煌法术 回想费用: 1**\n\n每长休息一次，**花费3点希望**以接触彼岸的力量，询问一个关于近期未来事件、人物、地点或情况的“是或否”问题。片刻间，现实消退，答案呈现在你眼前。"
  },
  {
   "id": 669702537,
   "key": "SECTION_2106",
   "original": "## **LIFE WARD Level 4 Splendor Spell Recall Cost: 1**\n\n**Spend 3 Hope** and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead.\n\nThis effect ends when it saves the target from a death move, you cast Life Ward on another target, or you take a long rest.",
-  "translation": "## **生命守卫 4级 辉耀法术 回想费用: 1**\n\n**花费 3 希望点**并选择一个近距离范围内的盟友，他们被一个发光的保护符文标记。当该盟友因任意理由被要求执行一次死亡行动（Death Move）时，其可以无视之并恢复1点生命点。\n\n该法术将会在避免一次死亡行动后、再次施放于其他目标以及执行长休时结束。",
-  "stage": 1,
+  "translation": "## **生命护符 4级 辉耀法术 回想费用: 1**\n\n**花费 3 希望点**并选择一个近距离范围内的盟友，其被一个发光的护符标记。当该盟友因任意理由被要求执行一次死亡行动（Death Move）时，改为恢复1点生命点。\n\n该法术将会在避免一次死亡行动后、再次施放于其他目标时以及执行长休时结束。",
+  "stage": 5,
   "context": "## **生命守护 4级 辉煌法术 回想费用: 1**\n\n**花费3点希望**并选择一个近距离范围内的盟友。他们被一个发光的保护符文标记。当该盟友会进行死亡行动时，他们改为移除1点生命点。\n\n当此效果拯救目标免于死亡行动时，你对另一个目标施放生命守护时，或你进行一次长休息时，此效果结束。"
  },
  {
   "id": 669702538,
   "key": "SECTION_2107",
   "original": "## **SHAPE MATERIAL Level 5 Splendor Spell Recall Cost: 1**\n\n**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.\n\nYou can only affect the material within Close range of where you're touching it.",
-  "translation": "## **物质塑形 5级 辉耀法术 回想费用: 1**\n\n**花费 1 希望点**来塑形你所接触到的自然材料（如石头、冰或木头）的一部分，使其符合你的目的。该物体的尺寸需小于你。例如你可以用来制作基本工具、武器，或者在物体上创造出门、通道，等等。\n\n你只能影响在近距离范围内你所能够触碰的物体。",
-  "stage": 1,
+  "translation": "## **物质塑形 5级 辉耀法术 回想费用: 1**\n\n**花费 1 希望点**来塑形你所接触到的自然物质（如石头、冰或木头）的一部分，使其符合你的目的。该物体的尺寸需小于你。例如你可以用来制作基本工具、武器，或者在物体上创造出门、通道，等等。\n\n你只能影响在近距离范围内你所能够触碰的物体。",
+  "stage": 5,
   "context": "## **塑形材料 5级 辉煌法术 回想费用: 1**\n\n**花费1点希望**来塑形你所接触到的自然材料（如石头、冰或木头）的一部分，使其符合你的目的。材料的区域不能大于你。例如，你可以形成一个简陋的工具或制造一扇门。\n\n你只能影响你接触点近距离范围内的材料。"
  },
  {
   "id": 669702539,
   "key": "SECTION_2108",
   "original": "## **SMITE Level 5 Splendor Spell Recall Cost: 2**\n\n![](_page_340_Picture_26.jpeg)\n\nOnce per rest, **spend 3 Hope** to charge your powerful smite. When you next successfully attack with a weapon, double the result of your damage roll. This attack deals magic damage regardless of the weapon's damage type.",
-  "translation": "## **惩击之击 5级 辉耀法术 回想费用: 2**\n\n每次休息一次，**花费 3 希望点**以准备一次强有力的打击。当你下次成功使用武器攻击时，你的伤害掷骰结果翻倍。无论武器的伤害类型如何，此次攻击都造成魔法伤害。",
-  "stage": 1,
+  "translation": "## **惩戒重击 5级 辉耀法术 回想费用: 2**\n\n每次休息一次，**花费 3 希望点**以准备一次强有力的打击。当你下次成功使用武器攻击时，你的伤害掷骰结果翻倍。无论武器的伤害类型如何，此次攻击都造成魔法伤害。",
+  "stage": 5,
   "context": "## **圣击 5级 辉煌法术 回想费用: 2**\n\n![](_page_340_Picture_26.jpeg)\n\n每休息一次，**花费3点希望**来充能你强大的圣击。当你下次成功使用武器攻击时，你的伤害掷骰结果翻倍。无论武器的伤害类型如何，此次攻击都造成魔法伤害。"
  },
  {
   "id": 669702540,
   "key": "SECTION_2109",
   "original": "### **RESTORATION Level 6 Splendor Spell Recall Cost: 2**\n\nAfter a long rest, place a number of tokens equal to your Spellcast trait on this card. Touch a creature and spend any number of tokens to clear 2 Hit Points or 2 Stress for each token spent.\n\nYou can also spend a token from this card when touching a creature to clear the *Vulnerable* condition or heal a physical or magical ailment (the GM might require additional tokens depending on the strength of the ailment).\n\nWhen you take a long rest, clear all unspent tokens.",
-  "translation": "## **复原之法 6级 辉耀法术 回想费用: 2**\n\n进行一次长休后，在此牌上放置等同于你施法属性加值数量的指示物。触摸一个生物并花费任意数量的指示物，每个指示物可以恢复 2 点生命点或清除 2 压力点。\n\n你也可以在触摸一个生物时从此牌上花费一个指示物，以清除 *脆弱* 状态或治愈物理或魔法疾病（GM可能会根据疾病的严重程度要求额外的指示物）。\n\n当你进行一次长休时，清除所有未花费的指示物。",
-  "stage": 1,
+  "translation": "## **复原术法 6级 辉耀法术 回想费用: 2**\n\n进行一次长休后，在此牌上放置等同于你施法属性加值数量的指示物。触摸一个生物并花费任意数量的指示物，每个指示物可以恢复 2 生命点或清除 2 压力点。\n\n你也可以在触摸一个生物时从此牌上花费一个指示物，以清除 *脆弱* 状态或治愈物理或魔法疾病（游戏主持人可能会根据疾病的严重程度要求额外的指示物）。\n\n当你进行一次长休时，清除所有未花费的指示物。",
+  "stage": 5,
   "context": "### **复原 6级 辉煌法术 回想费用: 2**\n\n进行一次长休息后，在此牌上放置等同于你施法属性数量的标记。触摸一个生物并花费任意数量的标记，每个花费的标记可以清除2点生命点或2点压力。\n\n你也可以在触摸一个生物时从此牌上花费一个标记，以清除 *脆弱* 状态或治愈物理或魔法疾病（GM可能会根据疾病的严重程度要求额外的标记）。\n\n当你进行一次长休息时，清除所有未花费的标记。"
  },
  {
@@ -1372,14 +1364,14 @@
   "key": "SECTION_2110",
   "original": "## **ZONE OF PROTECTION Level 6 Splendor Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (16)**. Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends.",
   "translation": "## **保护之域 6级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**，成功后。每长休一次，选择远距离范围内的任意一点，并在该点创建一个可见的防护区域，覆盖该点邻近范围内的所有盟友。当你这样做时，在此牌上放置一个面朝上的数值为1的**d6**骰子（或初始放一个指示物代替骰子）。当处于该区域的盟友受到伤害时，他们减少等同于骰子数值的伤害。然后，你将骰子的数值增加1。当骰子的数值超过6时，此效果结束。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **防护区域 6级 辉煌法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。每次长休息成功后，选择远距离范围内的任意一点，并在该点创建一个可见的防护区域，覆盖该点邻近范围内的所有盟友。当你这样做时，在此牌上放置一个**d6**，面朝上的数值为1。当处于该区域的盟友受到伤害时，他们减少等同于骰子数值的伤害。然后，你将骰子的数值增加1。当骰子的数值超过6时，此效果结束。"
  },
  {
   "id": 669702542,
   "key": "SECTION_2111",
   "original": "### **HEALING STRIKE Level 7 Splendor Spell Recall Cost: 1**\n\nWhen you deal damage to an adversary, you can **spend 2 Hope** to clear a Hit Point on an ally within Close range.",
-  "translation": "## **治愈打击 7级 辉耀法术 回想费用: 1**\n\n当你对一个敌人造成伤害时，你可以**花费 2 希望点**来为邻近范围内的一个盟友恢复 1 生命点。",
+  "translation": "## **愈击术 7级 辉耀法术 回想费用: 1**\n\n当你对一个敌人造成伤害时，你可以**花费 2 希望点**来为邻近范围内的一个盟友恢复 1 生命点。",
   "stage": 1,
   "context": "### **治愈打击 7级 辉煌法术 回想费用: 1**\n\n当你对一个敌对生物造成伤害时，你可以**花费2点希望**来清除邻近范围内一个盟友的1点生命点。"
  },
@@ -1388,22 +1380,22 @@
   "key": "SECTION_2112",
   "original": "## **SPLENDOR-TOUCHED Level 7 Splendor Ability Recall Cost: 2**\n\nWhen 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:\n\n- +3 bonus to your Severe damage threshold\n- Once per long rest, when incoming damage would require you to mark a number of Hit Points, you can choose to mark that much Stress or spend that much Hope instead.",
   "translation": "## **辉耀恩泽 7级 辉耀能力 回想费用: 2**\n\n当你配置中有至少 4 张辉耀领域卡时，获得以下益处：\n\n- 你的严重伤害阈值获得+3加值\n- 每长休一次，当受到的伤害需要你标记一定数量的生命点时，你可以选择标记等量的压力点或花费等量的希望点来代替。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **辉煌触碰 7级 辉煌能力 回想费用: 2**\n\n当你配置中的领域牌有4张或更多来自辉煌领域时，获得以下益处：\n\n- 你的重伤阈值获得+3加值\n- 每次长休息一次，当受到的伤害需要你标记一定数量的生命点时，你可以选择标记等量的压力或花费等量的希望点来代替。"
  },
  {
   "id": 669702544,
   "key": "SECTION_2113",
   "original": "### <span id=\"page-341-0\"></span>**SHIELD AURA Level 8 Splendor Spell Recall Cost: 2**\n\n**Mark a Stress** to cast a protective aura on a target within Very Close range. When the target marks an Armor Slot, they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no Hit Points, the effect ends.\n\nYou can only hold Shield Aura on one creature at a time.",
-  "translation": "<span id=\"page-341-0\"></span>\n## **护盾灵光 8级 辉耀法术 回想费用: 2**\n\n**标记 1 压力点**，对邻近范围内的目标施加一个护盾灵光。当目标标记一个护甲槽时，他们额外降低攻击的严重程度一个阈值。如果此法术使一个原本会受到伤害的生物改为不标记生命点，则此效果结束。\n\n你一次只能对一个生物维持护盾灵光。",
-  "stage": 1,
+  "translation": "<span id=\"page-341-0\"></span>\n## **护盾灵光 8级 辉耀法术 回想费用: 2**\n\n**标记 1 压力点**，对邻近范围内的目标施加一个护盾灵光。当目标标记一个护甲槽时，他们将攻击的严重程度额外降低一级。如果此法术使一个原本会受到伤害的生物改为不标记生命点，则此效果结束。\n\n你一次只能对一个生物维持护盾灵光。",
+  "stage": 5,
   "context": "### <span></span>**护盾灵光 8级 辉煌法术 回想费用: 2**\n\n**标记1点压力**，对邻近范围内的目标施加一个防护灵光。当目标标记一个护甲槽时，他们额外降低攻击的严重程度一个阈值。如果此法术使一个原本会受到伤害的生物改为不标记生命点，则此效果结束。\n\n你一次只能对一个生物维持护盾灵光。"
  },
  {
   "id": 669702545,
   "key": "SECTION_2114",
   "original": "### **STUNNING SUNLIGHT Level 8 Splendor Spell Recall Cost: 2**\n\nMake a **Spellcast Roll** to unleash powerful rays of burning sunlight against all adversaries in front of you within Far range. On a success, **spend any number of Hope** and force that many targets you succeeded against to make a Reaction Roll (14).\n\nTargets who succeed take **3d20+3** magic damage. Targets who fail take **4d20+5** magic damage and are temporarily *Stunned*. While *Stunned*, they can't use reactions and can't take any other actions until they clear this condition.",
-  "translation": "## **炫目日光 8级 辉耀法术 回想费用: 2**\n\n进行一次法术掷骰，释放强大的灼热阳光射线，对抗任意数量你面前远距离范围内的敌人。为每名你对抗成功且希望其被影响的目标花费1点希望，然后他们必须进行一次反应掷骰（14）。\n如果成功，他们受到3d20+3魔法伤害。\n如果失败，他们受到4d20+5魔法伤害并进入晕眩状态，他们将不能进行行动，直到状态被清除。",
+  "translation": "## **眩目烈阳 8级 辉耀法术 回想费用: 2**\n\n进行一次施法掷骰，释放强大的灼热阳光射线，对抗任意数量你面前远距离范围内的敌人。为每名你对抗成功且希望其被影响的目标花费1希望点，然后他们必须进行一次反应掷骰（14）。\n如果成功，他们受到3d20+3魔法伤害。\n如果失败，他们受到4d20+5魔法伤害并进入晕眩状态，他们将不能进行行动，直到状态被清除。",
   "stage": 1,
   "context": "### **致盲阳光 8级 辉煌法术 回想费用: 2**\n\n进行一次**施法掷骰**，对你前方远距离范围内的所有敌对生物释放强大的灼热阳光射线。成功时，**花费任意数量的希望点**，并迫使你成功对抗的同等数量目标进行一次反应掷骰（14）。\n\n成功的目标受到 **3d20+3**点魔法伤害。失败的目标受到 **4d20+5**点魔法伤害并暂时处于 *震慑* 状态。处于 *震慑* 状态时，他们不能使用反应，并且在解除此状态之前不能采取任何其他行动。"
  },
@@ -1412,14 +1404,14 @@
   "key": "SECTION_2115",
   "original": "## VALOR DOMAIN",
   "translation": "## 勇气领域",
-  "stage": 1,
+  "stage": 5,
   "context": "## 勇气领域"
  },
  {
   "id": 669702547,
   "key": "SECTION_2116",
   "original": "## **BARE BONES**\n\n**Level 1 Valor Ability Recall Cost: 0**\n\nWhen you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:\n\n- *Tier 1*: 9/19\n- *Tier 2*: 11/24\n- *Tier 3*: 13/31\n- *Tier 4*: 15/38",
-  "translation": "## **铁骨**\n\n**1级 勇气能力 回想费用: 0**\n\n当你选择不装备护甲时，你的基础护甲值为 3 + 你的力量，并使用以下作为你的基础伤害阈值：\n\n- *位阶 1*: 9/19\n- *位阶 2*: 11/24\n- *位阶 3*: 13/31\n- *位阶 4*: 15/38",
+  "translation": "## **铁骨铮铮**\n\n**1级 勇气能力 回想费用: 0**\n\n当你选择不装备护甲时，你的基础护甲值为 3 + 你的力量，并使用以下作为你的基础伤害阈值：\n\n- *位阶 1*: 9/19\n- *位阶 2*: 11/24\n- *位阶 3*: 13/31\n- *位阶 4*: 15/38",
   "stage": 1,
   "context": "## **赤手空拳**\n\n**1级 勇气能力 回想费用: 0**\n\n当你选择不装备护甲时，你的基础护甲值为 3 + 你的力量，并使用以下作为你的基础伤害阈值：\n\n- *等级 1*: 9/19\n- *等级 2*: 11/24\n- *等级 3*: 13/31\n- *等级 4*: 15/38"
  },
@@ -1435,16 +1427,16 @@
   "id": 669702549,
   "key": "SECTION_2118",
   "original": "## **OVERWHELMING AURA Level 9 Splendor Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (15)** to magically empower your aura. On a success, **spend 2 Hope** to make your Presence equal to your Spellcast trait until your next long rest.\n\nWhile this spell is active, an adversary must mark a Stress when they target you with an attack.",
-  "translation": "## **威压灵气 9级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (15)**，以魔法增强你的风采。成功时，**花费 2 希望点**，直到你下次长休，你的风度值等于你的施法属性值。\n\n当此法术激活时，敌人在以你为目标进行攻击时必须标记1压力点。",
-  "stage": 1,
+  "translation": "## **威压灵光 9级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (15)**，以魔法增强你的风采。成功时，**花费 2 希望点**，直到你下次长休，你的风度属性值等于你的施法属性值。\n\n当此法术激活时，敌人在以你为目标进行攻击时必须标记1压力点。",
+  "stage": 5,
   "context": "## **压倒性光环 9级 辉煌法术 回想费用: 2**\n\n进行一次**施法掷骰 (15)**，以魔法增强你的光环。成功时，**花费 2 点希望**，直到你下次长休，你的风度值等于你的施法属性值。\n\n当此法术激活时，敌方在以你为目标进行攻击时必须标记一点压力。"
  },
  {
   "id": 669702550,
   "key": "SECTION_2119",
   "original": "## **SALVATION BEAM Level 9 Splendor Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (16)**. On a success, **mark any number of Stress** to target a line of allies within Far range. You can clear Hit Points on the targets equal to the number of Stress marked, divided among them however you'd like.",
-  "translation": "## **救赎光束 9级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。成功时，**标记任意数量的压力点**，为站在一条长度为远距离的光束下的所有友军恢复总量为标记压力数量的的生命点，按照你的意愿来任意分配这次治疗的治疗量",
-  "stage": 1,
+  "translation": "## **救赎光束 9级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。成功时，**标记任意数量的压力点**，为站在一条长度为远距离的光束下的所有盟友恢复总量为标记压力数量的生命点，按照你的意愿任意分配。",
+  "stage": 5,
   "context": "## **救赎之光 9级 辉煌法术 回想费用: 2**\n\n进行一次**施法掷骰 (16)**。成功时，**标记任意数量的压力**，以远距离范围内的一条线上的盟友为目标。你可以清除目标身上等同于标记的压力点数的生命点，并按你喜欢的方式分配给他们。"
  },
  {
@@ -1452,7 +1444,7 @@
   "key": "SECTION_2120",
   "original": "## **INVIGORATION Level 10 Splendor Spell Recall Cost: 3**\n\nWhen you or an ally within Close range has used a feature that has an exhaustion limit (such as once per rest or once per session), you can **spend any number of Hope** and roll that many **d6s**. If any roll a 6, the feature can be used again.",
   "translation": "## **壮举再现 10级 辉耀法术 回想费用: 3**\n\n当你或近距离范围内的盟友使用了具有疲劳限制（例如，每次休息一次或每场游戏一次）的特性时，你可以**花费任意数量的希望点**并掷出相同数量的 **d6**。如果任意一个骰子掷出 6，该特性可以再次使用。",
-  "stage": 1,
+  "stage": 5,
   "context": "## **振奋 10级 辉煌法术 回想费用: 3**\n\n当你或近距离范围内的盟友使用了具有疲劳限制（例如，每次休息一次或每场游戏一次）的特性时，你可以**花费任意数量的希望点**并掷出相同数量的 **d6**。如果任意一个骰子掷出 6，该特性可以再次使用。"
  },
  {
@@ -1460,7 +1452,7 @@
   "key": "SECTION_2121",
   "original": "## **RESURRECTION Level 10 Splendor Spell Recall Cost: 2**\n\nMake a **Spellcast Roll (20)**. On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a **d6**. On a result of 5 or lower, place this card in your vault permanently.\n\nOn a failure, you can't cast Resurrection again for a week.",
   "translation": "## **复活咒术 10级 辉耀法术 回想费用: 2**\n\n进行一次**施法掷骰 (20)**。成功时，使一个死亡时间不超过 100 年的生物恢复到完全状态。然后掷一个 **d6**。结果为 5 或更低时，将此牌永久放入你的宝库中。\n\n失败时，你在一周内不能再次施放复活咒术。",
-  "stage": 1,
+  "stage": 2,
   "context": "## **复活 10级 辉煌法术 回想费用: 2**\n\n进行一次**施法掷骰 (20)**。成功时，使一个死亡时间不超过 100 年的生物恢复到完全状态。然后掷一个 **d6**。结果为 5 或更低时，将此牌永久放入你的宝库中。\n\n失败时，你在一周内不能再次施放复活术。"
  },
  {
@@ -1499,7 +1491,7 @@
   "id": 669702557,
   "key": "SECTION_2126",
   "original": "## **Level 3 Valor Ability Recall Cost: 1**\n\nOnce per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope.",
-  "translation": "## **3级 勇气能力 回想费用: 1**\n\n每次休息期间，当你攻击获得关键成功时，邻近范围内的所有盟友可以移除 1 点压力或获得 1 点希望。",
+  "translation": "## **3级 勇气能力 回想费用: 1**\n\n每次休息期间，当你攻击获得关键成功时，邻近范围内的所有盟友可以清除 1 点压力或获得 1 点希望。",
   "stage": 1,
   "context": "## **3级 勇气能力 回想费用: 1**\n\n每次休息期间，当你攻击获得关键成功时，邻近范围内的所有盟友可以移除 1 点压力或获得 1 点希望。"
  },
@@ -1530,8 +1522,8 @@
  {
   "id": 669702561,
   "key": "SECTION_2130",
-  "original": "### **ARMORER Level 5 Valor Ability Recall Cost: 1**\n\nWhile you're wearing armor, gain a +1 bonus to your Armor Score.\n\nDuring a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot.",
-  "translation": "### **护甲大师 5级 勇气能力 回想费用: 1**\n\n当你穿着护甲时，你的护甲值获得 +1 加值。\n\n休息期间，当你选择修理你的护甲作为休息行动时，你的盟友也会移除一个护甲槽。",
+  "original": "### **ARMORER Level 5 Valor Ability Recall Cost: 1**\\n\\nWhile you're wearing armor, gain a +1 bonus to your Armor Score.\\n\\nDuring a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot.",
+  "translation": "### **护甲大师 5级 勇气能力 回想费用: 1**\\n\\n当你穿着护甲时，你的护甲值获得 +1 加值。\\n\\n休息期间，当你选择修理你的护甲作为休整行动时，你的盟友也会清除一个护甲槽。",
   "stage": 1,
   "context": "### **护甲师 5级 勇气能力 回想费用: 1**\n\n当你穿着护甲时，你的护甲值获得 +1 加成。\n\n休息期间，当你选择修理你的护甲作为休息行动时，你的盟友也会移除一个护甲槽。"
  },
@@ -1579,7 +1571,7 @@
   "id": 669702567,
   "key": "SECTION_2136",
   "original": "## **FULL SURGE Level 8 Valor Ability Recall Cost: 1**\n\nOnce per long rest, **mark 3 Stress** to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest.",
-  "translation": "## **全力全开 8级 勇气能力 回想费用: 1**\n\n每长休一次，**标记 3 压力点**来将你的身体发挥至极限。你的所有角色属性获得 +2 加成，直到你下次休息。",
+  "translation": "## **全力全开 8级 勇气能力 回想费用: 1**\n\n每长休一次，**标记 3 压力点**来将你的身体发挥至极限。你的所有角色属性获得 +2 加值，直到你下次休息。",
   "stage": 1,
   "context": "## **全面涌动 8级 勇气能力 回想费用: 1**\n\n每次长休一次，**标记 3 点压力**来将你的身体推至极限。你的所有角色属性获得 +2 加成，直到你下次休息。"
  },
@@ -2502,5 +2494,13 @@
   "translation": "",
   "stage": 0,
   "context": "## Z\n\n僵尸 [强壮的](#page-219-0) *219* [军团](#page-239-0) *239* [成群的](#page-219-0) *219* [拼凑憎恶](#page-219-0) *219* [完美体](#page-239-0) *239* [腐烂的](#page-219-0) *219* [蹒跚的](#page-219-0) *219*"
+ },
+ {
+  "id": 670258892,
+  "key": "SECTION_1994",
+  "original": "## **RAPID RIPOSTE Level 6 Bone Ability Recall Cost: 0**When an attack made against you from within Melee range fails, you can mark a Stress and seize  the opportunity to \\ndeal the weapon damage of one of your active weapons to the attacker.",
+  "translation": "## **迅速报复 6级骸骨能力 回想费用: 0**\\n\\n当一次来自近战范围内、针对你的攻击失败时，你可以**标记1压力点**并抓住机会，对攻击者造成你一件已装备武器的武器伤害。",
+  "stage": 0,
+  "context": "当一次来自近战范围内、针对你的攻击失败时，你可以**标记一点压力**并抓住机会，对攻击者造成你一件已装备武器的武器伤害。"
  }
 ]

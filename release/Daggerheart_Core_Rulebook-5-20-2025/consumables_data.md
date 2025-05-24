@@ -1,5 +1,5 @@
-##### Table CONSUMABLES_DATA
-| <div style="width:30px">roll</div> | <div style="width:100px">名称</div> | 效果 |
+
+| <div style="width:30px;text-align:center">roll</div> | <div style="width:100px;text-align:center">名称</div> | 效果 |
 |-------:|:---------------------|:-----------------------------------------------------------------------------------------------------------------------|
 |      1 | **神行药水**         | 下一次敏捷掷骰+1                                                                                                       |
 |      2 | **强力药水**         | 下一次力量掷骰+1                                                                                                       |

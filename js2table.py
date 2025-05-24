@@ -6,11 +6,11 @@ import os
 
 fixed_widths = {
     "名称": 100,
-    "检定": 40,
-    "属性": 40,
+    "检定": 35,
+    "属性": 35,
     "范围": 50,
     "伤害": 40,
-    "负荷": 40,
+    "负荷": 35,
     "护甲值": 40,
     "阈值": 100,
     "roll": 30   
@@ -146,7 +146,7 @@ def to_markdown_table(data_list, table_name):
     # Reconstruct the table
     modified_markdown_table = "\n".join(lines)
     
-    final_table = f"##### Table {table_name}\n"
+    final_table = f"\n"
     final_table += modified_markdown_table
     final_table += "\n"
     
@@ -179,10 +179,12 @@ def js_to_markdown_tables(js_file_path):
     return "\n\n".join(all_markdown_tables)
 
 if __name__ == "__main__":
+    base = r"D:\Game\Daggerheart\人物卡\DaggerHeart_Character\character_creator\data\\"
+    # base = r"E:\zac_personal\DaggerHeart_Character\character_creator\data\"
     filepath = [
-        r"E:\zac_personal\DaggerHeart_Character\character_creator\data\equipment_data.js",
-        r"E:\zac_personal\DaggerHeart_Character\character_creator\data\consumables_data.js",
-        r"E:\zac_personal\DaggerHeart_Character\character_creator\data\items_data.js"
+        base+"equipment_data.js",
+        base+"consumables_data.js",
+        base+"items_data.js"
     ]
 
     output_path = r"release/Daggerheart_Core_Rulebook-5-20-2025"
